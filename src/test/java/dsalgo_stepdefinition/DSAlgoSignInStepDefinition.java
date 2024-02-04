@@ -1,5 +1,6 @@
 package dsalgo_stepdefinition;
 
+import java.io.IOException;
 import java.time.Duration;
 
 import org.openqa.selenium.JavascriptExecutor;
@@ -56,7 +57,8 @@ public class DSAlgoSignInStepDefinition {
 	}
 
 	@When("The user clicks {string} button after entering ValidUsername and ValidPassword in username and password fields")
-	public void the_user_clicks_button_after_entering_in_username_and_password_fields(String string) {
+	public void the_user_clicks_button_after_entering_in_username_and_password_fields(String string) throws IOException {
+		testData.loginCred();
 		register.username.sendKeys(DsalgoVariables.username);
 		register.password.sendKeys(DsalgoVariables.password);
 		register.submit_btn.click();

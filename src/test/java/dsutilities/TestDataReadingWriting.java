@@ -15,6 +15,21 @@ import dsalgo_webdriver_manager.DriverManager;
 
 public class TestDataReadingWriting {
 	
+	public void loginCred() throws IOException {
+		DsalgoVariables.path="/Users/anushakarthick/NumpyNinja/dsalgo/src/test/resources/TestData/dsAlgoTestData.xlsx";
+		File excel=new File(DsalgoVariables.path);
+		FileInputStream fis=new FileInputStream(excel);
+		XSSFWorkbook work=new XSSFWorkbook(fis);
+		XSSFSheet sht=work.getSheet("Login");
+		Cell c1 = sht.getRow(1).getCell(0);
+		DsalgoVariables.username=c1.getStringCellValue();
+		LoggerLoad.info(DsalgoVariables.username);
+		Cell c2=sht.getRow(1).getCell(1);
+		DsalgoVariables.password=c2.getStringCellValue();
+		LoggerLoad.info(DsalgoVariables.password);
+		
+	}
+	
 	
 	public void usingExcelSheetForTestData() {
 		Actions action =new Actions(DriverManager.getDriver());

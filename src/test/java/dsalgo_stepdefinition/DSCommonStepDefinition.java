@@ -1,5 +1,6 @@
 package dsalgo_stepdefinition;
 
+import java.io.IOException;
 import java.time.Duration;
 import org.openqa.selenium.Alert;
 import org.openqa.selenium.JavascriptExecutor;
@@ -13,6 +14,7 @@ import dsalgoPOM.ArrayPage;
 import dsalgoPOM.CommonPOM;
 import dsalgoPOM.Datastructures;
 import dsalgoPOM.HomePage;
+import dsalgoPOM.RegisterationLoginPage;
 import dsalgoPOM.TreePage;
 import dsalgo_webdriver_manager.DriverManager;
 import dsutilities.CommonUtilMethods;
@@ -32,6 +34,7 @@ public class DSCommonStepDefinition {
 	CommonPOM commonPg=new CommonPOM();
 	Datastructures dsPg=new Datastructures();
 	ArrayPage arrayPg=new ArrayPage();
+	RegisterationLoginPage register=new RegisterationLoginPage();
 	TestDataReadingWriting testData=new TestDataReadingWriting();
 	CommonUtilMethods commonUtil=new CommonUtilMethods();
 	JavascriptExecutor js = (JavascriptExecutor) DriverManager.getDriver();
@@ -40,12 +43,13 @@ public class DSCommonStepDefinition {
 	
 
 @Given("The user is in the Home page after logged in")
-public void the_user_is_in_the_home_page_after_logged_in() {
+public void the_user_is_in_the_home_page_after_logged_in() throws IOException {
 	LoggerLoad.info("The user is in the Home page after logged in");
 	wait.until(ExpectedConditions.visibilityOf(hp.getSignin_link()));
-   
 	commonUtil.Login();
+	wait.until(ExpectedConditions.visibilityOf(hp.getSignout_link()));
 }
+
 
 
 
