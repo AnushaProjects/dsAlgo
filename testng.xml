@@ -7,12 +7,6 @@
 			</class>
 		</classes>
 	</test>
-	<!--<test name="Dsalgo">
-		<classes >
-			<class name="testrunner.TestRunner2">
-				
-			</class>
-		</classes>
-	</test>-->
+	
 </suite>
 
