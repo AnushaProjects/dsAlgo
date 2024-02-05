@@ -53,7 +53,7 @@ public class DSCommonStepDefinition {
 @Given("The user is in the Home page after logged in")
 public void the_user_is_in_the_home_page_after_logged_in() throws IOException {
 	LoggerLoad.info("The user is in the Home page after logged in");
-	wait.until(ExpectedConditions.visibilityOf(hp.getSignin_link()));
+	//wait.until(ExpectedConditions.visibilityOf(hp.getSignin_link()));
 	commonUtil.Login();
 	wait.until(ExpectedConditions.visibilityOf(hp.getSignout_link()));
 }
