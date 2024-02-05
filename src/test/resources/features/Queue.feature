@@ -1,13 +1,13 @@
-@Array
-Feature: Array
+@Queue
+Feature: Queue
 
-  @ArrayFlow1
-  Scenario: Array Flow - Arrays in Python
+  @QueueFlow1
+  Scenario: Queue Flow - Implementation of Queue in Python
     Given The user is in the Home page after logged in
-    When The user clicks on Array Get Started button
-    Then The user should be directed to "Array" Page
-    When The user clicks "Arrays in Python" link
-    Then The user should be directed to "Arrays in Python" Page
+    When The user clicks on Queue Get Started button
+    Then The user should be directed to "Queue" Page
+    When The user clicks "Implementation of Queue in Python" link
+    Then The user should be directed to "Implementation of Queue in Python" Page
     When The user clicks "Try Here" button
     Then The user should be redirected to a page having an tryEditor with a Run button to test
     When The user enters Wrong Python code in the tryEditor and clicks on Run button
@@ -15,13 +15,13 @@ Feature: Array
     When The user enters Valid Python code in the tryEditor and clicks on Run button
     Then The Output displays in Console
 
-  @ArrayFlow2
-  Scenario: Array Flow - Arrays Using List
+  @QueueFlow2
+  Scenario: Queue Flow - Implementation using collections.deque
     Given The user is in the Home page after logged in
-    When The user clicks on Array Get Started button
-    Then The user should be directed to "Array" Page
-    When The user clicks "Arrays Using List" link
-    Then The user should be directed to "Arrays Using List" Page
+    When The user clicks on Queue Get Started button
+    Then The user should be directed to "Queue" Page
+    When The user clicks "Implementation using collections.deque" link
+    Then The user should be directed to "Implementation using collections.deque" Page
     When The user clicks "Try Here" button
     Then The user should be redirected to a page having an tryEditor with a Run button to test
     When The user enters Wrong Python code in the tryEditor and clicks on Run button
@@ -29,13 +29,13 @@ Feature: Array
     When The user enters Valid Python code in the tryEditor and clicks on Run button
     Then The Output displays in Console
 
-  @ArrayFlow3
-  Scenario: Array Flow - Basic Operations in Lists
+  @QueueFlow3
+  Scenario: Queue Flow - Implementation using array
     Given The user is in the Home page after logged in
-    When The user clicks on Array Get Started button
-    Then The user should be directed to "Array" Page
-    When The user clicks "Basic Operations in Lists" link
-    Then The user should be directed to "Basic Operations in Lists" Page
+    When The user clicks on Queue Get Started button
+    Then The user should be directed to "Queue" Page
+    When The user clicks "Implementation using array" link
+    Then The user should be directed to "Implementation using array" Page
     When The user clicks "Try Here" button
     Then The user should be redirected to a page having an tryEditor with a Run button to test
     When The user enters Wrong Python code in the tryEditor and clicks on Run button
@@ -43,13 +43,13 @@ Feature: Array
     When The user enters Valid Python code in the tryEditor and clicks on Run button
     Then The Output displays in Console
 
-  @ArrayFlow4
-  Scenario: Array Flow - Applications of Array
+  @QueueFlow4
+  Scenario: Queue Flow - Queue Operations
     Given The user is in the Home page after logged in
-    When The user clicks on Array Get Started button
-    Then The user should be directed to "Array" Page
-    When The user clicks "Applications of Array" link
-    Then The user should be directed to "Applications of Array" Page
+    When The user clicks on Queue Get Started button
+    Then The user should be directed to "Queue" Page
+    When The user clicks "Queue Operations" link
+    Then The user should be directed to "Queue Operations" Page
     When The user clicks "Try Here" button
     Then The user should be redirected to a page having an tryEditor with a Run button to test
     When The user enters Wrong Python code in the tryEditor and clicks on Run button
@@ -57,15 +57,12 @@ Feature: Array
     When The user enters Valid Python code in the tryEditor and clicks on Run button
     Then The Output displays in Console
 
-  @ArrayFlow5
-  Scenario: Array Flow - Array Practice
+  @QueueFlow5
+  Scenario: Queue Flow - Queue Practice
     Given The user is in the Home page after logged in
-    When The user clicks on Array Get Started button
-    Then The user should be directed to "Array" Page
-    When The user clicks "Applications of Array" link
-    Then The user should be directed to "Applications of Array" Page
-    When The user clicks Array Practice Questions link
+    When The user clicks on Queue Get Started button
+    Then The user should be directed to "Queue" Page
+    When The user clicks "Queue Operations" link
+    Then The user should be directed to "Queue Operations" Page
+    When The user clicks Queue Practice Questions link
     Then The user should be redirected to "Practice" page
-    When The could see the number of links to practice
-    When The User clicks on each links to Practice the code in tryEditor with a Submit button to test
-    

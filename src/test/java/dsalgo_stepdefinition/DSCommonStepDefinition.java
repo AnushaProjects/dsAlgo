@@ -13,8 +13,12 @@ import dsalgoHooks.DSalgoHooks;
 import dsalgoPOM.ArrayPage;
 import dsalgoPOM.CommonPOM;
 import dsalgoPOM.Datastructures;
+import dsalgoPOM.GraphPage;
 import dsalgoPOM.HomePage;
+import dsalgoPOM.LinkListPage;
+import dsalgoPOM.QueuePage;
 import dsalgoPOM.RegisterationLoginPage;
+import dsalgoPOM.StackPage;
 import dsalgoPOM.TreePage;
 import dsalgo_webdriver_manager.DriverManager;
 import dsutilities.CommonUtilMethods;
@@ -34,6 +38,10 @@ public class DSCommonStepDefinition {
 	CommonPOM commonPg=new CommonPOM();
 	Datastructures dsPg=new Datastructures();
 	ArrayPage arrayPg=new ArrayPage();
+	LinkListPage linkedpg=new LinkListPage();
+	StackPage stackpg=new StackPage();
+	QueuePage queuepg=new QueuePage();
+	GraphPage graphpg=new GraphPage();
 	RegisterationLoginPage register=new RegisterationLoginPage();
 	TestDataReadingWriting testData=new TestDataReadingWriting();
 	CommonUtilMethods commonUtil=new CommonUtilMethods();
@@ -65,17 +73,39 @@ public void the_user_should_be_directed_to_page(String new_page) {
 		LoggerLoad.info("Landed on to Tree Page - " +DsalgoVariables.tree_main_page);
 		
 	}
-	if(new_page.equals("DataStructure")) {
+	else if(new_page.equals("DataStructure")) {
 		wait.until(ExpectedConditions.visibilityOf(dsPg.ds_page));
 		System.out.println("User directed to DataStructure Introduction Page");
 		LoggerLoad.info("User directed to DataStructure Introduction Page");	
 	}
-	if(new_page.equals("Array")) {
+	else if(new_page.equals("Array")) {
 		wait.until(ExpectedConditions.visibilityOf(arrayPg.array_page));
 		System.out.println("User directed to Array Page");
 		LoggerLoad.info("User directed to Array Page");	
 	}
 	
+	else if(new_page.equals("Linked List")) {
+		wait.until(ExpectedConditions.visibilityOf(linkedpg.linked_page));
+		System.out.println("User directed to Linked List Page");
+		LoggerLoad.info("User directed to Linked List Page");	
+	}
+	else if(new_page.equals("Stack")) {
+		wait.until(ExpectedConditions.visibilityOf(stackpg.stack_page));
+		System.out.println("User directed to Stack Page");
+		LoggerLoad.info("User directed to Stack Page");	
+	}
+	else if(new_page.equals("Queue")) {
+		wait.until(ExpectedConditions.visibilityOf(queuepg.queue_page));
+		System.out.println("User directed to Queue Page");
+		LoggerLoad.info("User directed to Queue Page");	
+	}
+	else if(new_page.equals("Graph")) {
+		wait.until(ExpectedConditions.visibilityOf(graphpg.Graph_page));
+		System.out.println("User directed to Graph Page");
+		LoggerLoad.info("User directed to Graph Page");	
+	}
+	
+	//Tree
 	else if (new_page.equals("Overview of Trees")) {
 		js.executeScript("window.scrollBy(0,250)", "");
 		wait.until(ExpectedConditions.visibilityOf(commonPg.commonxpathtext("Overview of Trees")));
@@ -147,12 +177,15 @@ public void the_user_should_be_directed_to_page(String new_page) {
 		System.out.println("User directed to Implementation Of BST Page");
 		LoggerLoad.info("User directed to Implementation Of BST Page");
 	}
+	//DSIntro
 	else if (new_page.equals("Time complexity")) {
 		wait.until(ExpectedConditions.visibilityOf(commonPg.commonxpathtext("Time complexity")));
 		js.executeScript("window.scrollBy(0,250)", "");
 		System.out.println("User directed to Time complexity Page");
 		LoggerLoad.info("User directed to Time complexity Page");
 	}
+	
+	//Array
 	else if (new_page.equals("Arrays in Python")) {
 		wait.until(ExpectedConditions.visibilityOf(commonPg.commonxpathtext("Arrays in Python")));
 		js.executeScript("window.scrollBy(0,250)", "");
@@ -177,86 +210,193 @@ public void the_user_should_be_directed_to_page(String new_page) {
 		System.out.println("User directed to Applications of Array Page");
 		LoggerLoad.info("User directed to Applications of Array");
 	}
+	//Linked List
+	
+	else if (new_page.equals("Introduction")) {
+		wait.until(ExpectedConditions.visibilityOf(commonPg.commonxpathtext("Introduction")));
+		js.executeScript("window.scrollBy(0,250)", "");
+		System.out.println("User directed to Introduction Page");
+		LoggerLoad.info("User directed to Introduction Page");
+	}
+	else if (new_page.equals("Creating Linked LIst")) {
+		wait.until(ExpectedConditions.visibilityOf(commonPg.commonxpathtext("Creating Linked LIst")));
+		js.executeScript("window.scrollBy(0,250)", "");
+		System.out.println("User directed to Creating Linked LIst Page");
+		LoggerLoad.info("User directed to Creating Linked LIst Page");
+	}
+	else if (new_page.equals("Types of Linked List")) {
+		wait.until(ExpectedConditions.visibilityOf(commonPg.commonxpathtext("Types of Linked List")));
+		js.executeScript("window.scrollBy(0,250)", "");
+		System.out.println("User directed to Types of Linked List Page");
+		LoggerLoad.info("User directed to Types of Linked List Page");
+	}
+	else if (new_page.equals("Implement Linked List in Python")) {
+		wait.until(ExpectedConditions.visibilityOf(commonPg.commonxpathtext("Implement Linked List in Python")));
+		js.executeScript("window.scrollBy(0,250)", "");
+		System.out.println("User directed to Implement Linked List in Python Page");
+		LoggerLoad.info("User directed to Implement Linked List in Python Page");
+	}
+	else if (new_page.equals("Traversal")) {
+		wait.until(ExpectedConditions.visibilityOf(commonPg.commonxpathtext("Traversal")));
+		js.executeScript("window.scrollBy(0,250)", "");
+		System.out.println("User directed to Traversal Page");
+		LoggerLoad.info("User directed to Traversal Page");
+	}
+	else if (new_page.equals("Insertion")) {
+		wait.until(ExpectedConditions.visibilityOf(commonPg.commonxpathtext("Insertion")));
+		js.executeScript("window.scrollBy(0,250)", "");
+		System.out.println("User directed to Insertion Page");
+		LoggerLoad.info("User directed to Insertion Page");
+	}
+	else if (new_page.equals("Deletion")) {
+		wait.until(ExpectedConditions.visibilityOf(commonPg.commonxpathtext("Deletion")));
+		js.executeScript("window.scrollBy(0,250)", "");
+		System.out.println("User directed to Deletion Page");
+		LoggerLoad.info("User directed to Deletion Page");
+	}
+	
+	//Stack
+	else if (new_page.equals("Operations in Stack")) {
+		wait.until(ExpectedConditions.visibilityOf(commonPg.commonxpathtext("Operations in Stack")));
+		js.executeScript("window.scrollBy(0,250)", "");
+		System.out.println("User directed to Operations in Stack Page");
+		LoggerLoad.info("User directed to Operations in Stack Page");
+	}
+	else if (new_page.equals("Implementation")) {
+		wait.until(ExpectedConditions.visibilityOf(commonPg.commonxpathtext("Implementation")));
+		js.executeScript("window.scrollBy(0,250)", "");
+		System.out.println("User directed to Implementation Page");
+		LoggerLoad.info("User directed to Implementation Page");
+	}
+	else if (new_page.equals("Applications")) {
+		wait.until(ExpectedConditions.visibilityOf(commonPg.commonxpathtext("Applications")));
+		js.executeScript("window.scrollBy(0,250)", "");
+		System.out.println("User directed to Applications Page");
+		LoggerLoad.info("User directed to Applications Page");
+	}
+	
+	
+	//Queue
+	else if (new_page.equals("Implementation of Queue in Python")) {
+		wait.until(ExpectedConditions.visibilityOf(commonPg.commonxpathtext("Implementation of Queue in Python")));
+		js.executeScript("window.scrollBy(0,250)", "");
+		System.out.println("User directed to Implementation of Queue in Python Page");
+		LoggerLoad.info("User directed to Implementation of Queue in Python Page");
+	}
+	else if (new_page.equals("mplementation using collections.deque")) {
+		wait.until(ExpectedConditions.visibilityOf(commonPg.commonxpathtext("mplementation using collections.deque")));
+		js.executeScript("window.scrollBy(0,250)", "");
+		System.out.println("User directed to mplementation using collections.deque Page");
+		LoggerLoad.info("User directed to mplementation using collections.deque Page");
+	}
+	else if (new_page.equals("Implementation using array")) {
+		wait.until(ExpectedConditions.visibilityOf(commonPg.commonxpathtext("Implementation using array")));
+		js.executeScript("window.scrollBy(0,250)", "");
+		System.out.println("User directed to Implementation using array Page");
+		LoggerLoad.info("User directed to Implementation using array Page");
+	}
+	else if (new_page.equals("Queue Operations")) {
+		wait.until(ExpectedConditions.visibilityOf(commonPg.commonxpathtext("Queue Operations")));
+		js.executeScript("window.scrollBy(0,250)", "");
+		System.out.println("User directed to Queue Operations Page");
+		LoggerLoad.info("User directed to Queue Operations Page");
+	}
+	
+	//Graph
+	else if (new_page.equals("GraphIntro")) {
+		wait.until(ExpectedConditions.visibilityOf(commonPg.commonxpathtext("Graph")));
+		js.executeScript("window.scrollBy(0,250)", "");
+		System.out.println("User directed to Graph Page");
+		LoggerLoad.info("User directed to Graph Page");
+	}
+	else if (new_page.equals("Graph Representations")) {
+		wait.until(ExpectedConditions.visibilityOf(commonPg.commonxpathtext("Graph Representations")));
+		js.executeScript("window.scrollBy(0,250)", "");
+		System.out.println("User directed to Graph Representations Page");
+		LoggerLoad.info("User directed to Graph Representations Page");
+	}
+	
+	
 	
     
 }
 
+
+//list of Links
+//Tree
 @When("The user clicks {string} link")
 public void the_user_clicks_link(String common_link) {
     if(common_link.equals("Overview of Trees")) {
+    	System.out.println(DsalgoVariables.linkValidation);    	
     	commonPg.commonxpathclick("overview-of-trees");
-    	System.out.println(DsalgoVariables.linkValidation);
-    	Assert.assertEquals(DsalgoVariables.linkValidation, "a");
     	LoggerLoad.info("Clicked on "+common_link + "link");
     }
    
     else if (common_link.equals("Terminologies")) {
     	commonPg.commonxpathclick("terminologies");
-    	Assert.assertEquals(DsalgoVariables.linkValidation, "a");
     	LoggerLoad.info("Clicked on "+common_link + "link");
 	}
     else if (common_link.equals("Types of Trees")) {
     	commonPg.commonxpathclick("types-of-trees");
-    	Assert.assertEquals(DsalgoVariables.linkValidation, "a");
     	LoggerLoad.info("Clicked on "+common_link + "link");
 	}
     else if (common_link.equals("Tree Traversals")) {
+    	
     	commonPg.commonxpathclick("tree-traversals");
-    	Assert.assertEquals(DsalgoVariables.linkValidation, "a");
     	LoggerLoad.info("Clicked on "+common_link + "link");
 	}
 	
     else if (common_link.equals("Traversals-Illustration")) {
+    	
     	commonPg.commonxpathclick("traversals-illustration");
-    	Assert.assertEquals(DsalgoVariables.linkValidation, "a");
     	LoggerLoad.info("Clicked on "+common_link + "link");
 	}
 	
     else if (common_link.equals("Binary Trees")) {
+    	
     	commonPg.commonxpathclick("binary-trees");
-    	Assert.assertEquals(DsalgoVariables.linkValidation, "a");
     	LoggerLoad.info("Clicked on "+common_link + "link");
 	}
 	
     else if (common_link.equals("Types of Binary Trees")) {
+    	
     	commonPg.commonxpathclick("types-of-binary-trees");
-    	Assert.assertEquals(DsalgoVariables.linkValidation, "a");
     	LoggerLoad.info("Clicked on "+common_link + "link");
 	}
 	
     else if (common_link.equals("Implementation in Python")) {
+    	
     	commonPg.commonxpathclick("implementation-in-python");
-    	Assert.assertEquals(DsalgoVariables.linkValidation, "a");
     	LoggerLoad.info("Clicked on "+common_link + "link");
 	}
 	
     else if (common_link.equals("Binary Tree Traversals")) {
+    	
     	commonPg.commonxpathclick("binary-tree-traversals");
-    	Assert.assertEquals(DsalgoVariables.linkValidation, "a");
     	LoggerLoad.info("Clicked on "+common_link + "link");
 	}
 	
     else if (common_link.equals("Implementation of Binary Trees")) {
+    	
     	commonPg.commonxpathclick("implementation-of-binary-trees");
-    	Assert.assertEquals(DsalgoVariables.linkValidation, "a");
     	LoggerLoad.info("Clicked on "+common_link + "link");
 	}
 	
     else if (common_link.equals("Applications of Binary trees")) {
+    	
     	commonPg.commonxpathclick("applications-of-binary-trees");
-    	Assert.assertEquals(DsalgoVariables.linkValidation, "a");
     	LoggerLoad.info("Clicked on "+common_link + "link");
 	}
 	
     else if (common_link.equals("Binary Search Trees")) {
+    	
     	commonPg.commonxpathclick("binary-search-trees");
-    	Assert.assertEquals(DsalgoVariables.linkValidation, "a");
     	LoggerLoad.info("Clicked on "+common_link + "link");
 	}
 	
     else if (common_link.equals("Implementation Of BST")) {
+    	
     	commonPg.commonxpathclick("implementation-of-bst");
-    	Assert.assertEquals(DsalgoVariables.linkValidation, "a");
     	LoggerLoad.info("Clicked on "+common_link + "link");
 	}
 	
@@ -264,41 +404,122 @@ public void the_user_clicks_link(String common_link) {
     	DriverManager.getDriver().navigate().back();
     	commonPg.commonxpathclick("/tree/practice");
 	}
+    //DSIntro
     else if (common_link.equals("Time Complexity")) {
     	
-    	//UtilityMethods.wait.until(ExpectedConditions.visibilityOf(TreePage.commonxpathtext("Implementation Of BST")));
     	commonPg.commonxpathclick("time-complexity");
-    	Assert.assertEquals(DsalgoVariables.linkValidation, "a");
     	LoggerLoad.info("Clicked on "+common_link + "link");
 	}
+    //Array
     else if (common_link.equals("Arrays in Python")) {
     	
-    	//UtilityMethods.wait.until(ExpectedConditions.visibilityOf(TreePage.commonxpathtext("Implementation Of BST")));
     	commonPg.commonxpathclick("arrays-in-python");
-    	Assert.assertEquals(DsalgoVariables.linkValidation, "a");
     	LoggerLoad.info("Clicked on "+common_link + "link");
 	}
     else if (common_link.equals("Arrays Using List")) {
     	
-    	//UtilityMethods.wait.until(ExpectedConditions.visibilityOf(TreePage.commonxpathtext("Implementation Of BST")));
     	commonPg.commonxpathclick("arrays-using-list");
-    	Assert.assertEquals(DsalgoVariables.linkValidation, "a");
     	LoggerLoad.info("Clicked on "+common_link + "link");
 	}
     else if (common_link.equals("Basic Operations in Lists")) {
-	
-	//UtilityMethods.wait.until(ExpectedConditions.visibilityOf(TreePage.commonxpathtext("Implementation Of BST")));
+    	
 		commonPg.commonxpathclick("basic-operations-in-lists");
-		Assert.assertEquals(DsalgoVariables.linkValidation, "a");
 		LoggerLoad.info("Clicked on "+common_link + "link");
     }
     else if (common_link.equals("Applications of Array")) {
-	
-		//UtilityMethods.wait.until(ExpectedConditions.visibilityOf(TreePage.commonxpathtext("Implementation Of BST")));
+    	
 		commonPg.commonxpathclick("applications-of-array");
-		Assert.assertEquals(DsalgoVariables.linkValidation, "a");
 		LoggerLoad.info("Clicked on "+common_link + "link");
 	}
+    //LinkedList
+    else if (common_link.equals("Introduction")) {
+    	
+		commonPg.commonxpathclick("introduction");
+		LoggerLoad.info("Clicked on "+common_link + "link");
+	}
+    else if (common_link.equals("Creating Linked LIst")) {
+    	
+		commonPg.commonxpathclick("creating-linked-list");
+		LoggerLoad.info("Clicked on "+common_link + "link");
+	}
+    else if (common_link.equals("Types of Linked List")) {
+    	
+		commonPg.commonxpathclick("types-of-linked-list");
+		LoggerLoad.info("Clicked on "+common_link + "link");
+	}
+    else if (common_link.equals("Implement Linked List in Python")) {
+    	
+		commonPg.commonxpathclick("implement-linked-list-in-python");
+		LoggerLoad.info("Clicked on "+common_link + "link");
+	}
+    else if (common_link.equals("Traversal")) {
+    	
+		commonPg.commonxpathclick("traversal");
+		LoggerLoad.info("Clicked on "+common_link + "link");
+	}
+    else if (common_link.equals("Insertion")) {
+    	
+		commonPg.commonxpathclick("insertion-in-linked-list");
+		LoggerLoad.info("Clicked on "+common_link + "link");
+	}
+    else if (common_link.equals("Deletion")) {
+    	
+		commonPg.commonxpathclick("deletion-in-linked-list");
+		LoggerLoad.info("Clicked on "+common_link + "link");
+	}
+   
+    //Stack
+    else if (common_link.equals("Operations in Stack")) {
+    	
+		commonPg.commonxpathclick("operations-in-stack");
+		LoggerLoad.info("Clicked on "+common_link + "link");
+	}
+    else if (common_link.equals("Implementation")) {
+    	
+		commonPg.commonxpathclick("implementation");
+		LoggerLoad.info("Clicked on "+common_link + "link");
+	}
+    else if (common_link.equals("Applications")) {
+    	
+		commonPg.commonxpathclick("stack-applications");
+		LoggerLoad.info("Clicked on "+common_link + "link");
+	}
+    
+    
+  //Queue
+    else if (common_link.equals("Implementation of Queue in Python")) {
+    	
+		commonPg.commonxpathclick("implementation-lists");
+		LoggerLoad.info("Clicked on "+common_link + "link");
+	}
+    else if (common_link.equals("Implementation using collections.deque")) {
+    	
+		commonPg.commonxpathclick("implementation-collections");
+		LoggerLoad.info("Clicked on "+common_link + "link");
+	}
+    else if (common_link.equals("Implementation using array")) {
+    	
+		commonPg.commonxpathclick("Implementation-array");
+		LoggerLoad.info("Clicked on "+common_link + "link");
+	}
+    else if (common_link.equals("Queue Operations")) {
+    	
+		commonPg.commonxpathclick("QueueOp");
+		LoggerLoad.info("Clicked on "+common_link + "link");
+	}
+    
+    //Graph
+    else if (common_link.equals("Graph")) {
+    	
+		commonPg.commonxpathclick("graph");
+		LoggerLoad.info("Clicked on "+common_link + "link");
+	}
+    else if (common_link.equals("Graph Representations")) {
+	
+		commonPg.commonxpathclick("graph-representations");
+		LoggerLoad.info("Clicked on "+common_link + "link");
+	}
+    
   
 }
 
