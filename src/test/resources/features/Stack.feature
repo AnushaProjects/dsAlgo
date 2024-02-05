@@ -14,6 +14,7 @@ Feature: Stack
     Then It throws an Alert
     When The user enters Valid Python code in the tryEditor and clicks on Run button
     Then The Output displays in Console
+    When The user clicks on the "Sign out"
 
   @StackFlow2
   Scenario: Stack Flow - Implementation
@@ -28,6 +29,7 @@ Feature: Stack
     Then It throws an Alert
     When The user enters Valid Python code in the tryEditor and clicks on Run button
     Then The Output displays in Console
+    When The user clicks on the "Sign out"
 
   @StackFlow3
   Scenario: Stack Flow - Applications
@@ -42,6 +44,7 @@ Feature: Stack
     Then It throws an Alert
     When The user enters Valid Python code in the tryEditor and clicks on Run button
     Then The Output displays in Console
+    When The user clicks on the "Sign out"
 
   @StackFlow4
   Scenario: Stack Flow - Applications Practice
@@ -52,3 +55,4 @@ Feature: Stack
     Then The user should be directed to "Applications" Page
     When The user clicks Stack Practice Questions link
     Then The user should be redirected to "Practice" page
+    When The user clicks on the "Sign out"

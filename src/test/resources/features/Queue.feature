@@ -14,6 +14,7 @@ Feature: Queue
     Then It throws an Alert
     When The user enters Valid Python code in the tryEditor and clicks on Run button
     Then The Output displays in Console
+    When The user clicks on the "Sign out"
 
   @QueueFlow2
   Scenario: Queue Flow - Implementation using collections.deque
@@ -28,6 +29,7 @@ Feature: Queue
     Then It throws an Alert
     When The user enters Valid Python code in the tryEditor and clicks on Run button
     Then The Output displays in Console
+    When The user clicks on the "Sign out"
 
   @QueueFlow3
   Scenario: Queue Flow - Implementation using array
@@ -42,6 +44,7 @@ Feature: Queue
     Then It throws an Alert
     When The user enters Valid Python code in the tryEditor and clicks on Run button
     Then The Output displays in Console
+    When The user clicks on the "Sign out"
 
   @QueueFlow4
   Scenario: Queue Flow - Queue Operations
@@ -56,6 +59,7 @@ Feature: Queue
     Then It throws an Alert
     When The user enters Valid Python code in the tryEditor and clicks on Run button
     Then The Output displays in Console
+    When The user clicks on the "Sign out"
 
   @QueueFlow5
   Scenario: Queue Flow - Queue Practice
@@ -66,3 +70,4 @@ Feature: Queue
     Then The user should be directed to "Queue Operations" Page
     When The user clicks Queue Practice Questions link
     Then The user should be redirected to "Practice" page
+    When The user clicks on the "Sign out"

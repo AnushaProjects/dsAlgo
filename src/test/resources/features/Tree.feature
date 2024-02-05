@@ -14,6 +14,7 @@ Feature: Tree
     Then It throws an Alert
     When The user enters Valid Python code in the tryEditor and clicks on Run button
     Then The Output displays in Console
+    When The user clicks on the "Sign out"
 
   
   @TreeFlow2
@@ -29,6 +30,7 @@ Feature: Tree
     Then It throws an Alert
     When The user enters Valid Python code in the tryEditor and clicks on Run button
     Then The Output displays in Console
+    When The user clicks on the "Sign out"
 
   @TreeFlow3
   Scenario: Tree Flow - Types of Trees
@@ -43,6 +45,7 @@ Feature: Tree
     Then It throws an Alert
     When The user enters Valid Python code in the tryEditor and clicks on Run button
     Then The Output displays in Console
+    When The user clicks on the "Sign out"
 
   
   @TreeFlow4
@@ -58,6 +61,7 @@ Feature: Tree
     Then It throws an Alert
     When The user enters Valid Python code in the tryEditor and clicks on Run button
     Then The Output displays in Console
+    When The user clicks on the "Sign out"
 
   
   @TreeFlow5
@@ -73,6 +77,7 @@ Feature: Tree
     Then It throws an Alert
     When The user enters Valid Python code in the tryEditor and clicks on Run button
     Then The Output displays in Console
+    When The user clicks on the "Sign out"
 
   @TreeFlow6
   Scenario: Tree Flow - Binary Trees
@@ -87,6 +92,7 @@ Feature: Tree
     Then It throws an Alert
     When The user enters Valid Python code in the tryEditor and clicks on Run button
     Then The Output displays in Console
+    When The user clicks on the "Sign out"
 
   @TreeFlow7
   Scenario: Tree Flow - Types of Binary Trees
@@ -101,6 +107,7 @@ Feature: Tree
     Then It throws an Alert
     When The user enters Valid Python code in the tryEditor and clicks on Run button
     Then The Output displays in Console
+    When The user clicks on the "Sign out"
 
   @TreeFlow8
   Scenario: Tree Flow - Implementation in Python
@@ -115,6 +122,7 @@ Feature: Tree
     Then It throws an Alert
     When The user enters Valid Python code in the tryEditor and clicks on Run button
     Then The Output displays in Console
+    When The user clicks on the "Sign out"
 
   @TreeFlow9
   Scenario: Tree Flow - Binary Tree Traversals
@@ -129,6 +137,7 @@ Feature: Tree
     Then It throws an Alert
     When The user enters Valid Python code in the tryEditor and clicks on Run button
     Then The Output displays in Console
+    When The user clicks on the "Sign out"
 
   @TreeFlow10
   Scenario: Tree Flow - Implementation of Binary Trees
@@ -143,6 +152,7 @@ Feature: Tree
     Then It throws an Alert
     When The user enters Valid Python code in the tryEditor and clicks on Run button
     Then The Output displays in Console
+    When The user clicks on the "Sign out"
 
   @TreeFlow11
   Scenario: Tree Flow - Applications of Binary trees
@@ -157,6 +167,7 @@ Feature: Tree
     Then It throws an Alert
     When The user enters Valid Python code in the tryEditor and clicks on Run button
     Then The Output displays in Console
+    When The user clicks on the "Sign out"
 
   @TreeFlow12
   Scenario: Tree Flow - Binary Search Trees
@@ -171,6 +182,7 @@ Feature: Tree
     Then It throws an Alert
     When The user enters Valid Python code in the tryEditor and clicks on Run button
     Then The Output displays in Console
+    When The user clicks on the "Sign out"
 
   
   @TreeFlow13
@@ -188,3 +200,4 @@ Feature: Tree
     Then The Output displays in Console
     When The user clicks "Practice Questions" link
     Then The user should be redirected to "Practice" page
+    When The user clicks on the "Sign out"

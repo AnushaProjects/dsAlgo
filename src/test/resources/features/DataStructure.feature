@@ -14,6 +14,7 @@ Feature: DataStructure
     Then It throws an Alert
     When The user enters Valid Python code in the tryEditor and clicks on Run button
     Then The Output displays in Console
+    When The user clicks on the "Sign out"
 
   @DSFlow2
   Scenario: DataStructure Flow - DS Practice
@@ -24,3 +25,4 @@ Feature: DataStructure
     Then The user should be directed to "Time Complexity" Page
     When The user clicks DS Practice Questions link
     Then The user should be redirected to "Practice" page
+    When The user clicks on the "Sign out"

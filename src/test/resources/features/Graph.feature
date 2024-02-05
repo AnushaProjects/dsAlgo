@@ -14,6 +14,7 @@ Feature: Graph
     Then It throws an Alert
     When The user enters Valid Python code in the tryEditor and clicks on Run button
     Then The Output displays in Console
+    When The user clicks on the "Sign out"
 
   @GraphFlow2
   Scenario: Graph Flow - Graph Representations
@@ -28,6 +29,7 @@ Feature: Graph
     Then It throws an Alert
     When The user enters Valid Python code in the tryEditor and clicks on Run button
     Then The Output displays in Console
+    When The user clicks on the "Sign out"
 
   @GraphFlow3
   Scenario: Graph Flow - Graph Practice
@@ -38,3 +40,4 @@ Feature: Graph
     Then The user should be directed to "Graph Representations" Page
     When The user clicks Graph Practice Questions link
     Then The user should be redirected to "Practice" page
+    When The user clicks on the "Sign out"

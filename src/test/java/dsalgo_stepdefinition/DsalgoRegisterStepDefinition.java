@@ -28,11 +28,19 @@ public void the_user_clicks(String link) {
 	if(link.equals("Register")) {
 		Assert.assertEquals(true,hp.getRegister_link().isDisplayed());
 		hp.getRegister_link().click();
+		LoggerLoad.info("User clicked on Register");
 	}
 	else if(link.equals("Sign in")) {
 		Assert.assertEquals(true,hp.getSignin_link().isDisplayed());
 		hp.getSignin_link().click();
+		LoggerLoad.info("User clicked on Sign in");
 	}
+	else if(link.equals("Sign out")) {
+		Assert.assertEquals(true,hp.getSignout_link().isDisplayed());
+		hp.getSignout_link().click();
+		LoggerLoad.info("User clicked on signout");
+	}
+	
 }
 
 @Then("The user should be redirected to Register form")

@@ -14,6 +14,7 @@ Feature: LinkedList
     Then It throws an Alert
     When The user enters Valid Python code in the tryEditor and clicks on Run button
     Then The Output displays in Console
+    When The user clicks on the "Sign out"
 
   @LinkedListFlow2
   Scenario: LinkedList Flow - Creating Linked LIst
@@ -28,6 +29,7 @@ Feature: LinkedList
     Then It throws an Alert
     When The user enters Valid Python code in the tryEditor and clicks on Run button
     Then The Output displays in Console
+    When The user clicks on the "Sign out"
 
   @LinkedListFlow3
   Scenario: LinkedList Flow - Types of Linked List
@@ -42,6 +44,7 @@ Feature: LinkedList
     Then It throws an Alert
     When The user enters Valid Python code in the tryEditor and clicks on Run button
     Then The Output displays in Console
+    When The user clicks on the "Sign out"
 
   @LinkedListFlow4
   Scenario: LinkedList Flow - Implement Linked List in Python
@@ -56,6 +59,7 @@ Feature: LinkedList
     Then It throws an Alert
     When The user enters Valid Python code in the tryEditor and clicks on Run button
     Then The Output displays in Console
+    When The user clicks on the "Sign out"
 
   @LinkedListFlow5
   Scenario: LinkedList Flow - Traversal
@@ -70,6 +74,7 @@ Feature: LinkedList
     Then It throws an Alert
     When The user enters Valid Python code in the tryEditor and clicks on Run button
     Then The Output displays in Console
+    When The user clicks on the "Sign out"
 
   @LinkedListFlow6
   Scenario: LinkedList Flow - Insertion
@@ -84,6 +89,7 @@ Feature: LinkedList
     Then It throws an Alert
     When The user enters Valid Python code in the tryEditor and clicks on Run button
     Then The Output displays in Console
+    When The user clicks on the "Sign out"
 
   @LinkedListFlow7
   Scenario: LinkedList Flow - Deletion
@@ -98,6 +104,7 @@ Feature: LinkedList
     Then It throws an Alert
     When The user enters Valid Python code in the tryEditor and clicks on Run button
     Then The Output displays in Console
+    When The user clicks on the "Sign out"
 
   @LinkedListFlow8
   Scenario: Array Flow - LinkedList Practice
@@ -108,3 +115,4 @@ Feature: LinkedList
     Then The user should be directed to "Deletion" Page
     When The user clicks LinkedList Practice Questions link
     Then The user should be redirected to "Practice" page
+    When The user clicks on the "Sign out"

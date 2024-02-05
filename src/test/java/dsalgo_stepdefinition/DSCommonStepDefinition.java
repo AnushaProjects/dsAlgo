@@ -53,7 +53,7 @@ public class DSCommonStepDefinition {
 @Given("The user is in the Home page after logged in")
 public void the_user_is_in_the_home_page_after_logged_in() throws IOException {
 	LoggerLoad.info("The user is in the Home page after logged in");
-	//wait.until(ExpectedConditions.visibilityOf(hp.getSignin_link()));
+	wait.until(ExpectedConditions.visibilityOf(hp.getSignin_link()));
 	commonUtil.Login();
 	wait.until(ExpectedConditions.visibilityOf(hp.getSignout_link()));
 }
@@ -597,6 +597,13 @@ public void the_user_should_be_redirected_to_page(String string) {
 	Assert.assertTrue(DsalgoVariables.practice_page.contains("practice"));
 	LoggerLoad.info("In Practice Question Page - "+DsalgoVariables.practice_page);
 
+}
+@When("The user clicks on the {string}")
+public void the_user_clicks_on_the(String link) {
+	DriverManager.getDriver().navigate().back();
+	Assert.assertEquals(true,hp.getSignout_link().isDisplayed());
+	hp.getSignout_link().click();
+	LoggerLoad.info("User clicked on signout");
 }
 
 

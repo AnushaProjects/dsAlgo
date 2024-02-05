@@ -11084,3 +11084,1309 @@
 564 is Number is Not Found
 564 is Number is Not Found
 564 is Number is Not Found
+[INFO ]2024-02-0510:30:51.306[TestNG-PoolService-3]dsutilities.LoggerLoad1)-Execution Started
+[INFO ]2024-02-0510:30:51.306[TestNG-PoolService-7]dsutilities.LoggerLoad1)-Execution Started
+[INFO ]2024-02-0510:30:51.306[TestNG-PoolService-6]dsutilities.LoggerLoad1)-Execution Started
+[INFO ]2024-02-0510:30:51.306[TestNG-PoolService-5]dsutilities.LoggerLoad1)-Execution Started
+[INFO ]2024-02-0510:30:51.306[TestNG-PoolService-9]dsutilities.LoggerLoad1)-Execution Started
+[INFO ]2024-02-0510:30:51.308[TestNG-PoolService-7]dsutilities.LoggerLoad1)-Loading the Property File
+[INFO ]2024-02-0510:30:51.306[TestNG-PoolService-4]dsutilities.LoggerLoad1)-Execution Started
+[INFO ]2024-02-0510:30:51.306[TestNG-PoolService-8]dsutilities.LoggerLoad1)-Execution Started
+[INFO ]2024-02-0510:30:51.306[TestNG-PoolService-2]dsutilities.LoggerLoad1)-Execution Started
+[INFO ]2024-02-0510:30:51.308[TestNG-PoolService-6]dsutilities.LoggerLoad1)-Loading the Property File
+[INFO ]2024-02-0510:30:51.306[TestNG-PoolService-1]dsutilities.LoggerLoad1)-Execution Started
+[INFO ]2024-02-0510:30:51.306[TestNG-PoolService-0]dsutilities.LoggerLoad1)-Execution Started
+[INFO ]2024-02-0510:30:51.308[TestNG-PoolService-5]dsutilities.LoggerLoad1)-Loading the Property File
+[INFO ]2024-02-0510:30:51.308[TestNG-PoolService-9]dsutilities.LoggerLoad1)-Loading the Property File
+[INFO ]2024-02-0510:30:51.308[TestNG-PoolService-3]dsutilities.LoggerLoad1)-Loading the Property File
+[INFO ]2024-02-0510:30:51.309[TestNG-PoolService-1]dsutilities.LoggerLoad1)-Loading the Property File
+[INFO ]2024-02-0510:30:51.309[TestNG-PoolService-8]dsutilities.LoggerLoad1)-Loading the Property File
+[INFO ]2024-02-0510:30:51.308[TestNG-PoolService-4]dsutilities.LoggerLoad1)-Loading the Property File
+[INFO ]2024-02-0510:30:51.309[TestNG-PoolService-2]dsutilities.LoggerLoad1)-Loading the Property File
+[INFO ]2024-02-0510:30:51.309[TestNG-PoolService-0]dsutilities.LoggerLoad1)-Loading the Property File
+[INFO ]2024-02-0510:30:51.309[TestNG-PoolService-2]dsutilities.LoggerLoad1)-Launching -chrome
+[INFO ]2024-02-0510:30:51.309[TestNG-PoolService-8]dsutilities.LoggerLoad1)-Launching -chrome
+[INFO ]2024-02-0510:30:51.309[TestNG-PoolService-9]dsutilities.LoggerLoad1)-Launching -chrome
+[INFO ]2024-02-0510:30:51.309[TestNG-PoolService-5]dsutilities.LoggerLoad1)-Launching -chrome
+[INFO ]2024-02-0510:30:51.309[TestNG-PoolService-3]dsutilities.LoggerLoad1)-Launching -chrome
+[INFO ]2024-02-0510:30:51.309[TestNG-PoolService-1]dsutilities.LoggerLoad1)-Launching -chrome
+[INFO ]2024-02-0510:30:51.309[TestNG-PoolService-7]dsutilities.LoggerLoad1)-Launching -chrome
+[INFO ]2024-02-0510:30:51.309[TestNG-PoolService-4]dsutilities.LoggerLoad1)-Launching -chrome
+[INFO ]2024-02-0510:30:51.309[TestNG-PoolService-0]dsutilities.LoggerLoad1)-Launching -chrome
+[INFO ]2024-02-0510:30:51.309[TestNG-PoolService-6]dsutilities.LoggerLoad1)-Launching -chrome
+[INFO ]2024-02-0510:31:11.684[TestNG-PoolService-1]dsutilities.LoggerLoad1)-The user is in the Home page after logged in
+[INFO ]2024-02-0510:31:12.467[TestNG-PoolService-8]dsutilities.LoggerLoad1)-The user is in the Home page after logged in
+[INFO ]2024-02-0510:31:12.960[TestNG-PoolService-3]dsutilities.LoggerLoad1)-The user is in the Home page after logged in
+[INFO ]2024-02-0510:31:12.981[TestNG-PoolService-0]dsutilities.LoggerLoad1)-The user is in the Home page after logged in
+[INFO ]2024-02-0510:31:13.062[TestNG-PoolService-4]dsutilities.LoggerLoad1)-The user is in the Home page after logged in
+[INFO ]2024-02-0510:31:13.335[TestNG-PoolService-9]dsutilities.LoggerLoad1)-The user is in the Home page after logged in
+[INFO ]2024-02-0510:31:13.337[TestNG-PoolService-2]dsutilities.LoggerLoad1)-The user is in the Home page after logged in
+[INFO ]2024-02-0510:31:15.080[TestNG-PoolService-5]dsutilities.LoggerLoad1)-Inside Home Page
+[INFO ]2024-02-0510:31:15.127[TestNG-PoolService-5]dsutilities.LoggerLoad1)-Inside HomePage
+[INFO ]2024-02-0510:31:17.128[TestNG-PoolService-8]dsutilities.LoggerLoad1)-Group1@dslgo
+[INFO ]2024-02-0510:31:17.129[TestNG-PoolService-8]dsutilities.LoggerLoad1)-dsalgo2024
+[INFO ]2024-02-0510:31:17.134[TestNG-PoolService-1]dsutilities.LoggerLoad1)-Group1@dslgo
+[INFO ]2024-02-0510:31:17.137[TestNG-PoolService-1]dsutilities.LoggerLoad1)-dsalgo2024
+[INFO ]2024-02-0510:31:17.217[TestNG-PoolService-7]dsutilities.LoggerLoad1)-Inside Login Page
+[INFO ]2024-02-0510:31:17.218[TestNG-PoolService-7]dsutilities.LoggerLoad1)-Inside register page
+[INFO ]2024-02-0510:31:17.921[TestNG-PoolService-4]dsutilities.LoggerLoad1)-Group1@dslgo
+[INFO ]2024-02-0510:31:17.922[TestNG-PoolService-4]dsutilities.LoggerLoad1)-dsalgo2024
+[INFO ]2024-02-0510:31:17.986[TestNG-PoolService-2]dsutilities.LoggerLoad1)-Group1@dslgo
+[INFO ]2024-02-0510:31:17.986[TestNG-PoolService-2]dsutilities.LoggerLoad1)-dsalgo2024
+[INFO ]2024-02-0510:31:18.637[TestNG-PoolService-9]dsutilities.LoggerLoad1)-Group1@dslgo
+[INFO ]2024-02-0510:31:18.638[TestNG-PoolService-9]dsutilities.LoggerLoad1)-dsalgo2024
+[INFO ]2024-02-0510:31:18.960[TestNG-PoolService-3]dsutilities.LoggerLoad1)-Group1@dslgo
+[INFO ]2024-02-0510:31:18.960[TestNG-PoolService-3]dsutilities.LoggerLoad1)-dsalgo2024
+[INFO ]2024-02-0510:31:18.983[TestNG-PoolService-0]dsutilities.LoggerLoad1)-Group1@dslgo
+[INFO ]2024-02-0510:31:18.983[TestNG-PoolService-0]dsutilities.LoggerLoad1)-dsalgo2024
+[INFO ]2024-02-0510:31:19.960[TestNG-PoolService-6]dsutilities.LoggerLoad1)-Inside register page
+[INFO ]2024-02-0510:31:22.230[TestNG-PoolService-7]dsutilities.LoggerLoad1)-Please fill out this field
+[INFO ]2024-02-0510:31:22.331[TestNG-PoolService-5]dsutilities.LoggerLoad1)-The alert message - You are not logged in
+[INFO ]2024-02-0510:31:22.720[TestNG-PoolService-1]dsutilities.LoggerLoad1)-Clicked the Array Page get started button
+[INFO ]2024-02-0510:31:22.912[TestNG-PoolService-8]dsutilities.LoggerLoad1)-Clicked the DSIntroduction get started button
+[INFO ]2024-02-0510:31:22.933[TestNG-PoolService-6]dsutilities.LoggerLoad1)-Entering the Username and Submiting
+[INFO ]2024-02-0510:31:23.157[TestNG-PoolService-1]dsutilities.LoggerLoad1)-User directed to Array Page
+[INFO ]2024-02-0510:31:23.200[TestNG-PoolService-2]dsutilities.LoggerLoad1)-Clicked the Array Page get started button
+[INFO ]2024-02-0510:31:23.294[TestNG-PoolService-8]dsutilities.LoggerLoad1)-User directed to DataStructure Introduction Page
+[INFO ]2024-02-0510:31:23.697[TestNG-PoolService-2]dsutilities.LoggerLoad1)-User directed to Array Page
+[INFO ]2024-02-0510:31:23.883[TestNG-PoolService-8]dsutilities.LoggerLoad1)-Clicked on Time Complexitylink
+[INFO ]2024-02-0510:31:24.061[TestNG-PoolService-5]dsutilities.LoggerLoad1)-The User selected random data
+[INFO ]2024-02-0510:31:24.101[TestNG-PoolService-5]dsutilities.LoggerLoad1)-The alert message - You are not logged in
+[INFO ]2024-02-0510:31:24.217[TestNG-PoolService-4]dsutilities.LoggerLoad1)-Clicked the Array Page get started button
+[INFO ]2024-02-0510:31:24.280[TestNG-PoolService-9]dsutilities.LoggerLoad1)-Clicked the DSIntroduction get started button
+[INFO ]2024-02-0510:31:24.456[TestNG-PoolService-9]dsutilities.LoggerLoad1)-User directed to DataStructure Introduction Page
+[INFO ]2024-02-0510:31:24.590[TestNG-PoolService-4]dsutilities.LoggerLoad1)-User directed to Array Page
+[INFO ]2024-02-0510:31:25.041[TestNG-PoolService-1]dsutilities.LoggerLoad1)-Clicked on Arrays Using Listlink
+[INFO ]2024-02-0510:31:25.090[TestNG-PoolService-1]dsutilities.LoggerLoad1)-User directed to Arrays Using List
+[INFO ]2024-02-0510:31:25.264[TestNG-PoolService-9]dsutilities.LoggerLoad1)-Clicked on Time Complexitylink
+[INFO ]2024-02-0510:31:25.537[TestNG-PoolService-6]dsutilities.LoggerLoad1)-Please fill out this field
+[INFO ]2024-02-0510:31:25.898[TestNG-PoolService-0]dsutilities.LoggerLoad1)-Clicked the Array Page get started button
+[INFO ]2024-02-0510:31:26.151[TestNG-PoolService-2]dsutilities.LoggerLoad1)-Clicked on Basic Operations in Listslink
+[INFO ]2024-02-0510:31:26.237[TestNG-PoolService-2]dsutilities.LoggerLoad1)-User directed to Basic Operations in Lists
+[INFO ]2024-02-0510:31:26.391[TestNG-PoolService-7]dsutilities.LoggerLoad1)-Invalid Username and Password
+[INFO ]2024-02-0510:31:26.391[TestNG-PoolService-0]dsutilities.LoggerLoad1)-User directed to Array Page
+[INFO ]2024-02-0510:31:26.416[TestNG-PoolService-7]dsutilities.LoggerLoad1)-Group1@dslgo
+[INFO ]2024-02-0510:31:26.417[TestNG-PoolService-7]dsutilities.LoggerLoad1)-dsalgo2024
+[INFO ]2024-02-0510:31:26.827[TestNG-PoolService-3]dsutilities.LoggerLoad1)-Clicked the Array Page get started button
+[INFO ]2024-02-0510:31:27.182[TestNG-PoolService-4]dsutilities.LoggerLoad1)-Clicked on Applications of Arraylink
+[INFO ]2024-02-0510:31:27.361[TestNG-PoolService-3]dsutilities.LoggerLoad1)-User directed to Array Page
+[INFO ]2024-02-0510:31:27.389[TestNG-PoolService-4]dsutilities.LoggerLoad1)-User directed to Applications of Array
+[INFO ]2024-02-0510:31:27.806[TestNG-PoolService-5]dsutilities.LoggerLoad1)-User redirected to Register form 
+[INFO ]2024-02-0510:31:27.895[TestNG-PoolService-7]dsutilities.LoggerLoad1)-Execution Started
+[INFO ]2024-02-0510:31:27.895[TestNG-PoolService-7]dsutilities.LoggerLoad1)-Loading the Property File
+[INFO ]2024-02-0510:31:27.895[TestNG-PoolService-7]dsutilities.LoggerLoad1)-Launching -chrome
+[INFO ]2024-02-0510:31:27.919[TestNG-PoolService-5]dsutilities.LoggerLoad1)-Execution Started
+[INFO ]2024-02-0510:31:27.920[TestNG-PoolService-5]dsutilities.LoggerLoad1)-Loading the Property File
+[INFO ]2024-02-0510:31:27.920[TestNG-PoolService-5]dsutilities.LoggerLoad1)-Launching -chrome
+[INFO ]2024-02-0510:31:27.971[TestNG-PoolService-4]dsutilities.LoggerLoad1)-Clicked the Array practice link
+[INFO ]2024-02-0510:31:27.982[TestNG-PoolService-4]dsutilities.LoggerLoad1)-In Practice Question Page - https://dsportalapp.herokuapp.com/array/practice
+[INFO ]2024-02-0510:31:28.124[TestNG-PoolService-0]dsutilities.LoggerLoad1)-Clicked on Arrays in Pythonlink
+[INFO ]2024-02-0510:31:28.164[TestNG-PoolService-0]dsutilities.LoggerLoad1)-User directed to Arrays in Python
+[INFO ]2024-02-0510:31:28.194[TestNG-PoolService-4]dsutilities.LoggerLoad1)-There are 4 Practice links : 
+[INFO ]2024-02-0510:31:28.360[TestNG-PoolService-3]dsutilities.LoggerLoad1)-Clicked on Applications of Arraylink
+[INFO ]2024-02-0510:31:28.441[TestNG-PoolService-3]dsutilities.LoggerLoad1)-User directed to Applications of Array
+[INFO ]2024-02-0510:31:28.632[TestNG-PoolService-9]dsutilities.LoggerLoad1)-Clicked the DS practice link
+[INFO ]2024-02-0510:31:28.663[TestNG-PoolService-9]dsutilities.LoggerLoad1)-In Practice Question Page - https://dsportalapp.herokuapp.com/data-structures-introduction/practice
+[INFO ]2024-02-0510:31:28.815[TestNG-PoolService-9]dsutilities.LoggerLoad1)-Execution Started
+[INFO ]2024-02-0510:31:28.815[TestNG-PoolService-9]dsutilities.LoggerLoad1)-Loading the Property File
+[INFO ]2024-02-0510:31:28.815[TestNG-PoolService-9]dsutilities.LoggerLoad1)-Launching -chrome
+[INFO ]2024-02-0510:31:29.947[TestNG-PoolService-8]dsutilities.LoggerLoad1)-tryEditor with a Run button is displayed
+[INFO ]2024-02-0510:31:30.102[TestNG-PoolService-8]dsutilities.LoggerLoad1)-User directed to TextEditor Page
+[INFO ]2024-02-0510:31:30.294[TestNG-PoolService-1]dsutilities.LoggerLoad1)-tryEditor with a Run button is displayed
+[INFO ]2024-02-0510:31:30.345[TestNG-PoolService-1]dsutilities.LoggerLoad1)-User directed to TextEditor Page
+[INFO ]2024-02-0510:31:30.897[TestNG-PoolService-2]dsutilities.LoggerLoad1)-tryEditor with a Run button is displayed
+[INFO ]2024-02-0510:31:30.992[TestNG-PoolService-2]dsutilities.LoggerLoad1)-User directed to TextEditor Page
+[INFO ]2024-02-0510:31:31.000[TestNG-PoolService-6]dsutilities.LoggerLoad1)-Please enter a valid username and Password
+[INFO ]2024-02-0510:31:31.758[TestNG-PoolService-6]dsutilities.LoggerLoad1)-password_mismatch:The two password fields didn’t match.
+[INFO ]2024-02-0510:31:34.297[TestNG-PoolService-6]dsutilities.LoggerLoad1)-Execution Started
+[INFO ]2024-02-0510:31:34.303[TestNG-PoolService-6]dsutilities.LoggerLoad1)-Loading the Property File
+[INFO ]2024-02-0510:31:34.303[TestNG-PoolService-6]dsutilities.LoggerLoad1)-Launching -chrome
+[INFO ]2024-02-0510:31:37.161[TestNG-PoolService-0]dsutilities.LoggerLoad1)-tryEditor with a Run button is displayed
+[INFO ]2024-02-0510:31:37.585[TestNG-PoolService-4]dsutilities.LoggerLoad1)-
+[INFO ]2024-02-0510:31:38.336[TestNG-PoolService-0]dsutilities.LoggerLoad1)-User directed to TextEditor Page
+[INFO ]2024-02-0510:31:40.596[TestNG-PoolService-3]dsutilities.LoggerLoad1)-tryEditor with a Run button is displayed
+[INFO ]2024-02-0510:31:40.676[TestNG-PoolService-3]dsutilities.LoggerLoad1)-User directed to TextEditor Page
+[INFO ]2024-02-0510:31:44.080[TestNG-PoolService-5]dsutilities.LoggerLoad1)-The user is in the Home page after logged in
+[INFO ]2024-02-0510:31:44.111[TestNG-PoolService-9]dsutilities.LoggerLoad1)-The user is in the Home page after logged in
+[INFO ]2024-02-0510:31:44.180[TestNG-PoolService-7]dsutilities.LoggerLoad1)-The user is in the Home page after logged in
+[INFO ]2024-02-0510:31:47.840[TestNG-PoolService-9]dsutilities.LoggerLoad1)-Group1@dslgo
+[INFO ]2024-02-0510:31:47.841[TestNG-PoolService-9]dsutilities.LoggerLoad1)-dsalgo2024
+[INFO ]2024-02-0510:31:47.844[TestNG-PoolService-5]dsutilities.LoggerLoad1)-Group1@dslgo
+[INFO ]2024-02-0510:31:47.844[TestNG-PoolService-5]dsutilities.LoggerLoad1)-dsalgo2024
+[INFO ]2024-02-0510:31:49.131[TestNG-PoolService-7]dsutilities.LoggerLoad1)-Group1@dslgo
+[INFO ]2024-02-0510:31:49.135[TestNG-PoolService-7]dsutilities.LoggerLoad1)-dsalgo2024
+[INFO ]2024-02-0510:31:52.013[TestNG-PoolService-5]dsutilities.LoggerLoad1)-Clicked the Graph Page get started button
+[INFO ]2024-02-0510:31:52.293[TestNG-PoolService-5]dsutilities.LoggerLoad1)-User directed to Graph Page
+[INFO ]2024-02-0510:31:53.118[TestNG-PoolService-9]dsutilities.LoggerLoad1)-Clicked the Graph Page get started button
+[INFO ]2024-02-0510:31:53.168[TestNG-PoolService-1]dsutilities.LoggerLoad1)-Python code is incorrect---Enter Correctly
+[INFO ]2024-02-0510:31:53.181[TestNG-PoolService-5]dsutilities.LoggerLoad1)-Clicked on Graph Representationslink
+[INFO ]2024-02-0510:31:53.372[TestNG-PoolService-5]dsutilities.LoggerLoad1)-User directed to Graph Representations Page
+[INFO ]2024-02-0510:31:53.472[TestNG-PoolService-8]dsutilities.LoggerLoad1)-Python code is incorrect---Enter Correctly
+[INFO ]2024-02-0510:31:53.564[TestNG-PoolService-9]dsutilities.LoggerLoad1)-User directed to Graph Page
+[INFO ]2024-02-0510:31:54.361[TestNG-PoolService-2]dsutilities.LoggerLoad1)-Python code is incorrect---Enter Correctly
+[INFO ]2024-02-0510:31:54.730[TestNG-PoolService-9]dsutilities.LoggerLoad1)-Clicked on Graph Representationslink
+[INFO ]2024-02-0510:31:54.897[TestNG-PoolService-7]dsutilities.LoggerLoad1)-Clicked the Graph Page get started button
+[INFO ]2024-02-0510:31:55.114[TestNG-PoolService-9]dsutilities.LoggerLoad1)-User directed to Graph Representations Page
+[INFO ]2024-02-0510:31:55.147[TestNG-PoolService-7]dsutilities.LoggerLoad1)-User directed to Graph Page
+[INFO ]2024-02-0510:31:55.502[TestNG-PoolService-9]dsutilities.LoggerLoad1)-Clicked the Graph practice link
+[INFO ]2024-02-0510:31:55.524[TestNG-PoolService-9]dsutilities.LoggerLoad1)-In Practice Question Page - https://dsportalapp.herokuapp.com/graph/practice
+[INFO ]2024-02-0510:31:55.621[TestNG-PoolService-9]dsutilities.LoggerLoad1)-Execution Started
+[INFO ]2024-02-0510:31:55.621[TestNG-PoolService-9]dsutilities.LoggerLoad1)-Loading the Property File
+[INFO ]2024-02-0510:31:55.621[TestNG-PoolService-9]dsutilities.LoggerLoad1)-Launching -chrome
+[INFO ]2024-02-0510:31:56.120[TestNG-PoolService-7]dsutilities.LoggerLoad1)-Clicked on Graphlink
+[INFO ]2024-02-0510:31:56.307[TestNG-PoolService-7]dsutilities.LoggerLoad1)-User directed to Graph Page
+[INFO ]2024-02-0510:32:00.461[TestNG-PoolService-7]dsutilities.LoggerLoad1)-tryEditor with a Run button is displayed
+[INFO ]2024-02-0510:32:00.545[TestNG-PoolService-7]dsutilities.LoggerLoad1)-User directed to TextEditor Page
+[INFO ]2024-02-0510:32:00.663[TestNG-PoolService-5]dsutilities.LoggerLoad1)-tryEditor with a Run button is displayed
+[INFO ]2024-02-0510:32:00.696[TestNG-PoolService-5]dsutilities.LoggerLoad1)-User directed to TextEditor Page
+[INFO ]2024-02-0510:32:02.155[TestNG-PoolService-0]dsutilities.LoggerLoad1)-Python code is incorrect---Enter Correctly
+[INFO ]2024-02-0510:32:05.151[TestNG-PoolService-8]dsutilities.LoggerLoad1)-The output is :Hello
+[INFO ]2024-02-0510:32:05.379[TestNG-PoolService-8]dsutilities.LoggerLoad1)-Execution Started
+[INFO ]2024-02-0510:32:05.379[TestNG-PoolService-8]dsutilities.LoggerLoad1)-Loading the Property File
+[INFO ]2024-02-0510:32:05.379[TestNG-PoolService-8]dsutilities.LoggerLoad1)-Launching -chrome
+[INFO ]2024-02-0510:32:06.936[TestNG-PoolService-2]dsutilities.LoggerLoad1)-The output is :Hello
+[INFO ]2024-02-0510:32:07.233[TestNG-PoolService-2]dsutilities.LoggerLoad1)-Execution Started
+[INFO ]2024-02-0510:32:07.233[TestNG-PoolService-2]dsutilities.LoggerLoad1)-Loading the Property File
+[INFO ]2024-02-0510:32:07.233[TestNG-PoolService-2]dsutilities.LoggerLoad1)-Launching -chrome
+[INFO ]2024-02-0510:32:07.778[TestNG-PoolService-3]dsutilities.LoggerLoad1)-Python code is incorrect---Enter Correctly
+[INFO ]2024-02-0510:32:10.054[TestNG-PoolService-1]dsutilities.LoggerLoad1)-The output is :Hello
+[INFO ]2024-02-0510:32:10.331[TestNG-PoolService-1]dsutilities.LoggerLoad1)-Execution Started
+[INFO ]2024-02-0510:32:10.331[TestNG-PoolService-1]dsutilities.LoggerLoad1)-Loading the Property File
+[INFO ]2024-02-0510:32:10.331[TestNG-PoolService-1]dsutilities.LoggerLoad1)-Launching -chrome
+[INFO ]2024-02-0510:32:12.048[TestNG-PoolService-6]dsutilities.LoggerLoad1)-The user is in the Home page after logged in
+[INFO ]2024-02-0510:32:13.734[TestNG-PoolService-0]dsutilities.LoggerLoad1)-The output is :Hello
+[INFO ]2024-02-0510:32:13.847[TestNG-PoolService-9]dsutilities.LoggerLoad1)-The user is in the Home page after logged in
+[INFO ]2024-02-0510:32:13.912[TestNG-PoolService-0]dsutilities.LoggerLoad1)-Execution Started
+[INFO ]2024-02-0510:32:13.912[TestNG-PoolService-0]dsutilities.LoggerLoad1)-Loading the Property File
+[INFO ]2024-02-0510:32:13.912[TestNG-PoolService-0]dsutilities.LoggerLoad1)-Launching -chrome
+[INFO ]2024-02-0510:32:16.044[TestNG-PoolService-4]dsutilities.LoggerLoad1)-The output is :564 is Number is Not Found
+564 is Number is Not Found
+564 is Number is Not Found
+564 is Number is Not Found
+564 is Number is Not Found
+[INFO ]2024-02-0510:32:16.780[TestNG-PoolService-6]dsutilities.LoggerLoad1)-Group1@dslgo
+[INFO ]2024-02-0510:32:16.790[TestNG-PoolService-6]dsutilities.LoggerLoad1)-dsalgo2024
+[INFO ]2024-02-0510:32:17.022[TestNG-PoolService-9]dsutilities.LoggerLoad1)-Group1@dslgo
+[INFO ]2024-02-0510:32:17.024[TestNG-PoolService-9]dsutilities.LoggerLoad1)-dsalgo2024
+[INFO ]2024-02-0510:32:20.835[TestNG-PoolService-3]dsutilities.LoggerLoad1)-The output is :Hello
+[INFO ]2024-02-0510:32:21.002[TestNG-PoolService-3]dsutilities.LoggerLoad1)-Execution Started
+[INFO ]2024-02-0510:32:21.003[TestNG-PoolService-3]dsutilities.LoggerLoad1)-Loading the Property File
+[INFO ]2024-02-0510:32:21.003[TestNG-PoolService-3]dsutilities.LoggerLoad1)-Launching -chrome
+[INFO ]2024-02-0510:32:22.005[TestNG-PoolService-2]dsutilities.LoggerLoad1)-The user is in the Home page after logged in
+[INFO ]2024-02-0510:32:22.146[TestNG-PoolService-8]dsutilities.LoggerLoad1)-The user is in the Home page after logged in
+[INFO ]2024-02-0510:32:22.516[TestNG-PoolService-5]dsutilities.LoggerLoad1)-Python code is incorrect---Enter Correctly
+[INFO ]2024-02-0510:32:22.701[TestNG-PoolService-9]dsutilities.LoggerLoad1)-Clicked the Linked List Page get started button
+[INFO ]2024-02-0510:32:22.993[TestNG-PoolService-9]dsutilities.LoggerLoad1)-User directed to Linked List Page
+[INFO ]2024-02-0510:32:23.552[TestNG-PoolService-6]dsutilities.LoggerLoad1)-Clicked the Linked List Page get started button
+[INFO ]2024-02-0510:32:23.890[TestNG-PoolService-9]dsutilities.LoggerLoad1)-Clicked on Creating Linked LIstlink
+[INFO ]2024-02-0510:32:23.897[TestNG-PoolService-6]dsutilities.LoggerLoad1)-User directed to Linked List Page
+[INFO ]2024-02-0510:32:23.933[TestNG-PoolService-4]dsutilities.LoggerLoad1)-
+[INFO ]2024-02-0510:32:23.993[TestNG-PoolService-9]dsutilities.LoggerLoad1)-User directed to Creating Linked LIst Page
+[INFO ]2024-02-0510:32:25.061[TestNG-PoolService-6]dsutilities.LoggerLoad1)-Clicked on Introductionlink
+[INFO ]2024-02-0510:32:25.135[TestNG-PoolService-6]dsutilities.LoggerLoad1)-User directed to Introduction Page
+[INFO ]2024-02-0510:32:25.531[TestNG-PoolService-7]dsutilities.LoggerLoad1)-Python code is incorrect---Enter Correctly
+[INFO ]2024-02-0510:32:27.611[TestNG-PoolService-1]dsutilities.LoggerLoad1)-The user is in the Home page after logged in
+[INFO ]2024-02-0510:32:28.809[TestNG-PoolService-0]dsutilities.LoggerLoad1)-The user is in the Home page after logged in
+[INFO ]2024-02-0510:32:28.864[TestNG-PoolService-2]dsutilities.LoggerLoad1)-Group1@dslgo
+[INFO ]2024-02-0510:32:28.865[TestNG-PoolService-2]dsutilities.LoggerLoad1)-dsalgo2024
+[INFO ]2024-02-0510:32:29.053[TestNG-PoolService-8]dsutilities.LoggerLoad1)-Group1@dslgo
+[INFO ]2024-02-0510:32:29.053[TestNG-PoolService-8]dsutilities.LoggerLoad1)-dsalgo2024
+[INFO ]2024-02-0510:32:29.101[TestNG-PoolService-6]dsutilities.LoggerLoad1)-tryEditor with a Run button is displayed
+[INFO ]2024-02-0510:32:31.621[TestNG-PoolService-9]dsutilities.LoggerLoad1)-tryEditor with a Run button is displayed
+[INFO ]2024-02-0510:32:31.657[TestNG-PoolService-9]dsutilities.LoggerLoad1)-User directed to TextEditor Page
+[INFO ]2024-02-0510:32:31.679[TestNG-PoolService-6]dsutilities.LoggerLoad1)-User directed to TextEditor Page
+[INFO ]2024-02-0510:32:32.891[TestNG-PoolService-1]dsutilities.LoggerLoad1)-Group1@dslgo
+[INFO ]2024-02-0510:32:32.891[TestNG-PoolService-1]dsutilities.LoggerLoad1)-dsalgo2024
+[INFO ]2024-02-0510:32:34.030[TestNG-PoolService-5]dsutilities.LoggerLoad1)-The output is :Hello
+[INFO ]2024-02-0510:32:34.039[TestNG-PoolService-0]dsutilities.LoggerLoad1)-Group1@dslgo
+[INFO ]2024-02-0510:32:34.039[TestNG-PoolService-0]dsutilities.LoggerLoad1)-dsalgo2024
+[INFO ]2024-02-0510:32:34.275[TestNG-PoolService-5]dsutilities.LoggerLoad1)-Execution Started
+[INFO ]2024-02-0510:32:34.275[TestNG-PoolService-5]dsutilities.LoggerLoad1)-Loading the Property File
+[INFO ]2024-02-0510:32:34.275[TestNG-PoolService-5]dsutilities.LoggerLoad1)-Launching -chrome
+[INFO ]2024-02-0510:32:34.494[TestNG-PoolService-1]dsutilities.LoggerLoad1)-Execution Started
+[INFO ]2024-02-0510:32:34.494[TestNG-PoolService-1]dsutilities.LoggerLoad1)-Loading the Property File
+[INFO ]2024-02-0510:32:34.494[TestNG-PoolService-1]dsutilities.LoggerLoad1)-Launching -chrome
+[INFO ]2024-02-0510:32:35.900[TestNG-PoolService-0]dsutilities.LoggerLoad1)-Execution Started
+[INFO ]2024-02-0510:32:35.901[TestNG-PoolService-0]dsutilities.LoggerLoad1)-Loading the Property File
+[INFO ]2024-02-0510:32:35.901[TestNG-PoolService-0]dsutilities.LoggerLoad1)-Launching -chrome
+[INFO ]2024-02-0510:32:36.052[TestNG-PoolService-2]dsutilities.LoggerLoad1)-Clicked the Linked List Page get started button
+[INFO ]2024-02-0510:32:36.309[TestNG-PoolService-2]dsutilities.LoggerLoad1)-User directed to Linked List Page
+[INFO ]2024-02-0510:32:36.779[TestNG-PoolService-2]dsutilities.LoggerLoad1)-Clicked on Implement Linked List in Pythonlink
+[INFO ]2024-02-0510:32:36.851[TestNG-PoolService-8]dsutilities.LoggerLoad1)-Clicked the Linked List Page get started button
+[INFO ]2024-02-0510:32:36.891[TestNG-PoolService-2]dsutilities.LoggerLoad1)-User directed to Implement Linked List in Python Page
+[INFO ]2024-02-0510:32:37.157[TestNG-PoolService-8]dsutilities.LoggerLoad1)-User directed to Linked List Page
+[INFO ]2024-02-0510:32:38.254[TestNG-PoolService-8]dsutilities.LoggerLoad1)-Clicked on Types of Linked Listlink
+[INFO ]2024-02-0510:32:38.436[TestNG-PoolService-7]dsutilities.LoggerLoad1)-The output is :Hello
+[INFO ]2024-02-0510:32:38.436[TestNG-PoolService-8]dsutilities.LoggerLoad1)-User directed to Types of Linked List Page
+[INFO ]2024-02-0510:32:38.591[TestNG-PoolService-7]dsutilities.LoggerLoad1)-Execution Started
+[INFO ]2024-02-0510:32:38.591[TestNG-PoolService-7]dsutilities.LoggerLoad1)-Loading the Property File
+[INFO ]2024-02-0510:32:38.591[TestNG-PoolService-7]dsutilities.LoggerLoad1)-Launching -chrome
+[INFO ]2024-02-0510:32:39.946[TestNG-PoolService-4]dsutilities.LoggerLoad1)-The output is :564 is Number is Not Found
+564 is Number is Not Found
+564 is Number is Not Found
+564 is Number is Not Found
+564 is Number is Not Found
+[INFO ]2024-02-0510:32:41.294[TestNG-PoolService-4]dsutilities.LoggerLoad1)-
+[INFO ]2024-02-0510:32:42.562[TestNG-PoolService-3]dsutilities.LoggerLoad1)-The user is in the Home page after logged in
+[INFO ]2024-02-0510:32:45.624[TestNG-PoolService-2]dsutilities.LoggerLoad1)-tryEditor with a Run button is displayed
+[INFO ]2024-02-0510:32:45.687[TestNG-PoolService-2]dsutilities.LoggerLoad1)-User directed to TextEditor Page
+[INFO ]2024-02-0510:32:45.760[TestNG-PoolService-8]dsutilities.LoggerLoad1)-tryEditor with a Run button is displayed
+[INFO ]2024-02-0510:32:45.796[TestNG-PoolService-8]dsutilities.LoggerLoad1)-User directed to TextEditor Page
+[INFO ]2024-02-0510:32:48.192[TestNG-PoolService-4]dsutilities.LoggerLoad1)-The output is :564 is Number is Not Found
+564 is Number is Not Found
+564 is Number is Not Found
+564 is Number is Not Found
+564 is Number is Not Found
+[INFO ]2024-02-0510:32:48.467[TestNG-PoolService-5]dsutilities.LoggerLoad1)-The user is in the Home page after logged in
+[INFO ]2024-02-0510:32:48.503[TestNG-PoolService-4]dsutilities.LoggerLoad1)-Execution Started
+[INFO ]2024-02-0510:32:48.503[TestNG-PoolService-4]dsutilities.LoggerLoad1)-Loading the Property File
+[INFO ]2024-02-0510:32:48.503[TestNG-PoolService-4]dsutilities.LoggerLoad1)-Launching -chrome
+[INFO ]2024-02-0510:32:48.794[TestNG-PoolService-3]dsutilities.LoggerLoad1)-Group1@dslgo
+[INFO ]2024-02-0510:32:48.794[TestNG-PoolService-3]dsutilities.LoggerLoad1)-dsalgo2024
+[INFO ]2024-02-0510:32:49.817[TestNG-PoolService-1]dsutilities.LoggerLoad1)-The user is in the Home page after logged in
+[INFO ]2024-02-0510:32:50.038[TestNG-PoolService-0]dsutilities.LoggerLoad1)-The user is in the Home page after logged in
+[INFO ]2024-02-0510:32:50.317[TestNG-PoolService-6]dsutilities.LoggerLoad1)-Python code is incorrect---Enter Correctly
+[INFO ]2024-02-0510:32:51.524[TestNG-PoolService-7]dsutilities.LoggerLoad1)-The user is in the Home page after logged in
+[INFO ]2024-02-0510:32:52.055[TestNG-PoolService-5]dsutilities.LoggerLoad1)-Group1@dslgo
+[INFO ]2024-02-0510:32:52.056[TestNG-PoolService-5]dsutilities.LoggerLoad1)-dsalgo2024
+[INFO ]2024-02-0510:32:53.558[TestNG-PoolService-1]dsutilities.LoggerLoad1)-Group1@dslgo
+[INFO ]2024-02-0510:32:53.558[TestNG-PoolService-1]dsutilities.LoggerLoad1)-dsalgo2024
+[INFO ]2024-02-0510:32:53.718[TestNG-PoolService-3]dsutilities.LoggerLoad1)-Clicked the Linked List Page get started button
+[INFO ]2024-02-0510:32:53.718[TestNG-PoolService-0]dsutilities.LoggerLoad1)-Group1@dslgo
+[INFO ]2024-02-0510:32:53.719[TestNG-PoolService-0]dsutilities.LoggerLoad1)-dsalgo2024
+[INFO ]2024-02-0510:32:54.042[TestNG-PoolService-3]dsutilities.LoggerLoad1)-User directed to Linked List Page
+[INFO ]2024-02-0510:32:55.467[TestNG-PoolService-7]dsutilities.LoggerLoad1)-Group1@dslgo
+[INFO ]2024-02-0510:32:55.469[TestNG-PoolService-7]dsutilities.LoggerLoad1)-dsalgo2024
+[INFO ]2024-02-0510:32:55.535[TestNG-PoolService-3]dsutilities.LoggerLoad1)-Clicked on Deletionlink
+[INFO ]2024-02-0510:32:55.620[TestNG-PoolService-3]dsutilities.LoggerLoad1)-User directed to Deletion Page
+[INFO ]2024-02-0510:32:57.649[TestNG-PoolService-5]dsutilities.LoggerLoad1)-Clicked the Linked List Page get started button
+[INFO ]2024-02-0510:32:57.652[TestNG-PoolService-9]dsutilities.LoggerLoad1)-Python code is incorrect---Enter Correctly
+[INFO ]2024-02-0510:32:57.960[TestNG-PoolService-5]dsutilities.LoggerLoad1)-User directed to Linked List Page
+[INFO ]2024-02-0510:32:58.321[TestNG-PoolService-0]dsutilities.LoggerLoad1)-Clicked the Queue Page get started button
+[INFO ]2024-02-0510:32:58.635[TestNG-PoolService-0]dsutilities.LoggerLoad1)-User directed to Queue Page
+[INFO ]2024-02-0510:32:59.274[TestNG-PoolService-0]dsutilities.LoggerLoad1)-Clicked on Implementation using collections.dequelink
+[INFO ]2024-02-0510:32:59.357[TestNG-PoolService-5]dsutilities.LoggerLoad1)-Clicked on Deletionlink
+[INFO ]2024-02-0510:32:59.437[TestNG-PoolService-5]dsutilities.LoggerLoad1)-User directed to Deletion Page
+[INFO ]2024-02-0510:32:59.451[TestNG-PoolService-1]dsutilities.LoggerLoad1)-Clicked the Queue Page get started button
+[INFO ]2024-02-0510:32:59.787[TestNG-PoolService-1]dsutilities.LoggerLoad1)-User directed to Queue Page
+[INFO ]2024-02-0510:32:59.797[TestNG-PoolService-3]dsutilities.LoggerLoad1)-tryEditor with a Run button is displayed
+[INFO ]2024-02-0510:32:59.821[TestNG-PoolService-3]dsutilities.LoggerLoad1)-User directed to TextEditor Page
+[INFO ]2024-02-0510:33:00.683[TestNG-PoolService-7]dsutilities.LoggerLoad1)-Clicked the Queue Page get started button
+[INFO ]2024-02-0510:33:00.956[TestNG-PoolService-7]dsutilities.LoggerLoad1)-User directed to Queue Page
+[INFO ]2024-02-0510:33:01.152[TestNG-PoolService-1]dsutilities.LoggerLoad1)-Clicked on Implementation of Queue in Pythonlink
+[INFO ]2024-02-0510:33:01.233[TestNG-PoolService-1]dsutilities.LoggerLoad1)-User directed to Implementation of Queue in Python Page
+[INFO ]2024-02-0510:33:01.861[TestNG-PoolService-5]dsutilities.LoggerLoad1)-Clicked the Linked List practice link
+[INFO ]2024-02-0510:33:02.290[TestNG-PoolService-7]dsutilities.LoggerLoad1)-Clicked on Implementation using arraylink
+[INFO ]2024-02-0510:33:02.444[TestNG-PoolService-7]dsutilities.LoggerLoad1)-User directed to Implementation using array Page
+[INFO ]2024-02-0510:33:02.870[TestNG-PoolService-5]dsutilities.LoggerLoad1)-In Practice Question Page - https://dsportalapp.herokuapp.com/linked-list/practice
+[INFO ]2024-02-0510:33:03.024[TestNG-PoolService-5]dsutilities.LoggerLoad1)-Execution Started
+[INFO ]2024-02-0510:33:03.024[TestNG-PoolService-5]dsutilities.LoggerLoad1)-Loading the Property File
+[INFO ]2024-02-0510:33:03.025[TestNG-PoolService-5]dsutilities.LoggerLoad1)-Launching -chrome
+[INFO ]2024-02-0510:33:03.203[TestNG-PoolService-0]dsutilities.LoggerLoad1)-tryEditor with a Run button is displayed
+[INFO ]2024-02-0510:33:03.295[TestNG-PoolService-0]dsutilities.LoggerLoad1)-User directed to TextEditor Page
+[INFO ]2024-02-0510:33:05.127[TestNG-PoolService-1]dsutilities.LoggerLoad1)-tryEditor with a Run button is displayed
+[INFO ]2024-02-0510:33:05.154[TestNG-PoolService-1]dsutilities.LoggerLoad1)-User directed to TextEditor Page
+[INFO ]2024-02-0510:33:05.654[TestNG-PoolService-6]dsutilities.LoggerLoad1)-The output is :Hello
+[INFO ]2024-02-0510:33:05.938[TestNG-PoolService-6]dsutilities.LoggerLoad1)-Execution Started
+[INFO ]2024-02-0510:33:05.939[TestNG-PoolService-6]dsutilities.LoggerLoad1)-Loading the Property File
+[INFO ]2024-02-0510:33:05.939[TestNG-PoolService-6]dsutilities.LoggerLoad1)-Launching -chrome
+[INFO ]2024-02-0510:33:06.361[TestNG-PoolService-7]dsutilities.LoggerLoad1)-tryEditor with a Run button is displayed
+[INFO ]2024-02-0510:33:06.365[TestNG-PoolService-9]dsutilities.LoggerLoad1)-The output is :Hello
+[INFO ]2024-02-0510:33:06.396[TestNG-PoolService-7]dsutilities.LoggerLoad1)-User directed to TextEditor Page
+[INFO ]2024-02-0510:33:06.554[TestNG-PoolService-9]dsutilities.LoggerLoad1)-Execution Started
+[INFO ]2024-02-0510:33:06.554[TestNG-PoolService-9]dsutilities.LoggerLoad1)-Loading the Property File
+[INFO ]2024-02-0510:33:06.554[TestNG-PoolService-9]dsutilities.LoggerLoad1)-Launching -chrome
+[INFO ]2024-02-0510:33:07.418[TestNG-PoolService-8]dsutilities.LoggerLoad1)-Python code is incorrect---Enter Correctly
+[INFO ]2024-02-0510:33:09.638[TestNG-PoolService-4]dsutilities.LoggerLoad1)-The user is in the Home page after logged in
+[INFO ]2024-02-0510:33:09.716[TestNG-PoolService-5]dsutilities.LoggerLoad1)-The user is in the Home page after logged in
+[INFO ]2024-02-0510:33:10.036[TestNG-PoolService-3]dsutilities.LoggerLoad1)-Execution Started
+[INFO ]2024-02-0510:33:10.037[TestNG-PoolService-3]dsutilities.LoggerLoad1)-Loading the Property File
+[INFO ]2024-02-0510:33:10.037[TestNG-PoolService-3]dsutilities.LoggerLoad1)-Launching -chrome
+[INFO ]2024-02-0510:33:10.708[TestNG-PoolService-1]dsutilities.LoggerLoad1)-Execution Started
+[INFO ]2024-02-0510:33:10.711[TestNG-PoolService-1]dsutilities.LoggerLoad1)-Loading the Property File
+[INFO ]2024-02-0510:33:10.762[TestNG-PoolService-1]dsutilities.LoggerLoad1)-Launching -chrome
+[INFO ]2024-02-0510:33:10.768[TestNG-PoolService-8]dsutilities.LoggerLoad1)-Execution Started
+[INFO ]2024-02-0510:33:10.803[TestNG-PoolService-8]dsutilities.LoggerLoad1)-Loading the Property File
+[INFO ]2024-02-0510:33:10.806[TestNG-PoolService-8]dsutilities.LoggerLoad1)-Launching -chrome
+[INFO ]2024-02-0510:33:12.285[TestNG-PoolService-2]dsutilities.LoggerLoad1)-Execution Started
+[INFO ]2024-02-0510:33:12.337[TestNG-PoolService-2]dsutilities.LoggerLoad1)-Loading the Property File
+[INFO ]2024-02-0510:33:12.383[TestNG-PoolService-2]dsutilities.LoggerLoad1)-Launching -chrome
+[INFO ]2024-02-0510:33:12.405[TestNG-PoolService-4]dsutilities.LoggerLoad1)-Execution Started
+[INFO ]2024-02-0510:33:12.439[TestNG-PoolService-4]dsutilities.LoggerLoad1)-Loading the Property File
+[INFO ]2024-02-0510:33:12.445[TestNG-PoolService-4]dsutilities.LoggerLoad1)-Launching -chrome
+[INFO ]2024-02-0510:33:12.511[TestNG-PoolService-0]dsutilities.LoggerLoad1)-Execution Started
+[INFO ]2024-02-0510:33:12.512[TestNG-PoolService-0]dsutilities.LoggerLoad1)-Loading the Property File
+[INFO ]2024-02-0510:33:12.512[TestNG-PoolService-0]dsutilities.LoggerLoad1)-Launching -chrome
+[INFO ]2024-02-0510:33:12.597[TestNG-PoolService-5]dsutilities.LoggerLoad1)-Execution Started
+[INFO ]2024-02-0510:33:12.635[TestNG-PoolService-5]dsutilities.LoggerLoad1)-Loading the Property File
+[INFO ]2024-02-0510:33:12.648[TestNG-PoolService-5]dsutilities.LoggerLoad1)-Launching -chrome
+[INFO ]2024-02-0510:33:12.652[TestNG-PoolService-7]dsutilities.LoggerLoad1)-Execution Started
+[INFO ]2024-02-0510:33:12.672[TestNG-PoolService-7]dsutilities.LoggerLoad1)-Loading the Property File
+[INFO ]2024-02-0510:33:12.705[TestNG-PoolService-7]dsutilities.LoggerLoad1)-Launching -chrome
+[INFO ]2024-02-0510:33:14.751[TestNG-PoolService-6]dsutilities.LoggerLoad1)-The user is in the Home page after logged in
+[INFO ]2024-02-0510:33:14.896[TestNG-PoolService-9]dsutilities.LoggerLoad1)-The user is in the Home page after logged in
+[INFO ]2024-02-0510:33:15.937[TestNG-PoolService-6]dsutilities.LoggerLoad1)-Group1@dslgo
+[INFO ]2024-02-0510:33:15.937[TestNG-PoolService-6]dsutilities.LoggerLoad1)-dsalgo2024
+[INFO ]2024-02-0510:33:16.214[TestNG-PoolService-9]dsutilities.LoggerLoad1)-Group1@dslgo
+[INFO ]2024-02-0510:33:16.214[TestNG-PoolService-9]dsutilities.LoggerLoad1)-dsalgo2024
+[INFO ]2024-02-0510:33:20.411[TestNG-PoolService-6]dsutilities.LoggerLoad1)-Clicked the Stack Page get started button
+[INFO ]2024-02-0510:33:20.906[TestNG-PoolService-6]dsutilities.LoggerLoad1)-User directed to Stack Page
+[INFO ]2024-02-0510:33:22.507[TestNG-PoolService-6]dsutilities.LoggerLoad1)-Clicked on Operations in Stacklink
+[INFO ]2024-02-0510:33:22.510[TestNG-PoolService-9]dsutilities.LoggerLoad1)-Clicked the Stack Page get started button
+[INFO ]2024-02-0510:33:22.627[TestNG-PoolService-6]dsutilities.LoggerLoad1)-User directed to Operations in Stack Page
+[INFO ]2024-02-0510:33:23.060[TestNG-PoolService-9]dsutilities.LoggerLoad1)-User directed to Stack Page
+[INFO ]2024-02-0510:33:24.746[TestNG-PoolService-9]dsutilities.LoggerLoad1)-Clicked on Implementationlink
+[INFO ]2024-02-0510:33:25.009[TestNG-PoolService-9]dsutilities.LoggerLoad1)-User directed to Implementation Page
+[INFO ]2024-02-0510:33:27.783[TestNG-PoolService-2]dsutilities.LoggerLoad1)-The user is in the Home page after logged in
+[INFO ]2024-02-0510:33:30.038[TestNG-PoolService-7]dsutilities.LoggerLoad1)-The user is in the Home page after logged in
+[INFO ]2024-02-0510:33:30.398[TestNG-PoolService-3]dsutilities.LoggerLoad1)-The user is in the Home page after logged in
+[INFO ]2024-02-0510:33:30.745[TestNG-PoolService-8]dsutilities.LoggerLoad1)-The user is in the Home page after logged in
+[INFO ]2024-02-0510:33:30.985[TestNG-PoolService-4]dsutilities.LoggerLoad1)-The user is in the Home page after logged in
+[INFO ]2024-02-0510:33:31.211[TestNG-PoolService-6]dsutilities.LoggerLoad1)-tryEditor with a Run button is displayed
+[INFO ]2024-02-0510:33:31.253[TestNG-PoolService-6]dsutilities.LoggerLoad1)-User directed to TextEditor Page
+[INFO ]2024-02-0510:33:31.457[TestNG-PoolService-1]dsutilities.LoggerLoad1)-The user is in the Home page after logged in
+[INFO ]2024-02-0510:33:31.731[TestNG-PoolService-5]dsutilities.LoggerLoad1)-The user is in the Home page after logged in
+[INFO ]2024-02-0510:33:31.913[TestNG-PoolService-0]dsutilities.LoggerLoad1)-The user is in the Home page after logged in
+[INFO ]2024-02-0510:33:34.249[TestNG-PoolService-2]dsutilities.LoggerLoad1)-Group1@dslgo
+[INFO ]2024-02-0510:33:34.250[TestNG-PoolService-2]dsutilities.LoggerLoad1)-dsalgo2024
+[INFO ]2024-02-0510:33:35.340[TestNG-PoolService-7]dsutilities.LoggerLoad1)-Group1@dslgo
+[INFO ]2024-02-0510:33:35.340[TestNG-PoolService-7]dsutilities.LoggerLoad1)-dsalgo2024
+[INFO ]2024-02-0510:33:35.579[TestNG-PoolService-3]dsutilities.LoggerLoad1)-Group1@dslgo
+[INFO ]2024-02-0510:33:35.579[TestNG-PoolService-3]dsutilities.LoggerLoad1)-dsalgo2024
+[INFO ]2024-02-0510:33:36.405[TestNG-PoolService-4]dsutilities.LoggerLoad1)-Group1@dslgo
+[INFO ]2024-02-0510:33:36.405[TestNG-PoolService-4]dsutilities.LoggerLoad1)-dsalgo2024
+[INFO ]2024-02-0510:33:36.414[TestNG-PoolService-1]dsutilities.LoggerLoad1)-Group1@dslgo
+[INFO ]2024-02-0510:33:36.414[TestNG-PoolService-1]dsutilities.LoggerLoad1)-dsalgo2024
+[INFO ]2024-02-0510:33:36.432[TestNG-PoolService-8]dsutilities.LoggerLoad1)-Group1@dslgo
+[INFO ]2024-02-0510:33:36.432[TestNG-PoolService-8]dsutilities.LoggerLoad1)-dsalgo2024
+[INFO ]2024-02-0510:33:36.697[TestNG-PoolService-9]dsutilities.LoggerLoad1)-tryEditor with a Run button is displayed
+[INFO ]2024-02-0510:33:36.744[TestNG-PoolService-9]dsutilities.LoggerLoad1)-User directed to TextEditor Page
+[INFO ]2024-02-0510:33:37.471[TestNG-PoolService-0]dsutilities.LoggerLoad1)-Group1@dslgo
+[INFO ]2024-02-0510:33:37.471[TestNG-PoolService-0]dsutilities.LoggerLoad1)-dsalgo2024
+[INFO ]2024-02-0510:33:37.729[TestNG-PoolService-5]dsutilities.LoggerLoad1)-Group1@dslgo
+[INFO ]2024-02-0510:33:37.729[TestNG-PoolService-5]dsutilities.LoggerLoad1)-dsalgo2024
+[INFO ]2024-02-0510:33:39.083[TestNG-PoolService-2]dsutilities.LoggerLoad1)-Checking for Tree GetStarted Button
+[INFO ]2024-02-0510:33:39.240[TestNG-PoolService-7]dsutilities.LoggerLoad1)-Checking for Tree GetStarted Button
+[INFO ]2024-02-0510:33:40.411[TestNG-PoolService-4]dsutilities.LoggerLoad1)-Checking for Tree GetStarted Button
+[INFO ]2024-02-0510:33:40.714[TestNG-PoolService-1]dsutilities.LoggerLoad1)-Checking for Tree GetStarted Button
+[INFO ]2024-02-0510:33:40.806[TestNG-PoolService-2]dsutilities.LoggerLoad1)-Clicked on Get started of Tree
+[INFO ]2024-02-0510:33:41.179[TestNG-PoolService-2]dsutilities.LoggerLoad1)-User directed to Tree Page
+[INFO ]2024-02-0510:33:41.212[TestNG-PoolService-2]dsutilities.LoggerLoad1)-Landed on to Tree Page - https://dsportalapp.herokuapp.com/tree/
+[INFO ]2024-02-0510:33:41.523[TestNG-PoolService-7]dsutilities.LoggerLoad1)-Clicked on Get started of Tree
+[INFO ]2024-02-0510:33:41.610[TestNG-PoolService-3]dsutilities.LoggerLoad1)-Clicked the Stack Page get started button
+[INFO ]2024-02-0510:33:41.914[TestNG-PoolService-7]dsutilities.LoggerLoad1)-User directed to Tree Page
+[INFO ]2024-02-0510:33:41.927[TestNG-PoolService-4]dsutilities.LoggerLoad1)-Clicked on Get started of Tree
+[INFO ]2024-02-0510:33:41.951[TestNG-PoolService-7]dsutilities.LoggerLoad1)-Landed on to Tree Page - https://dsportalapp.herokuapp.com/tree/
+[INFO ]2024-02-0510:33:42.056[TestNG-PoolService-3]dsutilities.LoggerLoad1)-User directed to Stack Page
+[INFO ]2024-02-0510:33:42.209[TestNG-PoolService-1]dsutilities.LoggerLoad1)-Clicked on Get started of Tree
+[INFO ]2024-02-0510:33:42.340[TestNG-PoolService-0]dsutilities.LoggerLoad1)-Checking for Tree GetStarted Button
+[INFO ]2024-02-0510:33:42.454[TestNG-PoolService-2]dsutilities.LoggerLoad1)-Clicked on Traversals-Illustrationlink
+[INFO ]2024-02-0510:33:42.579[TestNG-PoolService-4]dsutilities.LoggerLoad1)-User directed to Tree Page
+[INFO ]2024-02-0510:33:42.592[TestNG-PoolService-1]dsutilities.LoggerLoad1)-User directed to Tree Page
+[INFO ]2024-02-0510:33:42.599[TestNG-PoolService-8]dsutilities.LoggerLoad1)-Clicked the Stack Page get started button
+[INFO ]2024-02-0510:33:42.630[TestNG-PoolService-4]dsutilities.LoggerLoad1)-Landed on to Tree Page - https://dsportalapp.herokuapp.com/tree/
+[INFO ]2024-02-0510:33:42.650[TestNG-PoolService-3]dsutilities.LoggerLoad1)-Clicked on Applicationslink
+[INFO ]2024-02-0510:33:42.650[TestNG-PoolService-1]dsutilities.LoggerLoad1)-Landed on to Tree Page - https://dsportalapp.herokuapp.com/tree/
+[INFO ]2024-02-0510:33:42.753[TestNG-PoolService-2]dsutilities.LoggerLoad1)-User directed to Traversals-Illustration Page
+[INFO ]2024-02-0510:33:42.832[TestNG-PoolService-3]dsutilities.LoggerLoad1)-User directed to Applications Page
+[INFO ]2024-02-0510:33:42.961[TestNG-PoolService-5]dsutilities.LoggerLoad1)-Checking for Tree GetStarted Button
+[INFO ]2024-02-0510:33:43.027[TestNG-PoolService-8]dsutilities.LoggerLoad1)-User directed to Stack Page
+[INFO ]2024-02-0510:33:43.066[TestNG-PoolService-7]dsutilities.LoggerLoad1)-Clicked on Terminologieslink
+[INFO ]2024-02-0510:33:43.121[TestNG-PoolService-7]dsutilities.LoggerLoad1)-User directed to Terminologies Page
+[INFO ]2024-02-0510:33:43.784[TestNG-PoolService-1]dsutilities.LoggerLoad1)-Clicked on Overview of Treeslink
+[INFO ]2024-02-0510:33:43.854[TestNG-PoolService-1]dsutilities.LoggerLoad1)-User directed to OverviewTree Page
+[INFO ]2024-02-0510:33:43.880[TestNG-PoolService-8]dsutilities.LoggerLoad1)-Clicked on Applicationslink
+[INFO ]2024-02-0510:33:43.909[TestNG-PoolService-0]dsutilities.LoggerLoad1)-Clicked on Get started of Tree
+[INFO ]2024-02-0510:33:44.043[TestNG-PoolService-8]dsutilities.LoggerLoad1)-User directed to Applications Page
+[INFO ]2024-02-0510:33:44.328[TestNG-PoolService-4]dsutilities.LoggerLoad1)-Clicked on Tree Traversalslink
+[INFO ]2024-02-0510:33:44.419[TestNG-PoolService-8]dsutilities.LoggerLoad1)-Clicked the Stack practice link
+[INFO ]2024-02-0510:33:44.429[TestNG-PoolService-8]dsutilities.LoggerLoad1)-In Practice Question Page - https://dsportalapp.herokuapp.com/stack/practice
+[INFO ]2024-02-0510:33:44.466[TestNG-PoolService-4]dsutilities.LoggerLoad1)-User directed to Tree Traversals Page
+[INFO ]2024-02-0510:33:44.527[TestNG-PoolService-8]dsutilities.LoggerLoad1)-Execution Started
+[INFO ]2024-02-0510:33:44.527[TestNG-PoolService-8]dsutilities.LoggerLoad1)-Loading the Property File
+[INFO ]2024-02-0510:33:44.528[TestNG-PoolService-8]dsutilities.LoggerLoad1)-Launching -chrome
+[INFO ]2024-02-0510:33:44.827[TestNG-PoolService-0]dsutilities.LoggerLoad1)-User directed to Tree Page
+[INFO ]2024-02-0510:33:44.846[TestNG-PoolService-0]dsutilities.LoggerLoad1)-Landed on to Tree Page - https://dsportalapp.herokuapp.com/tree/
+[INFO ]2024-02-0510:33:45.078[TestNG-PoolService-5]dsutilities.LoggerLoad1)-Clicked on Get started of Tree
+[INFO ]2024-02-0510:33:45.744[TestNG-PoolService-5]dsutilities.LoggerLoad1)-User directed to Tree Page
+[INFO ]2024-02-0510:33:45.755[TestNG-PoolService-5]dsutilities.LoggerLoad1)-Landed on to Tree Page - https://dsportalapp.herokuapp.com/tree/
+[INFO ]2024-02-0510:33:45.980[TestNG-PoolService-0]dsutilities.LoggerLoad1)-Clicked on Types of Treeslink
+[INFO ]2024-02-0510:33:46.043[TestNG-PoolService-0]dsutilities.LoggerLoad1)-User directed to Types of Trees Page
+[INFO ]2024-02-0510:33:47.005[TestNG-PoolService-5]dsutilities.LoggerLoad1)-Clicked on Binary Treeslink
+[INFO ]2024-02-0510:33:47.045[TestNG-PoolService-5]dsutilities.LoggerLoad1)-User directed to Binary Trees Page
+[INFO ]2024-02-0510:33:48.758[TestNG-PoolService-3]dsutilities.LoggerLoad1)-tryEditor with a Run button is displayed
+[INFO ]2024-02-0510:33:48.783[TestNG-PoolService-3]dsutilities.LoggerLoad1)-User directed to TextEditor Page
+[INFO ]2024-02-0510:33:50.030[TestNG-PoolService-7]dsutilities.LoggerLoad1)-tryEditor with a Run button is displayed
+[INFO ]2024-02-0510:33:50.219[TestNG-PoolService-7]dsutilities.LoggerLoad1)-User directed to TextEditor Page
+[INFO ]2024-02-0510:33:50.684[TestNG-PoolService-1]dsutilities.LoggerLoad1)-tryEditor with a Run button is displayed
+[INFO ]2024-02-0510:33:50.766[TestNG-PoolService-1]dsutilities.LoggerLoad1)-User directed to TextEditor Page
+[INFO ]2024-02-0510:33:51.210[TestNG-PoolService-4]dsutilities.LoggerLoad1)-tryEditor with a Run button is displayed
+[INFO ]2024-02-0510:33:51.262[TestNG-PoolService-4]dsutilities.LoggerLoad1)-User directed to TextEditor Page
+[INFO ]2024-02-0510:33:52.968[TestNG-PoolService-2]dsutilities.LoggerLoad1)-tryEditor with a Run button is displayed
+[INFO ]2024-02-0510:33:53.083[TestNG-PoolService-2]dsutilities.LoggerLoad1)-User directed to TextEditor Page
+[INFO ]2024-02-0510:33:53.430[TestNG-PoolService-6]dsutilities.LoggerLoad1)-Python code is incorrect---Enter Correctly
+[INFO ]2024-02-0510:33:55.975[TestNG-PoolService-8]dsutilities.LoggerLoad1)-The user is in the Home page after logged in
+[INFO ]2024-02-0510:33:57.243[TestNG-PoolService-0]dsutilities.LoggerLoad1)-tryEditor with a Run button is displayed
+[INFO ]2024-02-0510:33:57.295[TestNG-PoolService-0]dsutilities.LoggerLoad1)-User directed to TextEditor Page
+[INFO ]2024-02-0510:33:57.925[TestNG-PoolService-5]dsutilities.LoggerLoad1)-tryEditor with a Run button is displayed
+[INFO ]2024-02-0510:33:57.962[TestNG-PoolService-5]dsutilities.LoggerLoad1)-User directed to TextEditor Page
+[INFO ]2024-02-0510:34:00.352[TestNG-PoolService-8]dsutilities.LoggerLoad1)-Group1@dslgo
+[INFO ]2024-02-0510:34:00.368[TestNG-PoolService-8]dsutilities.LoggerLoad1)-dsalgo2024
+[INFO ]2024-02-0510:34:03.757[TestNG-PoolService-9]dsutilities.LoggerLoad1)-Python code is incorrect---Enter Correctly
+[INFO ]2024-02-0510:34:04.431[TestNG-PoolService-8]dsutilities.LoggerLoad1)-Checking for Tree GetStarted Button
+[INFO ]2024-02-0510:34:04.938[TestNG-PoolService-6]dsutilities.LoggerLoad1)-The output is :Hello
+[INFO ]2024-02-0510:34:05.081[TestNG-PoolService-6]dsutilities.LoggerLoad1)-Execution Started
+[INFO ]2024-02-0510:34:05.082[TestNG-PoolService-6]dsutilities.LoggerLoad1)-Loading the Property File
+[INFO ]2024-02-0510:34:05.082[TestNG-PoolService-6]dsutilities.LoggerLoad1)-Launching -chrome
+[INFO ]2024-02-0510:34:06.374[TestNG-PoolService-8]dsutilities.LoggerLoad1)-Clicked on Get started of Tree
+[INFO ]2024-02-0510:34:06.768[TestNG-PoolService-8]dsutilities.LoggerLoad1)-User directed to Tree Page
+[INFO ]2024-02-0510:34:06.779[TestNG-PoolService-8]dsutilities.LoggerLoad1)-Landed on to Tree Page - https://dsportalapp.herokuapp.com/tree/
+[INFO ]2024-02-0510:34:07.892[TestNG-PoolService-8]dsutilities.LoggerLoad1)-Clicked on Types of Binary Treeslink
+[INFO ]2024-02-0510:34:08.082[TestNG-PoolService-8]dsutilities.LoggerLoad1)-User directed to Types of Binary Trees Page
+[INFO ]2024-02-0510:34:14.748[TestNG-PoolService-9]dsutilities.LoggerLoad1)-The output is :Hello
+[INFO ]2024-02-0510:34:14.895[TestNG-PoolService-9]dsutilities.LoggerLoad1)-Execution Started
+[INFO ]2024-02-0510:34:14.895[TestNG-PoolService-9]dsutilities.LoggerLoad1)-Loading the Property File
+[INFO ]2024-02-0510:34:14.895[TestNG-PoolService-9]dsutilities.LoggerLoad1)-Launching -chrome
+[INFO ]2024-02-0510:34:17.636[TestNG-PoolService-4]dsutilities.LoggerLoad1)-Python code is incorrect---Enter Correctly
+[INFO ]2024-02-0510:34:17.929[TestNG-PoolService-8]dsutilities.LoggerLoad1)-tryEditor with a Run button is displayed
+[INFO ]2024-02-0510:34:17.971[TestNG-PoolService-8]dsutilities.LoggerLoad1)-User directed to TextEditor Page
+[INFO ]2024-02-0510:34:18.256[TestNG-PoolService-2]dsutilities.LoggerLoad1)-Python code is incorrect---Enter Correctly
+[INFO ]2024-02-0510:34:18.661[TestNG-PoolService-0]dsutilities.LoggerLoad1)-Python code is incorrect---Enter Correctly
+[INFO ]2024-02-0510:34:18.661[TestNG-PoolService-7]dsutilities.LoggerLoad1)-Python code is incorrect---Enter Correctly
+[INFO ]2024-02-0510:34:20.413[TestNG-PoolService-3]dsutilities.LoggerLoad1)-Python code is incorrect---Enter Correctly
+[INFO ]2024-02-0510:34:21.617[TestNG-PoolService-1]dsutilities.LoggerLoad1)-Python code is incorrect---Enter Correctly
+[INFO ]2024-02-0510:34:22.142[TestNG-PoolService-6]dsutilities.LoggerLoad1)-The user is in the Home page after logged in
+[INFO ]2024-02-0510:34:26.211[TestNG-PoolService-6]dsutilities.LoggerLoad1)-Group1@dslgo
+[INFO ]2024-02-0510:34:26.211[TestNG-PoolService-6]dsutilities.LoggerLoad1)-dsalgo2024
+[INFO ]2024-02-0510:34:27.092[TestNG-PoolService-5]dsutilities.LoggerLoad1)-Python code is incorrect---Enter Correctly
+[INFO ]2024-02-0510:34:29.506[TestNG-PoolService-6]dsutilities.LoggerLoad1)-Checking for Tree GetStarted Button
+[INFO ]2024-02-0510:34:30.657[TestNG-PoolService-3]dsutilities.LoggerLoad1)-The output is :Hello
+[INFO ]2024-02-0510:34:30.932[TestNG-PoolService-3]dsutilities.LoggerLoad1)-Execution Started
+[INFO ]2024-02-0510:34:30.932[TestNG-PoolService-3]dsutilities.LoggerLoad1)-Loading the Property File
+[INFO ]2024-02-0510:34:30.933[TestNG-PoolService-3]dsutilities.LoggerLoad1)-Launching -chrome
+[INFO ]2024-02-0510:34:30.999[TestNG-PoolService-6]dsutilities.LoggerLoad1)-Clicked on Get started of Tree
+[INFO ]2024-02-0510:34:31.177[TestNG-PoolService-6]dsutilities.LoggerLoad1)-User directed to Tree Page
+[INFO ]2024-02-0510:34:31.199[TestNG-PoolService-6]dsutilities.LoggerLoad1)-Landed on to Tree Page - https://dsportalapp.herokuapp.com/tree/
+[INFO ]2024-02-0510:34:31.550[TestNG-PoolService-4]dsutilities.LoggerLoad1)-The output is :Hello
+[INFO ]2024-02-0510:34:31.729[TestNG-PoolService-4]dsutilities.LoggerLoad1)-Execution Started
+[INFO ]2024-02-0510:34:31.729[TestNG-PoolService-4]dsutilities.LoggerLoad1)-Loading the Property File
+[INFO ]2024-02-0510:34:31.729[TestNG-PoolService-4]dsutilities.LoggerLoad1)-Launching -chrome
+[INFO ]2024-02-0510:34:31.775[TestNG-PoolService-2]dsutilities.LoggerLoad1)-The output is :Hello
+[INFO ]2024-02-0510:34:31.915[TestNG-PoolService-2]dsutilities.LoggerLoad1)-Execution Started
+[INFO ]2024-02-0510:34:31.915[TestNG-PoolService-2]dsutilities.LoggerLoad1)-Loading the Property File
+[INFO ]2024-02-0510:34:31.915[TestNG-PoolService-2]dsutilities.LoggerLoad1)-Launching -chrome
+[INFO ]2024-02-0510:34:32.082[TestNG-PoolService-7]dsutilities.LoggerLoad1)-The output is :Hello
+[INFO ]2024-02-0510:34:32.201[TestNG-PoolService-6]dsutilities.LoggerLoad1)-Clicked on Implementation in Pythonlink
+[INFO ]2024-02-0510:34:32.283[TestNG-PoolService-0]dsutilities.LoggerLoad1)-The output is :Hello
+[INFO ]2024-02-0510:34:32.301[TestNG-PoolService-7]dsutilities.LoggerLoad1)-Execution Started
+[INFO ]2024-02-0510:34:32.301[TestNG-PoolService-7]dsutilities.LoggerLoad1)-Loading the Property File
+[INFO ]2024-02-0510:34:32.301[TestNG-PoolService-7]dsutilities.LoggerLoad1)-Launching -chrome
+[INFO ]2024-02-0510:34:32.425[TestNG-PoolService-6]dsutilities.LoggerLoad1)-User directed to Implementation in Python Page
+[INFO ]2024-02-0510:34:32.640[TestNG-PoolService-1]dsutilities.LoggerLoad1)-The output is :Hello
+[INFO ]2024-02-0510:34:34.324[TestNG-PoolService-6]dsutilities.LoggerLoad1)-tryEditor with a Run button is displayed
+[INFO ]2024-02-0510:34:34.570[TestNG-PoolService-6]dsutilities.LoggerLoad1)-User directed to TextEditor Page
+[INFO ]2024-02-0510:34:35.368[TestNG-PoolService-5]dsutilities.LoggerLoad1)-The output is :Hello
+[INFO ]2024-02-0510:34:35.630[TestNG-PoolService-9]dsutilities.LoggerLoad1)-The user is in the Home page after logged in
+[INFO ]2024-02-0510:34:38.302[TestNG-PoolService-9]dsutilities.LoggerLoad1)-Group1@dslgo
+[INFO ]2024-02-0510:34:38.385[TestNG-PoolService-9]dsutilities.LoggerLoad1)-dsalgo2024
+[INFO ]2024-02-0510:34:40.103[TestNG-PoolService-8]dsutilities.LoggerLoad1)-Python code is incorrect---Enter Correctly
+[INFO ]2024-02-0510:34:41.346[TestNG-PoolService-9]dsutilities.LoggerLoad1)-Checking for Tree GetStarted Button
+[INFO ]2024-02-0510:34:42.173[TestNG-PoolService-9]dsutilities.LoggerLoad1)-Clicked on Get started of Tree
+[INFO ]2024-02-0510:34:42.392[TestNG-PoolService-9]dsutilities.LoggerLoad1)-User directed to Tree Page
+[INFO ]2024-02-0510:34:42.399[TestNG-PoolService-9]dsutilities.LoggerLoad1)-Landed on to Tree Page - https://dsportalapp.herokuapp.com/tree/
+[INFO ]2024-02-0510:34:42.544[TestNG-PoolService-3]dsutilities.LoggerLoad1)-The user is in the Home page after logged in
+[INFO ]2024-02-0510:34:43.422[TestNG-PoolService-9]dsutilities.LoggerLoad1)-Clicked on Binary Tree Traversalslink
+[INFO ]2024-02-0510:34:43.526[TestNG-PoolService-9]dsutilities.LoggerLoad1)-User directed to Binary Tree Traversals Page
+[INFO ]2024-02-0510:34:43.954[TestNG-PoolService-4]dsutilities.LoggerLoad1)-The user is in the Home page after logged in
+[INFO ]2024-02-0510:34:44.099[TestNG-PoolService-7]dsutilities.LoggerLoad1)-The user is in the Home page after logged in
+[INFO ]2024-02-0510:34:44.128[TestNG-PoolService-2]dsutilities.LoggerLoad1)-The user is in the Home page after logged in
+[INFO ]2024-02-0510:34:46.269[TestNG-PoolService-3]dsutilities.LoggerLoad1)-Group1@dslgo
+[INFO ]2024-02-0510:34:46.270[TestNG-PoolService-3]dsutilities.LoggerLoad1)-dsalgo2024
+[INFO ]2024-02-0510:34:47.167[TestNG-PoolService-9]dsutilities.LoggerLoad1)-tryEditor with a Run button is displayed
+[INFO ]2024-02-0510:34:47.222[TestNG-PoolService-9]dsutilities.LoggerLoad1)-User directed to TextEditor Page
+[INFO ]2024-02-0510:34:47.280[TestNG-PoolService-7]dsutilities.LoggerLoad1)-Group1@dslgo
+[INFO ]2024-02-0510:34:47.280[TestNG-PoolService-7]dsutilities.LoggerLoad1)-dsalgo2024
+[INFO ]2024-02-0510:34:47.424[TestNG-PoolService-2]dsutilities.LoggerLoad1)-Group1@dslgo
+[INFO ]2024-02-0510:34:47.424[TestNG-PoolService-2]dsutilities.LoggerLoad1)-dsalgo2024
+[INFO ]2024-02-0510:34:47.621[TestNG-PoolService-4]dsutilities.LoggerLoad1)-Group1@dslgo
+[INFO ]2024-02-0510:34:47.622[TestNG-PoolService-4]dsutilities.LoggerLoad1)-dsalgo2024
+[INFO ]2024-02-0510:34:49.027[TestNG-PoolService-3]dsutilities.LoggerLoad1)-Checking for Tree GetStarted Button
+[INFO ]2024-02-0510:34:49.847[TestNG-PoolService-7]dsutilities.LoggerLoad1)-Checking for Tree GetStarted Button
+[INFO ]2024-02-0510:34:50.105[TestNG-PoolService-8]dsutilities.LoggerLoad1)-The output is :Hello
+[INFO ]2024-02-0510:34:50.106[TestNG-PoolService-2]dsutilities.LoggerLoad1)-Checking for Tree GetStarted Button
+[INFO ]2024-02-0510:34:50.312[TestNG-PoolService-4]dsutilities.LoggerLoad1)-Checking for Tree GetStarted Button
+[INFO ]2024-02-0510:34:50.334[TestNG-PoolService-3]dsutilities.LoggerLoad1)-Clicked on Get started of Tree
+[INFO ]2024-02-0510:34:50.382[TestNG-PoolService-6]dsutilities.LoggerLoad1)-Python code is incorrect---Enter Correctly
+[INFO ]2024-02-0510:34:50.528[TestNG-PoolService-3]dsutilities.LoggerLoad1)-User directed to Tree Page
+[INFO ]2024-02-0510:34:50.537[TestNG-PoolService-3]dsutilities.LoggerLoad1)-Landed on to Tree Page - https://dsportalapp.herokuapp.com/tree/
+[INFO ]2024-02-0510:34:50.686[TestNG-PoolService-7]dsutilities.LoggerLoad1)-Clicked on Get started of Tree
+[INFO ]2024-02-0510:34:50.910[TestNG-PoolService-7]dsutilities.LoggerLoad1)-User directed to Tree Page
+[INFO ]2024-02-0510:34:50.916[TestNG-PoolService-7]dsutilities.LoggerLoad1)-Landed on to Tree Page - https://dsportalapp.herokuapp.com/tree/
+[INFO ]2024-02-0510:34:50.998[TestNG-PoolService-2]dsutilities.LoggerLoad1)-Clicked on Get started of Tree
+[INFO ]2024-02-0510:34:51.199[TestNG-PoolService-4]dsutilities.LoggerLoad1)-Clicked on Get started of Tree
+[INFO ]2024-02-0510:34:51.232[TestNG-PoolService-3]dsutilities.LoggerLoad1)-Clicked on Implementation of Binary Treeslink
+[INFO ]2024-02-0510:34:51.268[TestNG-PoolService-3]dsutilities.LoggerLoad1)-User directed to Implementation of Binary Trees Page
+[INFO ]2024-02-0510:34:51.275[TestNG-PoolService-2]dsutilities.LoggerLoad1)-User directed to Tree Page
+[INFO ]2024-02-0510:34:51.281[TestNG-PoolService-2]dsutilities.LoggerLoad1)-Landed on to Tree Page - https://dsportalapp.herokuapp.com/tree/
+[INFO ]2024-02-0510:34:51.416[TestNG-PoolService-4]dsutilities.LoggerLoad1)-User directed to Tree Page
+[INFO ]2024-02-0510:34:51.430[TestNG-PoolService-4]dsutilities.LoggerLoad1)-Landed on to Tree Page - https://dsportalapp.herokuapp.com/tree/
+[INFO ]2024-02-0510:34:51.632[TestNG-PoolService-7]dsutilities.LoggerLoad1)-Clicked on Implementation Of BSTlink
+[INFO ]2024-02-0510:34:51.661[TestNG-PoolService-7]dsutilities.LoggerLoad1)-User directed to Implementation Of BST Page
+[INFO ]2024-02-0510:34:52.227[TestNG-PoolService-2]dsutilities.LoggerLoad1)-Clicked on Binary Search Treeslink
+[INFO ]2024-02-0510:34:52.289[TestNG-PoolService-4]dsutilities.LoggerLoad1)-Clicked on Applications of Binary treeslink
+[INFO ]2024-02-0510:34:52.323[TestNG-PoolService-4]dsutilities.LoggerLoad1)-User directed to Applications of Binary trees Page
+[INFO ]2024-02-0510:34:52.355[TestNG-PoolService-2]dsutilities.LoggerLoad1)-User directed to Binary Search Trees Page
+[INFO ]2024-02-0510:34:54.168[TestNG-PoolService-3]dsutilities.LoggerLoad1)-tryEditor with a Run button is displayed
+[INFO ]2024-02-0510:34:54.189[TestNG-PoolService-3]dsutilities.LoggerLoad1)-User directed to TextEditor Page
+[INFO ]2024-02-0510:34:54.660[TestNG-PoolService-7]dsutilities.LoggerLoad1)-tryEditor with a Run button is displayed
+[INFO ]2024-02-0510:34:54.679[TestNG-PoolService-7]dsutilities.LoggerLoad1)-User directed to TextEditor Page
+[INFO ]2024-02-0510:34:55.643[TestNG-PoolService-4]dsutilities.LoggerLoad1)-tryEditor with a Run button is displayed
+[INFO ]2024-02-0510:34:55.666[TestNG-PoolService-4]dsutilities.LoggerLoad1)-User directed to TextEditor Page
+[INFO ]2024-02-0510:34:57.465[TestNG-PoolService-2]dsutilities.LoggerLoad1)-tryEditor with a Run button is displayed
+[INFO ]2024-02-0510:34:57.495[TestNG-PoolService-2]dsutilities.LoggerLoad1)-User directed to TextEditor Page
+[INFO ]2024-02-0510:34:59.200[TestNG-PoolService-6]dsutilities.LoggerLoad1)-The output is :Hello
+[INFO ]2024-02-0510:35:04.252[TestNG-PoolService-9]dsutilities.LoggerLoad1)-Python code is incorrect---Enter Correctly
+[INFO ]2024-02-0510:35:08.383[TestNG-PoolService-7]dsutilities.LoggerLoad1)-Python code is incorrect---Enter Correctly
+[INFO ]2024-02-0510:35:08.705[TestNG-PoolService-3]dsutilities.LoggerLoad1)-Python code is incorrect---Enter Correctly
+[INFO ]2024-02-0510:35:08.834[TestNG-PoolService-4]dsutilities.LoggerLoad1)-Python code is incorrect---Enter Correctly
+[INFO ]2024-02-0510:35:09.013[TestNG-PoolService-2]dsutilities.LoggerLoad1)-Python code is incorrect---Enter Correctly
+[INFO ]2024-02-0510:35:12.368[TestNG-PoolService-9]dsutilities.LoggerLoad1)-The output is :Hello
+[INFO ]2024-02-0510:35:16.553[TestNG-PoolService-7]dsutilities.LoggerLoad1)-The output is :Hello
+[INFO ]2024-02-0510:35:17.269[TestNG-PoolService-3]dsutilities.LoggerLoad1)-The output is :Hello
+[INFO ]2024-02-0510:35:17.661[TestNG-PoolService-2]dsutilities.LoggerLoad1)-The output is :Hello
+[INFO ]2024-02-0510:35:17.711[TestNG-PoolService-7]dsutilities.LoggerLoad1)-In Practice Question Page - https://dsportalapp.herokuapp.com/tree/practice
+[INFO ]2024-02-0510:35:17.873[TestNG-PoolService-4]dsutilities.LoggerLoad1)-The output is :Hello
+[INFO ]2024-02-0510:48:28.057[main]dsutilities.LoggerLoad1)-Execution Started
+[INFO ]2024-02-0510:48:28.059[main]dsutilities.LoggerLoad1)-Loading the Property File
+[INFO ]2024-02-0510:48:28.060[main]dsutilities.LoggerLoad1)-Launching -chrome
+[INFO ]2024-02-0510:48:37.273[main]dsutilities.LoggerLoad1)-Inside Login Page
+[INFO ]2024-02-0510:48:37.275[main]dsutilities.LoggerLoad1)-Inside register page
+[INFO ]2024-02-0510:48:38.648[main]dsutilities.LoggerLoad1)-Please fill out this field
+[INFO ]2024-02-0510:48:39.721[main]dsutilities.LoggerLoad1)-Invalid Username and Password
+[INFO ]2024-02-0510:48:39.991[main]dsutilities.LoggerLoad1)-Group1@dslgo
+[INFO ]2024-02-0510:48:39.992[main]dsutilities.LoggerLoad1)-dsalgo2024
+[INFO ]2024-02-0510:54:14.464[main]dsutilities.LoggerLoad1)-Execution Started
+[INFO ]2024-02-0510:54:14.465[main]dsutilities.LoggerLoad1)-Loading the Property File
+[INFO ]2024-02-0510:54:14.466[main]dsutilities.LoggerLoad1)-Launching -chrome
+[INFO ]2024-02-0510:54:22.673[main]dsutilities.LoggerLoad1)-The user is in the Home page after logged in
+[INFO ]2024-02-0510:54:24.234[main]dsutilities.LoggerLoad1)-Group1@dslgo
+[INFO ]2024-02-0510:54:24.235[main]dsutilities.LoggerLoad1)-dsalgo2024
+[INFO ]2024-02-0510:54:26.203[main]dsutilities.LoggerLoad1)-Clicked the Array Page get started button
+[INFO ]2024-02-0510:54:26.240[main]dsutilities.LoggerLoad1)-User directed to Array Page
+[INFO ]2024-02-0510:54:26.726[main]dsutilities.LoggerLoad1)-Clicked on Arrays in Pythonlink
+[INFO ]2024-02-0510:54:26.780[main]dsutilities.LoggerLoad1)-User directed to Arrays in Python
+[INFO ]2024-02-0510:54:28.209[main]dsutilities.LoggerLoad1)-tryEditor with a Run button is displayed
+[INFO ]2024-02-0510:54:28.410[main]dsutilities.LoggerLoad1)-User directed to TextEditor Page
+[INFO ]2024-02-0510:54:36.140[main]dsutilities.LoggerLoad1)-Python code is incorrect---Enter Correctly
+[INFO ]2024-02-0510:54:41.293[main]dsutilities.LoggerLoad1)-The output is :Hello
+[INFO ]2024-02-0510:55:02.150[main]dsutilities.LoggerLoad1)-User clicked on signout
+[INFO ]2024-02-0510:55:11.804[main]dsutilities.LoggerLoad1)-Execution Started
+[INFO ]2024-02-0510:55:11.804[main]dsutilities.LoggerLoad1)-Loading the Property File
+[INFO ]2024-02-0510:55:11.805[main]dsutilities.LoggerLoad1)-Launching -chrome
+[INFO ]2024-02-0510:55:18.690[main]dsutilities.LoggerLoad1)-The user is in the Home page after logged in
+[INFO ]2024-02-0510:55:19.821[main]dsutilities.LoggerLoad1)-Group1@dslgo
+[INFO ]2024-02-0510:55:19.822[main]dsutilities.LoggerLoad1)-dsalgo2024
+[INFO ]2024-02-0510:55:21.641[main]dsutilities.LoggerLoad1)-Clicked the Array Page get started button
+[INFO ]2024-02-0510:55:21.670[main]dsutilities.LoggerLoad1)-User directed to Array Page
+[INFO ]2024-02-0510:55:22.078[main]dsutilities.LoggerLoad1)-Clicked on Arrays Using Listlink
+[INFO ]2024-02-0510:55:22.101[main]dsutilities.LoggerLoad1)-User directed to Arrays Using List
+[INFO ]2024-02-0510:55:23.538[main]dsutilities.LoggerLoad1)-tryEditor with a Run button is displayed
+[INFO ]2024-02-0510:55:23.558[main]dsutilities.LoggerLoad1)-User directed to TextEditor Page
+[INFO ]2024-02-0510:55:31.044[main]dsutilities.LoggerLoad1)-Python code is incorrect---Enter Correctly
+[INFO ]2024-02-0510:55:35.387[main]dsutilities.LoggerLoad1)-The output is :Hello
+[INFO ]2024-02-0510:55:36.639[main]dsutilities.LoggerLoad1)-User clicked on signout
+[INFO ]2024-02-0510:55:36.734[main]dsutilities.LoggerLoad1)-Execution Started
+[INFO ]2024-02-0510:55:36.734[main]dsutilities.LoggerLoad1)-Loading the Property File
+[INFO ]2024-02-0510:55:36.735[main]dsutilities.LoggerLoad1)-Launching -chrome
+[INFO ]2024-02-0510:55:43.447[main]dsutilities.LoggerLoad1)-The user is in the Home page after logged in
+[INFO ]2024-02-0510:55:44.555[main]dsutilities.LoggerLoad1)-Group1@dslgo
+[INFO ]2024-02-0510:55:44.555[main]dsutilities.LoggerLoad1)-dsalgo2024
+[INFO ]2024-02-0510:55:46.660[main]dsutilities.LoggerLoad1)-Clicked the Array Page get started button
+[INFO ]2024-02-0510:55:46.709[main]dsutilities.LoggerLoad1)-User directed to Array Page
+[INFO ]2024-02-0510:55:47.272[main]dsutilities.LoggerLoad1)-Clicked on Basic Operations in Listslink
+[INFO ]2024-02-0510:55:47.296[main]dsutilities.LoggerLoad1)-User directed to Basic Operations in Lists
+[INFO ]2024-02-0510:55:48.840[main]dsutilities.LoggerLoad1)-tryEditor with a Run button is displayed
+[INFO ]2024-02-0510:55:48.862[main]dsutilities.LoggerLoad1)-User directed to TextEditor Page
+[INFO ]2024-02-0510:55:56.934[main]dsutilities.LoggerLoad1)-Python code is incorrect---Enter Correctly
+[INFO ]2024-02-0510:56:01.575[main]dsutilities.LoggerLoad1)-The output is :Hello
+[INFO ]2024-02-0510:56:02.872[main]dsutilities.LoggerLoad1)-User clicked on signout
+[INFO ]2024-02-0510:56:02.972[main]dsutilities.LoggerLoad1)-Execution Started
+[INFO ]2024-02-0510:56:02.972[main]dsutilities.LoggerLoad1)-Loading the Property File
+[INFO ]2024-02-0510:56:02.972[main]dsutilities.LoggerLoad1)-Launching -chrome
+[INFO ]2024-02-0510:56:09.698[main]dsutilities.LoggerLoad1)-The user is in the Home page after logged in
+[INFO ]2024-02-0510:56:10.792[main]dsutilities.LoggerLoad1)-Group1@dslgo
+[INFO ]2024-02-0510:56:10.793[main]dsutilities.LoggerLoad1)-dsalgo2024
+[INFO ]2024-02-0510:56:12.925[main]dsutilities.LoggerLoad1)-Clicked the Array Page get started button
+[INFO ]2024-02-0510:56:12.999[main]dsutilities.LoggerLoad1)-User directed to Array Page
+[INFO ]2024-02-0510:56:13.312[main]dsutilities.LoggerLoad1)-Clicked on Applications of Arraylink
+[INFO ]2024-02-0510:56:13.331[main]dsutilities.LoggerLoad1)-User directed to Applications of Array
+[INFO ]2024-02-0510:56:14.866[main]dsutilities.LoggerLoad1)-tryEditor with a Run button is displayed
+[INFO ]2024-02-0510:56:14.885[main]dsutilities.LoggerLoad1)-User directed to TextEditor Page
+[INFO ]2024-02-0510:56:22.429[main]dsutilities.LoggerLoad1)-Python code is incorrect---Enter Correctly
+[INFO ]2024-02-0510:56:27.575[main]dsutilities.LoggerLoad1)-The output is :Hello
+[INFO ]2024-02-0510:56:28.503[main]dsutilities.LoggerLoad1)-User clicked on signout
+[INFO ]2024-02-0510:56:28.767[main]dsutilities.LoggerLoad1)-Execution Started
+[INFO ]2024-02-0510:56:28.767[main]dsutilities.LoggerLoad1)-Loading the Property File
+[INFO ]2024-02-0510:56:28.768[main]dsutilities.LoggerLoad1)-Launching -chrome
+[INFO ]2024-02-0510:56:35.565[main]dsutilities.LoggerLoad1)-The user is in the Home page after logged in
+[INFO ]2024-02-0510:56:36.723[main]dsutilities.LoggerLoad1)-Group1@dslgo
+[INFO ]2024-02-0510:56:36.723[main]dsutilities.LoggerLoad1)-dsalgo2024
+[INFO ]2024-02-0510:56:38.499[main]dsutilities.LoggerLoad1)-Clicked the Array Page get started button
+[INFO ]2024-02-0510:56:38.588[main]dsutilities.LoggerLoad1)-User directed to Array Page
+[INFO ]2024-02-0510:56:38.955[main]dsutilities.LoggerLoad1)-Clicked on Applications of Arraylink
+[INFO ]2024-02-0510:56:38.974[main]dsutilities.LoggerLoad1)-User directed to Applications of Array
+[INFO ]2024-02-0510:56:39.156[main]dsutilities.LoggerLoad1)-Clicked the Array practice link
+[INFO ]2024-02-0510:56:39.162[main]dsutilities.LoggerLoad1)-In Practice Question Page - https://dsportalapp.herokuapp.com/array/practice
+[INFO ]2024-02-0510:56:39.230[main]dsutilities.LoggerLoad1)-There are 4 Practice links : 
+[INFO ]2024-02-0510:56:47.918[main]dsutilities.LoggerLoad1)-
+[INFO ]2024-02-0510:56:58.838[main]dsutilities.LoggerLoad1)-The output is :564 is Number is Not Found
+564 is Number is Not Found
+564 is Number is Not Found
+564 is Number is Not Found
+564 is Number is Not Found
+[INFO ]2024-02-0510:57:01.250[main]dsutilities.LoggerLoad1)-
+[INFO ]2024-02-0510:57:05.244[main]dsutilities.LoggerLoad1)-The output is :564 is Number is Not Found
+564 is Number is Not Found
+564 is Number is Not Found
+564 is Number is Not Found
+564 is Number is Not Found
+[INFO ]2024-02-0510:57:05.501[main]dsutilities.LoggerLoad1)-
+[INFO ]2024-02-0510:57:07.535[main]dsutilities.LoggerLoad1)-The output is :564 is Number is Not Found
+564 is Number is Not Found
+564 is Number is Not Found
+564 is Number is Not Found
+564 is Number is Not Found
+[INFO ]2024-02-0510:57:08.332[main]dsutilities.LoggerLoad1)-User clicked on signout
+[INFO ]2024-02-0511:01:25.513[TestNG-PoolService-19]dsutilities.LoggerLoad1)-Execution Started
+[INFO ]2024-02-0511:01:25.513[TestNG-PoolService-26]dsutilities.LoggerLoad1)-Execution Started
+[INFO ]2024-02-0511:01:25.513[TestNG-PoolService-31]dsutilities.LoggerLoad1)-Execution Started
+[INFO ]2024-02-0511:01:25.513[TestNG-PoolService-7]dsutilities.LoggerLoad1)-Execution Started
+[INFO ]2024-02-0511:01:25.513[TestNG-PoolService-22]dsutilities.LoggerLoad1)-Execution Started
+[INFO ]2024-02-0511:01:25.513[TestNG-PoolService-27]dsutilities.LoggerLoad1)-Execution Started
+[INFO ]2024-02-0511:01:25.513[TestNG-PoolService-42]dsutilities.LoggerLoad1)-Execution Started
+[INFO ]2024-02-0511:01:25.513[TestNG-PoolService-9]dsutilities.LoggerLoad1)-Execution Started
+[INFO ]2024-02-0511:01:25.513[TestNG-PoolService-24]dsutilities.LoggerLoad1)-Execution Started
+[INFO ]2024-02-0511:01:25.513[TestNG-PoolService-3]dsutilities.LoggerLoad1)-Execution Started
+[INFO ]2024-02-0511:01:25.513[TestNG-PoolService-0]dsutilities.LoggerLoad1)-Execution Started
+[INFO ]2024-02-0511:01:25.513[TestNG-PoolService-1]dsutilities.LoggerLoad1)-Execution Started
+[INFO ]2024-02-0511:01:25.513[TestNG-PoolService-36]dsutilities.LoggerLoad1)-Execution Started
+[INFO ]2024-02-0511:01:25.513[TestNG-PoolService-40]dsutilities.LoggerLoad1)-Execution Started
+[INFO ]2024-02-0511:01:25.513[TestNG-PoolService-20]dsutilities.LoggerLoad1)-Execution Started
+[INFO ]2024-02-0511:01:25.513[TestNG-PoolService-41]dsutilities.LoggerLoad1)-Execution Started
+[INFO ]2024-02-0511:01:25.513[TestNG-PoolService-30]dsutilities.LoggerLoad1)-Execution Started
+[INFO ]2024-02-0511:01:25.515[TestNG-PoolService-40]dsutilities.LoggerLoad1)-Loading the Property File
+[INFO ]2024-02-0511:01:25.513[TestNG-PoolService-34]dsutilities.LoggerLoad1)-Execution Started
+[INFO ]2024-02-0511:01:25.513[TestNG-PoolService-25]dsutilities.LoggerLoad1)-Execution Started
+[INFO ]2024-02-0511:01:25.513[TestNG-PoolService-13]dsutilities.LoggerLoad1)-Execution Started
+[INFO ]2024-02-0511:01:25.513[TestNG-PoolService-2]dsutilities.LoggerLoad1)-Execution Started
+[INFO ]2024-02-0511:01:25.515[TestNG-PoolService-34]dsutilities.LoggerLoad1)-Loading the Property File
+[INFO ]2024-02-0511:01:25.516[TestNG-PoolService-13]dsutilities.LoggerLoad1)-Loading the Property File
+[INFO ]2024-02-0511:01:25.513[TestNG-PoolService-21]dsutilities.LoggerLoad1)-Execution Started
+[INFO ]2024-02-0511:01:25.513[TestNG-PoolService-5]dsutilities.LoggerLoad1)-Execution Started
+[INFO ]2024-02-0511:01:25.516[TestNG-PoolService-2]dsutilities.LoggerLoad1)-Loading the Property File
+[INFO ]2024-02-0511:01:25.513[TestNG-PoolService-6]dsutilities.LoggerLoad1)-Execution Started
+[INFO ]2024-02-0511:01:25.513[TestNG-PoolService-8]dsutilities.LoggerLoad1)-Execution Started
+[INFO ]2024-02-0511:01:25.513[TestNG-PoolService-33]dsutilities.LoggerLoad1)-Execution Started
+[INFO ]2024-02-0511:01:25.513[TestNG-PoolService-11]dsutilities.LoggerLoad1)-Execution Started
+[INFO ]2024-02-0511:01:25.516[TestNG-PoolService-40]dsutilities.LoggerLoad1)-Launching -chrome
+[INFO ]2024-02-0511:01:25.516[TestNG-PoolService-2]dsutilities.LoggerLoad1)-Launching -chrome
+[INFO ]2024-02-0511:01:25.516[TestNG-PoolService-11]dsutilities.LoggerLoad1)-Loading the Property File
+[INFO ]2024-02-0511:01:25.516[TestNG-PoolService-6]dsutilities.LoggerLoad1)-Loading the Property File
+[INFO ]2024-02-0511:01:25.515[TestNG-PoolService-30]dsutilities.LoggerLoad1)-Loading the Property File
+[INFO ]2024-02-0511:01:25.516[TestNG-PoolService-21]dsutilities.LoggerLoad1)-Loading the Property File
+[INFO ]2024-02-0511:01:25.515[TestNG-PoolService-20]dsutilities.LoggerLoad1)-Loading the Property File
+[INFO ]2024-02-0511:01:25.515[TestNG-PoolService-27]dsutilities.LoggerLoad1)-Loading the Property File
+[INFO ]2024-02-0511:01:25.513[TestNG-PoolService-37]dsutilities.LoggerLoad1)-Execution Started
+[INFO ]2024-02-0511:01:25.516[TestNG-PoolService-25]dsutilities.LoggerLoad1)-Loading the Property File
+[INFO ]2024-02-0511:01:25.516[TestNG-PoolService-30]dsutilities.LoggerLoad1)-Launching -chrome
+[INFO ]2024-02-0511:01:25.516[TestNG-PoolService-20]dsutilities.LoggerLoad1)-Launching -chrome
+[INFO ]2024-02-0511:01:25.515[TestNG-PoolService-22]dsutilities.LoggerLoad1)-Loading the Property File
+[INFO ]2024-02-0511:01:25.515[TestNG-PoolService-31]dsutilities.LoggerLoad1)-Loading the Property File
+[INFO ]2024-02-0511:01:25.515[TestNG-PoolService-26]dsutilities.LoggerLoad1)-Loading the Property File
+[INFO ]2024-02-0511:01:25.515[TestNG-PoolService-7]dsutilities.LoggerLoad1)-Loading the Property File
+[INFO ]2024-02-0511:01:25.515[TestNG-PoolService-19]dsutilities.LoggerLoad1)-Loading the Property File
+[INFO ]2024-02-0511:01:25.513[TestNG-PoolService-29]dsutilities.LoggerLoad1)-Execution Started
+[INFO ]2024-02-0511:01:25.516[TestNG-PoolService-22]dsutilities.LoggerLoad1)-Launching -chrome
+[INFO ]2024-02-0511:01:25.513[TestNG-PoolService-16]dsutilities.LoggerLoad1)-Execution Started
+[INFO ]2024-02-0511:01:25.516[TestNG-PoolService-31]dsutilities.LoggerLoad1)-Launching -chrome
+[INFO ]2024-02-0511:01:25.516[TestNG-PoolService-26]dsutilities.LoggerLoad1)-Launching -chrome
+[INFO ]2024-02-0511:01:25.513[TestNG-PoolService-18]dsutilities.LoggerLoad1)-Execution Started
+[INFO ]2024-02-0511:01:25.513[TestNG-PoolService-10]dsutilities.LoggerLoad1)-Execution Started
+[INFO ]2024-02-0511:01:25.513[TestNG-PoolService-28]dsutilities.LoggerLoad1)-Execution Started
+[INFO ]2024-02-0511:01:25.513[TestNG-PoolService-17]dsutilities.LoggerLoad1)-Execution Started
+[INFO ]2024-02-0511:01:25.516[TestNG-PoolService-18]dsutilities.LoggerLoad1)-Loading the Property File
+[INFO ]2024-02-0511:01:25.513[TestNG-PoolService-39]dsutilities.LoggerLoad1)-Execution Started
+[INFO ]2024-02-0511:01:25.513[TestNG-PoolService-12]dsutilities.LoggerLoad1)-Execution Started
+[INFO ]2024-02-0511:01:25.513[TestNG-PoolService-35]dsutilities.LoggerLoad1)-Execution Started
+[INFO ]2024-02-0511:01:25.515[TestNG-PoolService-42]dsutilities.LoggerLoad1)-Loading the Property File
+[INFO ]2024-02-0511:01:25.516[TestNG-PoolService-13]dsutilities.LoggerLoad1)-Launching -chrome
+[INFO ]2024-02-0511:01:25.517[TestNG-PoolService-7]dsutilities.LoggerLoad1)-Launching -chrome
+[INFO ]2024-02-0511:01:25.517[TestNG-PoolService-16]dsutilities.LoggerLoad1)-Loading the Property File
+[INFO ]2024-02-0511:01:25.517[TestNG-PoolService-21]dsutilities.LoggerLoad1)-Launching -chrome
+[INFO ]2024-02-0511:01:25.517[TestNG-PoolService-10]dsutilities.LoggerLoad1)-Loading the Property File
+[INFO ]2024-02-0511:01:25.517[TestNG-PoolService-28]dsutilities.LoggerLoad1)-Loading the Property File
+[INFO ]2024-02-0511:01:25.517[TestNG-PoolService-42]dsutilities.LoggerLoad1)-Launching -chrome
+[INFO ]2024-02-0511:01:25.513[TestNG-PoolService-14]dsutilities.LoggerLoad1)-Execution Started
+[INFO ]2024-02-0511:01:25.517[TestNG-PoolService-16]dsutilities.LoggerLoad1)-Launching -chrome
+[INFO ]2024-02-0511:01:25.513[TestNG-PoolService-4]dsutilities.LoggerLoad1)-Execution Started
+[INFO ]2024-02-0511:01:25.513[TestNG-PoolService-38]dsutilities.LoggerLoad1)-Execution Started
+[INFO ]2024-02-0511:01:25.516[TestNG-PoolService-24]dsutilities.LoggerLoad1)-Loading the Property File
+[INFO ]2024-02-0511:01:25.513[TestNG-PoolService-15]dsutilities.LoggerLoad1)-Execution Started
+[INFO ]2024-02-0511:01:25.513[TestNG-PoolService-23]dsutilities.LoggerLoad1)-Execution Started
+[INFO ]2024-02-0511:01:25.513[TestNG-PoolService-32]dsutilities.LoggerLoad1)-Execution Started
+[INFO ]2024-02-0511:01:25.516[TestNG-PoolService-25]dsutilities.LoggerLoad1)-Launching -chrome
+[INFO ]2024-02-0511:01:25.516[TestNG-PoolService-27]dsutilities.LoggerLoad1)-Launching -chrome
+[INFO ]2024-02-0511:01:25.517[TestNG-PoolService-15]dsutilities.LoggerLoad1)-Loading the Property File
+[INFO ]2024-02-0511:01:25.517[TestNG-PoolService-32]dsutilities.LoggerLoad1)-Loading the Property File
+[INFO ]2024-02-0511:01:25.516[TestNG-PoolService-1]dsutilities.LoggerLoad1)-Loading the Property File
+[INFO ]2024-02-0511:01:25.516[TestNG-PoolService-36]dsutilities.LoggerLoad1)-Loading the Property File
+[INFO ]2024-02-0511:01:25.516[TestNG-PoolService-29]dsutilities.LoggerLoad1)-Loading the Property File
+[INFO ]2024-02-0511:01:25.515[TestNG-PoolService-9]dsutilities.LoggerLoad1)-Loading the Property File
+[INFO ]2024-02-0511:01:25.515[TestNG-PoolService-3]dsutilities.LoggerLoad1)-Loading the Property File
+[INFO ]2024-02-0511:01:25.516[TestNG-PoolService-5]dsutilities.LoggerLoad1)-Loading the Property File
+[INFO ]2024-02-0511:01:25.517[TestNG-PoolService-38]dsutilities.LoggerLoad1)-Loading the Property File
+[INFO ]2024-02-0511:01:25.516[TestNG-PoolService-11]dsutilities.LoggerLoad1)-Launching -chrome
+[INFO ]2024-02-0511:01:25.516[TestNG-PoolService-37]dsutilities.LoggerLoad1)-Loading the Property File
+[INFO ]2024-02-0511:01:25.515[TestNG-PoolService-41]dsutilities.LoggerLoad1)-Loading the Property File
+[INFO ]2024-02-0511:01:25.516[TestNG-PoolService-34]dsutilities.LoggerLoad1)-Launching -chrome
+[INFO ]2024-02-0511:01:25.517[TestNG-PoolService-38]dsutilities.LoggerLoad1)-Launching -chrome
+[INFO ]2024-02-0511:01:25.515[TestNG-PoolService-0]dsutilities.LoggerLoad1)-Loading the Property File
+[INFO ]2024-02-0511:01:25.516[TestNG-PoolService-8]dsutilities.LoggerLoad1)-Loading the Property File
+[INFO ]2024-02-0511:01:25.517[TestNG-PoolService-3]dsutilities.LoggerLoad1)-Launching -chrome
+[INFO ]2024-02-0511:01:25.516[TestNG-PoolService-33]dsutilities.LoggerLoad1)-Loading the Property File
+[INFO ]2024-02-0511:01:25.517[TestNG-PoolService-36]dsutilities.LoggerLoad1)-Launching -chrome
+[INFO ]2024-02-0511:01:25.517[TestNG-PoolService-9]dsutilities.LoggerLoad1)-Launching -chrome
+[INFO ]2024-02-0511:01:25.517[TestNG-PoolService-1]dsutilities.LoggerLoad1)-Launching -chrome
+[INFO ]2024-02-0511:01:25.517[TestNG-PoolService-15]dsutilities.LoggerLoad1)-Launching -chrome
+[INFO ]2024-02-0511:01:25.517[TestNG-PoolService-32]dsutilities.LoggerLoad1)-Launching -chrome
+[INFO ]2024-02-0511:01:25.518[TestNG-PoolService-33]dsutilities.LoggerLoad1)-Launching -chrome
+[INFO ]2024-02-0511:01:25.517[TestNG-PoolService-5]dsutilities.LoggerLoad1)-Launching -chrome
+[INFO ]2024-02-0511:01:25.517[TestNG-PoolService-23]dsutilities.LoggerLoad1)-Loading the Property File
+[INFO ]2024-02-0511:01:25.517[TestNG-PoolService-24]dsutilities.LoggerLoad1)-Launching -chrome
+[INFO ]2024-02-0511:01:25.516[TestNG-PoolService-6]dsutilities.LoggerLoad1)-Launching -chrome
+[INFO ]2024-02-0511:01:25.518[TestNG-PoolService-41]dsutilities.LoggerLoad1)-Launching -chrome
+[INFO ]2024-02-0511:01:25.517[TestNG-PoolService-12]dsutilities.LoggerLoad1)-Loading the Property File
+[INFO ]2024-02-0511:01:25.518[TestNG-PoolService-23]dsutilities.LoggerLoad1)-Launching -chrome
+[INFO ]2024-02-0511:01:25.517[TestNG-PoolService-4]dsutilities.LoggerLoad1)-Loading the Property File
+[INFO ]2024-02-0511:01:25.517[TestNG-PoolService-17]dsutilities.LoggerLoad1)-Loading the Property File
+[INFO ]2024-02-0511:01:25.517[TestNG-PoolService-14]dsutilities.LoggerLoad1)-Loading the Property File
+[INFO ]2024-02-0511:01:25.518[TestNG-PoolService-0]dsutilities.LoggerLoad1)-Launching -chrome
+[INFO ]2024-02-0511:01:25.517[TestNG-PoolService-28]dsutilities.LoggerLoad1)-Launching -chrome
+[INFO ]2024-02-0511:01:25.517[TestNG-PoolService-10]dsutilities.LoggerLoad1)-Launching -chrome
+[INFO ]2024-02-0511:01:25.518[TestNG-PoolService-12]dsutilities.LoggerLoad1)-Launching -chrome
+[INFO ]2024-02-0511:01:25.517[TestNG-PoolService-35]dsutilities.LoggerLoad1)-Loading the Property File
+[INFO ]2024-02-0511:01:25.517[TestNG-PoolService-39]dsutilities.LoggerLoad1)-Loading the Property File
+[INFO ]2024-02-0511:01:25.517[TestNG-PoolService-19]dsutilities.LoggerLoad1)-Launching -chrome
+[INFO ]2024-02-0511:01:25.517[TestNG-PoolService-18]dsutilities.LoggerLoad1)-Launching -chrome
+[INFO ]2024-02-0511:01:25.518[TestNG-PoolService-14]dsutilities.LoggerLoad1)-Launching -chrome
+[INFO ]2024-02-0511:01:25.518[TestNG-PoolService-17]dsutilities.LoggerLoad1)-Launching -chrome
+[INFO ]2024-02-0511:01:25.518[TestNG-PoolService-4]dsutilities.LoggerLoad1)-Launching -chrome
+[INFO ]2024-02-0511:01:25.518[TestNG-PoolService-8]dsutilities.LoggerLoad1)-Launching -chrome
+[INFO ]2024-02-0511:01:25.518[TestNG-PoolService-37]dsutilities.LoggerLoad1)-Launching -chrome
+[INFO ]2024-02-0511:01:25.517[TestNG-PoolService-29]dsutilities.LoggerLoad1)-Launching -chrome
+[INFO ]2024-02-0511:01:25.518[TestNG-PoolService-35]dsutilities.LoggerLoad1)-Launching -chrome
+[INFO ]2024-02-0511:01:25.518[TestNG-PoolService-39]dsutilities.LoggerLoad1)-Launching -chrome
+[INFO ]2024-02-0511:02:21.075[TestNG-PoolService-42]dsutilities.LoggerLoad1)-The user is in the Home page after logged in
+[INFO ]2024-02-0511:02:27.839[TestNG-PoolService-37]dsutilities.LoggerLoad1)-The user is in the Home page after logged in
+[INFO ]2024-02-0511:02:29.462[TestNG-PoolService-0]dsutilities.LoggerLoad1)-The user is in the Home page after logged in
+[INFO ]2024-02-0511:02:40.750[TestNG-PoolService-10]dsutilities.LoggerLoad1)-The user is in the Home page after logged in
+[INFO ]2024-02-0511:02:52.691[TestNG-PoolService-39]dsutilities.LoggerLoad1)-The user is in the Home page after logged in
+[INFO ]2024-02-0511:02:57.203[TestNG-PoolService-41]dsutilities.LoggerLoad1)-The user is in the Home page after logged in
+[INFO ]2024-02-0511:03:09.769[TestNG-PoolService-26]dsutilities.LoggerLoad1)-The user is in the Home page after logged in
+[INFO ]2024-02-0511:03:10.554[TestNG-PoolService-27]dsutilities.LoggerLoad1)-The user is in the Home page after logged in
+[INFO ]2024-02-0511:03:14.155[TestNG-PoolService-22]dsutilities.LoggerLoad1)-The user is in the Home page after logged in
+[INFO ]2024-02-0511:03:14.493[TestNG-PoolService-11]dsutilities.LoggerLoad1)-The user is in the Home page after logged in
+[INFO ]2024-02-0511:03:16.815[TestNG-PoolService-29]dsutilities.LoggerLoad1)-The user is in the Home page after logged in
+[INFO ]2024-02-0511:03:17.075[TestNG-PoolService-2]dsutilities.LoggerLoad1)-The user is in the Home page after logged in
+[INFO ]2024-02-0511:03:17.187[TestNG-PoolService-14]dsutilities.LoggerLoad1)-The user is in the Home page after logged in
+[INFO ]2024-02-0511:03:18.189[TestNG-PoolService-38]dsutilities.LoggerLoad1)-The user is in the Home page after logged in
+[INFO ]2024-02-0511:03:18.655[TestNG-PoolService-17]dsutilities.LoggerLoad1)-The user is in the Home page after logged in
+[INFO ]2024-02-0511:03:18.849[TestNG-PoolService-16]dsutilities.LoggerLoad1)-The user is in the Home page after logged in
+[INFO ]2024-02-0511:03:24.678[TestNG-PoolService-28]dsutilities.LoggerLoad1)-The user is in the Home page after logged in
+[INFO ]2024-02-0511:03:25.381[TestNG-PoolService-32]dsutilities.LoggerLoad1)-The user is in the Home page after logged in
+[INFO ]2024-02-0511:03:26.335[TestNG-PoolService-40]dsutilities.LoggerLoad1)-The user is in the Home page after logged in
+[INFO ]2024-02-0511:03:26.555[TestNG-PoolService-21]dsutilities.LoggerLoad1)-The user is in the Home page after logged in
+[INFO ]2024-02-0511:03:27.102[TestNG-PoolService-36]dsutilities.LoggerLoad1)-The user is in the Home page after logged in
+[INFO ]2024-02-0511:03:27.454[TestNG-PoolService-15]dsutilities.LoggerLoad1)-The user is in the Home page after logged in
+[INFO ]2024-02-0511:03:29.474[TestNG-PoolService-1]dsutilities.LoggerLoad1)-The user is in the Home page after logged in
+[INFO ]2024-02-0511:03:30.550[TestNG-PoolService-25]dsutilities.LoggerLoad1)-The user is in the Home page after logged in
+[INFO ]2024-02-0511:03:30.555[TestNG-PoolService-31]dsutilities.LoggerLoad1)-The user is in the Home page after logged in
+[INFO ]2024-02-0511:03:31.460[TestNG-PoolService-12]dsutilities.LoggerLoad1)-The user is in the Home page after logged in
+[INFO ]2024-02-0511:03:31.587[TestNG-PoolService-30]dsutilities.LoggerLoad1)-The user is in the Home page after logged in
+[INFO ]2024-02-0511:03:31.601[TestNG-PoolService-34]dsutilities.LoggerLoad1)-The user is in the Home page after logged in
+[INFO ]2024-02-0511:03:31.667[TestNG-PoolService-37]dsutilities.LoggerLoad1)-Group1@dslgo
+[INFO ]2024-02-0511:03:31.695[TestNG-PoolService-37]dsutilities.LoggerLoad1)-dsalgo2024
+[INFO ]2024-02-0511:03:31.667[TestNG-PoolService-0]dsutilities.LoggerLoad1)-Group1@dslgo
+[INFO ]2024-02-0511:03:31.769[TestNG-PoolService-0]dsutilities.LoggerLoad1)-dsalgo2024
+[INFO ]2024-02-0511:03:31.888[TestNG-PoolService-33]dsutilities.LoggerLoad1)-The user is in the Home page after logged in
+[INFO ]2024-02-0511:03:31.894[TestNG-PoolService-4]dsutilities.LoggerLoad1)-The user is in the Home page after logged in
+[INFO ]2024-02-0511:03:33.200[TestNG-PoolService-20]dsutilities.LoggerLoad1)-The user is in the Home page after logged in
+[INFO ]2024-02-0511:03:33.201[TestNG-PoolService-9]dsutilities.LoggerLoad1)-The user is in the Home page after logged in
+[INFO ]2024-02-0511:03:33.887[TestNG-PoolService-35]dsutilities.LoggerLoad1)-The user is in the Home page after logged in
+[INFO ]2024-02-0511:03:34.123[TestNG-PoolService-24]dsutilities.LoggerLoad1)-The user is in the Home page after logged in
+[INFO ]2024-02-0511:03:34.148[TestNG-PoolService-18]dsutilities.LoggerLoad1)-The user is in the Home page after logged in
+[INFO ]2024-02-0511:03:35.849[TestNG-PoolService-13]dsutilities.LoggerLoad1)-The user is in the Home page after logged in
+[INFO ]2024-02-0511:03:37.611[TestNG-PoolService-23]dsutilities.LoggerLoad1)-The user is in the Home page after logged in
+[INFO ]2024-02-0511:03:37.614[TestNG-PoolService-3]dsutilities.LoggerLoad1)-The user is in the Home page after logged in
+[INFO ]2024-02-0511:03:37.903[TestNG-PoolService-19]dsutilities.LoggerLoad1)-The user is in the Home page after logged in
+[INFO ]2024-02-0511:03:39.859[TestNG-PoolService-8]dsutilities.LoggerLoad1)-The user is in the Home page after logged in
+[INFO ]2024-02-0511:03:44.175[TestNG-PoolService-5]dsutilities.LoggerLoad1)-Inside Home Page
+[INFO ]2024-02-0511:03:44.696[TestNG-PoolService-5]dsutilities.LoggerLoad1)-Inside HomePage
+[INFO ]2024-02-0511:03:51.548[TestNG-PoolService-10]dsutilities.LoggerLoad1)-Group1@dslgo
+[INFO ]2024-02-0511:03:51.586[TestNG-PoolService-10]dsutilities.LoggerLoad1)-dsalgo2024
+[INFO ]2024-02-0511:03:51.548[TestNG-PoolService-42]dsutilities.LoggerLoad1)-Group1@dslgo
+[INFO ]2024-02-0511:03:51.710[TestNG-PoolService-42]dsutilities.LoggerLoad1)-dsalgo2024
+[INFO ]2024-02-0511:03:58.526[TestNG-PoolService-7]dsutilities.LoggerLoad1)-User clicked on Sign in
+[INFO ]2024-02-0511:03:59.845[TestNG-PoolService-32]dsutilities.LoggerLoad1)-Group1@dslgo
+[INFO ]2024-02-0511:04:00.031[TestNG-PoolService-32]dsutilities.LoggerLoad1)-dsalgo2024
+[INFO ]2024-02-0511:04:00.116[TestNG-PoolService-15]dsutilities.LoggerLoad1)-Group1@dslgo
+[INFO ]2024-02-0511:04:00.127[TestNG-PoolService-15]dsutilities.LoggerLoad1)-dsalgo2024
+[INFO ]2024-02-0511:04:01.983[TestNG-PoolService-7]dsutilities.LoggerLoad1)-Inside Login Page
+[INFO ]2024-02-0511:04:02.063[TestNG-PoolService-7]dsutilities.LoggerLoad1)-Inside register page
+[INFO ]2024-02-0511:04:02.785[TestNG-PoolService-11]dsutilities.LoggerLoad1)-Group1@dslgo
+[INFO ]2024-02-0511:04:02.809[TestNG-PoolService-11]dsutilities.LoggerLoad1)-dsalgo2024
+[INFO ]2024-02-0511:04:02.864[TestNG-PoolService-36]dsutilities.LoggerLoad1)-Group1@dslgo
+[INFO ]2024-02-0511:04:02.864[TestNG-PoolService-36]dsutilities.LoggerLoad1)-dsalgo2024
+[INFO ]2024-02-0511:04:05.562[TestNG-PoolService-39]dsutilities.LoggerLoad1)-Group1@dslgo
+[INFO ]2024-02-0511:04:05.593[TestNG-PoolService-39]dsutilities.LoggerLoad1)-dsalgo2024
+[INFO ]2024-02-0511:04:05.739[TestNG-PoolService-26]dsutilities.LoggerLoad1)-Group1@dslgo
+[INFO ]2024-02-0511:04:05.739[TestNG-PoolService-26]dsutilities.LoggerLoad1)-dsalgo2024
+[INFO ]2024-02-0511:04:08.347[TestNG-PoolService-27]dsutilities.LoggerLoad1)-Group1@dslgo
+[INFO ]2024-02-0511:04:08.368[TestNG-PoolService-27]dsutilities.LoggerLoad1)-dsalgo2024
+[INFO ]2024-02-0511:04:10.086[TestNG-PoolService-41]dsutilities.LoggerLoad1)-Group1@dslgo
+[INFO ]2024-02-0511:04:10.096[TestNG-PoolService-41]dsutilities.LoggerLoad1)-dsalgo2024
+[INFO ]2024-02-0511:04:16.673[TestNG-PoolService-7]dsutilities.LoggerLoad1)-Please fill out this field
+[INFO ]2024-02-0511:04:19.288[TestNG-PoolService-22]dsutilities.LoggerLoad1)-Group1@dslgo
+[INFO ]2024-02-0511:04:19.289[TestNG-PoolService-22]dsutilities.LoggerLoad1)-dsalgo2024
+[INFO ]2024-02-0511:04:20.392[TestNG-PoolService-37]dsutilities.LoggerLoad1)-Checking for Tree GetStarted Button
+[INFO ]2024-02-0511:04:28.856[TestNG-PoolService-36]dsutilities.LoggerLoad1)-Checking for Tree GetStarted Button
+[INFO ]2024-02-0511:04:30.651[TestNG-PoolService-7]dsutilities.LoggerLoad1)-Invalid Username and Password
+[INFO ]2024-02-0511:04:31.120[TestNG-PoolService-1]dsutilities.LoggerLoad1)-Group1@dslgo
+[INFO ]2024-02-0511:04:31.121[TestNG-PoolService-1]dsutilities.LoggerLoad1)-dsalgo2024
+[INFO ]2024-02-0511:04:31.548[TestNG-PoolService-7]dsutilities.LoggerLoad1)-Group1@dslgo
+[INFO ]2024-02-0511:04:31.549[TestNG-PoolService-7]dsutilities.LoggerLoad1)-dsalgo2024
+[INFO ]2024-02-0511:04:33.884[TestNG-PoolService-36]dsutilities.LoggerLoad1)-Clicked on Get started of Tree
+[INFO ]2024-02-0511:04:34.181[TestNG-PoolService-25]dsutilities.LoggerLoad1)-Group1@dslgo
+[INFO ]2024-02-0511:04:34.183[TestNG-PoolService-25]dsutilities.LoggerLoad1)-dsalgo2024
+[INFO ]2024-02-0511:04:34.320[TestNG-PoolService-36]dsutilities.LoggerLoad1)-User directed to Tree Page
+[INFO ]2024-02-0511:04:34.461[TestNG-PoolService-36]dsutilities.LoggerLoad1)-Landed on to Tree Page - https://dsportalapp.herokuapp.com/tree/
+[INFO ]2024-02-0511:04:34.689[TestNG-PoolService-16]dsutilities.LoggerLoad1)-Group1@dslgo
+[INFO ]2024-02-0511:04:34.689[TestNG-PoolService-16]dsutilities.LoggerLoad1)-dsalgo2024
+[INFO ]2024-02-0511:04:36.971[TestNG-PoolService-37]dsutilities.LoggerLoad1)-Clicked on Get started of Tree
+[INFO ]2024-02-0511:04:37.004[TestNG-PoolService-14]dsutilities.LoggerLoad1)-Group1@dslgo
+[INFO ]2024-02-0511:04:37.004[TestNG-PoolService-14]dsutilities.LoggerLoad1)-dsalgo2024
+[INFO ]2024-02-0511:04:37.005[TestNG-PoolService-17]dsutilities.LoggerLoad1)-Group1@dslgo
+[INFO ]2024-02-0511:04:37.006[TestNG-PoolService-17]dsutilities.LoggerLoad1)-dsalgo2024
+[INFO ]2024-02-0511:04:37.241[TestNG-PoolService-38]dsutilities.LoggerLoad1)-Group1@dslgo
+[INFO ]2024-02-0511:04:37.243[TestNG-PoolService-38]dsutilities.LoggerLoad1)-dsalgo2024
+[INFO ]2024-02-0511:04:38.035[TestNG-PoolService-37]dsutilities.LoggerLoad1)-User directed to Tree Page
+[INFO ]2024-02-0511:04:38.189[TestNG-PoolService-12]dsutilities.LoggerLoad1)-Group1@dslgo
+[INFO ]2024-02-0511:04:38.190[TestNG-PoolService-12]dsutilities.LoggerLoad1)-dsalgo2024
+[INFO ]2024-02-0511:04:38.231[TestNG-PoolService-2]dsutilities.LoggerLoad1)-Group1@dslgo
+[INFO ]2024-02-0511:04:38.231[TestNG-PoolService-2]dsutilities.LoggerLoad1)-dsalgo2024
+[INFO ]2024-02-0511:04:38.250[TestNG-PoolService-37]dsutilities.LoggerLoad1)-Landed on to Tree Page - https://dsportalapp.herokuapp.com/tree/
+[INFO ]2024-02-0511:04:40.042[TestNG-PoolService-40]dsutilities.LoggerLoad1)-Group1@dslgo
+[INFO ]2024-02-0511:04:40.038[TestNG-PoolService-9]dsutilities.LoggerLoad1)-Group1@dslgo
+[INFO ]2024-02-0511:04:40.118[TestNG-PoolService-40]dsutilities.LoggerLoad1)-dsalgo2024
+[INFO ]2024-02-0511:04:40.118[TestNG-PoolService-9]dsutilities.LoggerLoad1)-dsalgo2024
+[INFO ]2024-02-0511:04:40.881[TestNG-PoolService-30]dsutilities.LoggerLoad1)-Group1@dslgo
+[INFO ]2024-02-0511:04:40.956[TestNG-PoolService-30]dsutilities.LoggerLoad1)-dsalgo2024
+[INFO ]2024-02-0511:04:41.444[TestNG-PoolService-36]dsutilities.LoggerLoad1)-Clicked on Types of Binary Treeslink
+[INFO ]2024-02-0511:04:41.449[TestNG-PoolService-4]dsutilities.LoggerLoad1)-Group1@dslgo
+[INFO ]2024-02-0511:04:41.458[TestNG-PoolService-4]dsutilities.LoggerLoad1)-dsalgo2024
+[INFO ]2024-02-0511:04:41.846[TestNG-PoolService-24]dsutilities.LoggerLoad1)-Group1@dslgo
+[INFO ]2024-02-0511:04:41.880[TestNG-PoolService-24]dsutilities.LoggerLoad1)-dsalgo2024
+[INFO ]2024-02-0511:04:42.124[TestNG-PoolService-19]dsutilities.LoggerLoad1)-Group1@dslgo
+[INFO ]2024-02-0511:04:42.162[TestNG-PoolService-19]dsutilities.LoggerLoad1)-dsalgo2024
+[INFO ]2024-02-0511:04:42.726[TestNG-PoolService-23]dsutilities.LoggerLoad1)-Group1@dslgo
+[INFO ]2024-02-0511:04:42.724[TestNG-PoolService-36]dsutilities.LoggerLoad1)-User directed to Types of Binary Trees Page
+[INFO ]2024-02-0511:04:42.733[TestNG-PoolService-23]dsutilities.LoggerLoad1)-dsalgo2024
+[INFO ]2024-02-0511:04:43.819[TestNG-PoolService-21]dsutilities.LoggerLoad1)-Group1@dslgo
+[INFO ]2024-02-0511:04:43.867[TestNG-PoolService-21]dsutilities.LoggerLoad1)-dsalgo2024
+[INFO ]2024-02-0511:04:43.858[TestNG-PoolService-33]dsutilities.LoggerLoad1)-Group1@dslgo
+[INFO ]2024-02-0511:04:43.869[TestNG-PoolService-33]dsutilities.LoggerLoad1)-dsalgo2024
+[INFO ]2024-02-0511:04:45.523[TestNG-PoolService-3]dsutilities.LoggerLoad1)-Group1@dslgo
+[INFO ]2024-02-0511:04:45.524[TestNG-PoolService-3]dsutilities.LoggerLoad1)-dsalgo2024
+[INFO ]2024-02-0511:04:45.523[TestNG-PoolService-18]dsutilities.LoggerLoad1)-Group1@dslgo
+[INFO ]2024-02-0511:04:45.525[TestNG-PoolService-18]dsutilities.LoggerLoad1)-dsalgo2024
+[INFO ]2024-02-0511:04:45.622[TestNG-PoolService-28]dsutilities.LoggerLoad1)-Group1@dslgo
+[INFO ]2024-02-0511:04:45.622[TestNG-PoolService-28]dsutilities.LoggerLoad1)-dsalgo2024
+[INFO ]2024-02-0511:04:45.674[TestNG-PoolService-35]dsutilities.LoggerLoad1)-Group1@dslgo
+[INFO ]2024-02-0511:04:45.674[TestNG-PoolService-35]dsutilities.LoggerLoad1)-dsalgo2024
+[INFO ]2024-02-0511:04:46.459[TestNG-PoolService-20]dsutilities.LoggerLoad1)-Group1@dslgo
+[INFO ]2024-02-0511:04:46.468[TestNG-PoolService-20]dsutilities.LoggerLoad1)-dsalgo2024
+[INFO ]2024-02-0511:04:49.096[TestNG-PoolService-31]dsutilities.LoggerLoad1)-Group1@dslgo
+[INFO ]2024-02-0511:04:49.119[TestNG-PoolService-31]dsutilities.LoggerLoad1)-dsalgo2024
+[INFO ]2024-02-0511:04:49.457[TestNG-PoolService-7]dsutilities.LoggerLoad1)-User clicked on signout
+[INFO ]2024-02-0511:04:49.511[TestNG-PoolService-37]dsutilities.LoggerLoad1)-Clicked on Implementation in Pythonlink
+[INFO ]2024-02-0511:04:50.731[TestNG-PoolService-13]dsutilities.LoggerLoad1)-Group1@dslgo
+[INFO ]2024-02-0511:04:50.741[TestNG-PoolService-13]dsutilities.LoggerLoad1)-dsalgo2024
+[INFO ]2024-02-0511:04:50.808[TestNG-PoolService-34]dsutilities.LoggerLoad1)-Group1@dslgo
+[INFO ]2024-02-0511:04:50.808[TestNG-PoolService-34]dsutilities.LoggerLoad1)-dsalgo2024
+[INFO ]2024-02-0511:04:50.817[TestNG-PoolService-37]dsutilities.LoggerLoad1)-User directed to Implementation in Python Page
+[INFO ]2024-02-0511:04:52.202[TestNG-PoolService-29]dsutilities.LoggerLoad1)-Group1@dslgo
+[INFO ]2024-02-0511:04:52.203[TestNG-PoolService-29]dsutilities.LoggerLoad1)-dsalgo2024
+[INFO ]2024-02-0511:04:53.159[TestNG-PoolService-0]dsutilities.LoggerLoad1)-Clicked the Array Page get started button
+[INFO ]2024-02-0511:04:54.145[TestNG-PoolService-0]dsutilities.LoggerLoad1)-User directed to Array Page
+[INFO ]2024-02-0511:04:54.461[TestNG-PoolService-8]dsutilities.LoggerLoad1)-Group1@dslgo
+[INFO ]2024-02-0511:04:54.461[TestNG-PoolService-8]dsutilities.LoggerLoad1)-dsalgo2024
+[INFO ]2024-02-0511:04:54.653[TestNG-PoolService-6]dsutilities.LoggerLoad1)-User clicked on Register
+[INFO ]2024-02-0511:04:54.666[TestNG-PoolService-6]dsutilities.LoggerLoad1)-Inside register page
+[INFO ]2024-02-0511:05:00.539[TestNG-PoolService-36]dsutilities.LoggerLoad1)-tryEditor with a Run button is displayed
+[INFO ]2024-02-0511:05:01.569[TestNG-PoolService-36]dsutilities.LoggerLoad1)-User directed to TextEditor Page
+[INFO ]2024-02-0511:05:04.586[TestNG-PoolService-42]dsutilities.LoggerLoad1)-Checking for Tree GetStarted Button
+[INFO ]2024-02-0511:05:05.458[TestNG-PoolService-10]dsutilities.LoggerLoad1)-Clicked the Graph Page get started button
+[INFO ]2024-02-0511:05:06.062[TestNG-PoolService-41]dsutilities.LoggerLoad1)-Checking for Tree GetStarted Button
+[INFO ]2024-02-0511:05:07.883[TestNG-PoolService-5]dsutilities.LoggerLoad1)-The alert message - You are not logged in
+[INFO ]2024-02-0511:05:07.969[TestNG-PoolService-0]dsutilities.LoggerLoad1)-Clicked on Arrays in Pythonlink
+[INFO ]2024-02-0511:05:09.488[TestNG-PoolService-39]dsutilities.LoggerLoad1)-Checking for Tree GetStarted Button
+[INFO ]2024-02-0511:05:09.680[TestNG-PoolService-0]dsutilities.LoggerLoad1)-User directed to Arrays in Python
+[INFO ]2024-02-0511:05:19.136[TestNG-PoolService-11]dsutilities.LoggerLoad1)-Clicked the Graph Page get started button
+[INFO ]2024-02-0511:05:20.450[TestNG-PoolService-27]dsutilities.LoggerLoad1)-Clicked the Stack Page get started button
+[INFO ]2024-02-0511:05:21.499[TestNG-PoolService-11]dsutilities.LoggerLoad1)-User directed to Graph Page
+[INFO ]2024-02-0511:05:22.505[TestNG-PoolService-27]dsutilities.LoggerLoad1)-User directed to Stack Page
+[INFO ]2024-02-0511:05:27.353[TestNG-PoolService-6]dsutilities.LoggerLoad1)-Entering the Username and Submiting
+[INFO ]2024-02-0511:05:31.964[TestNG-PoolService-26]dsutilities.LoggerLoad1)-Clicked the Stack Page get started button
+[INFO ]2024-02-0511:05:33.200[TestNG-PoolService-27]dsutilities.LoggerLoad1)-Clicked on Implementationlink
+[INFO ]2024-02-0511:05:33.518[TestNG-PoolService-26]dsutilities.LoggerLoad1)-User directed to Stack Page
+[INFO ]2024-02-0511:05:34.086[TestNG-PoolService-39]dsutilities.LoggerLoad1)-Clicked on Get started of Tree
+[INFO ]2024-02-0511:05:34.108[TestNG-PoolService-27]dsutilities.LoggerLoad1)-User directed to Implementation Page
+[INFO ]2024-02-0511:05:34.801[TestNG-PoolService-39]dsutilities.LoggerLoad1)-User directed to Tree Page
+[INFO ]2024-02-0511:05:34.828[TestNG-PoolService-39]dsutilities.LoggerLoad1)-Landed on to Tree Page - https://dsportalapp.herokuapp.com/tree/
+[INFO ]2024-02-0511:05:39.824[TestNG-PoolService-11]dsutilities.LoggerLoad1)-Clicked on Graph Representationslink
+[INFO ]2024-02-0511:05:42.081[TestNG-PoolService-42]dsutilities.LoggerLoad1)-Clicked on Get started of Tree
+[INFO ]2024-02-0511:05:43.868[TestNG-PoolService-11]dsutilities.LoggerLoad1)-User directed to Graph Representations Page
+[INFO ]2024-02-0511:05:44.085[TestNG-PoolService-40]dsutilities.LoggerLoad1)-Checking for Tree GetStarted Button
+[INFO ]2024-02-0511:05:44.469[TestNG-PoolService-30]dsutilities.LoggerLoad1)-Checking for Tree GetStarted Button
+[INFO ]2024-02-0511:05:44.675[TestNG-PoolService-22]dsutilities.LoggerLoad1)-Clicked the Queue Page get started button
+[INFO ]2024-02-0511:05:46.006[TestNG-PoolService-41]dsutilities.LoggerLoad1)-Clicked on Get started of Tree
+[INFO ]2024-02-0511:05:47.075[TestNG-PoolService-22]dsutilities.LoggerLoad1)-User directed to Queue Page
+[INFO ]2024-02-0511:05:47.577[TestNG-PoolService-33]dsutilities.LoggerLoad1)-Checking for Tree GetStarted Button
+[INFO ]2024-02-0511:05:48.359[TestNG-PoolService-38]dsutilities.LoggerLoad1)-Checking for Tree GetStarted Button
+[INFO ]2024-02-0511:05:48.591[TestNG-PoolService-41]dsutilities.LoggerLoad1)-User directed to Tree Page
+[INFO ]2024-02-0511:05:48.816[TestNG-PoolService-41]dsutilities.LoggerLoad1)-Landed on to Tree Page - https://dsportalapp.herokuapp.com/tree/
+[INFO ]2024-02-0511:05:48.856[TestNG-PoolService-35]dsutilities.LoggerLoad1)-Checking for Tree GetStarted Button
+[INFO ]2024-02-0511:05:49.184[TestNG-PoolService-22]dsutilities.LoggerLoad1)-Clicked on Implementation using collections.dequelink
+[INFO ]2024-02-0511:05:49.253[TestNG-PoolService-12]dsutilities.LoggerLoad1)-Clicked the Graph Page get started button
+[INFO ]2024-02-0511:05:49.489[TestNG-PoolService-42]dsutilities.LoggerLoad1)-User directed to Tree Page
+[INFO ]2024-02-0511:05:49.492[TestNG-PoolService-5]dsutilities.LoggerLoad1)-The User selected random data
+[INFO ]2024-02-0511:05:49.528[TestNG-PoolService-42]dsutilities.LoggerLoad1)-Landed on to Tree Page - https://dsportalapp.herokuapp.com/tree/
+[INFO ]2024-02-0511:05:50.751[TestNG-PoolService-39]dsutilities.LoggerLoad1)-Clicked on Implementation of Binary Treeslink
+[INFO ]2024-02-0511:05:50.854[TestNG-PoolService-26]dsutilities.LoggerLoad1)-Clicked on Operations in Stacklink
+[INFO ]2024-02-0511:05:51.253[TestNG-PoolService-12]dsutilities.LoggerLoad1)-User directed to Graph Page
+[INFO ]2024-02-0511:05:51.489[TestNG-PoolService-39]dsutilities.LoggerLoad1)-User directed to Implementation of Binary Trees Page
+[INFO ]2024-02-0511:05:51.753[TestNG-PoolService-37]dsutilities.LoggerLoad1)-tryEditor with a Run button is displayed
+[INFO ]2024-02-0511:05:52.637[TestNG-PoolService-5]dsutilities.LoggerLoad1)-The alert message - You are not logged in
+[INFO ]2024-02-0511:05:52.912[TestNG-PoolService-34]dsutilities.LoggerLoad1)-Checking for Tree GetStarted Button
+[INFO ]2024-02-0511:05:53.715[TestNG-PoolService-37]dsutilities.LoggerLoad1)-User directed to TextEditor Page
+[INFO ]2024-02-0511:05:54.460[TestNG-PoolService-4]dsutilities.LoggerLoad1)-Clicked the Array Page get started button
+[INFO ]2024-02-0511:05:54.462[TestNG-PoolService-21]dsutilities.LoggerLoad1)-Clicked the Queue Page get started button
+[INFO ]2024-02-0511:05:55.090[TestNG-PoolService-26]dsutilities.LoggerLoad1)-User directed to Operations in Stack Page
+[INFO ]2024-02-0511:05:55.164[TestNG-PoolService-21]dsutilities.LoggerLoad1)-User directed to Queue Page
+[INFO ]2024-02-0511:05:56.199[TestNG-PoolService-42]dsutilities.LoggerLoad1)-Clicked on Implementation Of BSTlink
+[INFO ]2024-02-0511:05:56.485[TestNG-PoolService-4]dsutilities.LoggerLoad1)-User directed to Array Page
+[INFO ]2024-02-0511:05:56.712[TestNG-PoolService-9]dsutilities.LoggerLoad1)-Clicked the DSIntroduction get started button
+[INFO ]2024-02-0511:05:57.902[TestNG-PoolService-42]dsutilities.LoggerLoad1)-User directed to Implementation Of BST Page
+[INFO ]2024-02-0511:05:59.847[TestNG-PoolService-9]dsutilities.LoggerLoad1)-User directed to DataStructure Introduction Page
+[INFO ]2024-02-0511:06:00.899[TestNG-PoolService-30]dsutilities.LoggerLoad1)-Clicked on Get started of Tree
+[INFO ]2024-02-0511:06:01.845[TestNG-PoolService-30]dsutilities.LoggerLoad1)-User directed to Tree Page
+[INFO ]2024-02-0511:06:02.082[TestNG-PoolService-16]dsutilities.LoggerLoad1)-Clicked the Linked List Page get started button
+[INFO ]2024-02-0511:06:02.892[TestNG-PoolService-30]dsutilities.LoggerLoad1)-Landed on to Tree Page - https://dsportalapp.herokuapp.com/tree/
+[INFO ]2024-02-0511:06:03.590[TestNG-PoolService-16]dsutilities.LoggerLoad1)-User directed to Linked List Page
+[INFO ]2024-02-0511:06:03.964[TestNG-PoolService-40]dsutilities.LoggerLoad1)-Clicked on Get started of Tree
+[INFO ]2024-02-0511:06:04.092[TestNG-PoolService-0]dsutilities.LoggerLoad1)-tryEditor with a Run button is displayed
+[INFO ]2024-02-0511:06:04.503[TestNG-PoolService-25]dsutilities.LoggerLoad1)-Clicked the Queue Page get started button
+[INFO ]2024-02-0511:06:04.585[TestNG-PoolService-33]dsutilities.LoggerLoad1)-Clicked on Get started of Tree
+[INFO ]2024-02-0511:06:05.117[TestNG-PoolService-14]dsutilities.LoggerLoad1)-Clicked the Linked List Page get started button
+[INFO ]2024-02-0511:06:06.301[TestNG-PoolService-6]dsutilities.LoggerLoad1)-Please fill out this field
+[INFO ]2024-02-0511:06:06.586[TestNG-PoolService-25]dsutilities.LoggerLoad1)-User directed to Queue Page
+[INFO ]2024-02-0511:06:06.855[TestNG-PoolService-0]dsutilities.LoggerLoad1)-User directed to TextEditor Page
+[INFO ]2024-02-0511:06:07.304[TestNG-PoolService-28]dsutilities.LoggerLoad1)-Clicked the Stack Page get started button
+[INFO ]2024-02-0511:06:07.304[TestNG-PoolService-14]dsutilities.LoggerLoad1)-User directed to Linked List Page
+[INFO ]2024-02-0511:06:07.349[TestNG-PoolService-40]dsutilities.LoggerLoad1)-User directed to Tree Page
+[INFO ]2024-02-0511:06:07.547[TestNG-PoolService-33]dsutilities.LoggerLoad1)-User directed to Tree Page
+[INFO ]2024-02-0511:06:07.589[TestNG-PoolService-40]dsutilities.LoggerLoad1)-Landed on to Tree Page - https://dsportalapp.herokuapp.com/tree/
+[INFO ]2024-02-0511:06:08.592[TestNG-PoolService-28]dsutilities.LoggerLoad1)-User directed to Stack Page
+[INFO ]2024-02-0511:06:09.208[TestNG-PoolService-2]dsutilities.LoggerLoad1)-Clicked the Array Page get started button
+[INFO ]2024-02-0511:06:09.272[TestNG-PoolService-12]dsutilities.LoggerLoad1)-Clicked on Graph Representationslink
+[INFO ]2024-02-0511:06:09.427[TestNG-PoolService-1]dsutilities.LoggerLoad1)-Clicked the Array Page get started button
+[INFO ]2024-02-0511:06:09.584[TestNG-PoolService-18]dsutilities.LoggerLoad1)-Clicked the Linked List Page get started button
+[INFO ]2024-02-0511:06:09.763[TestNG-PoolService-41]dsutilities.LoggerLoad1)-Clicked on Binary Search Treeslink
+[INFO ]2024-02-0511:06:09.806[TestNG-PoolService-36]dsutilities.LoggerLoad1)-Python code is incorrect---Enter Correctly
+[INFO ]2024-02-0511:06:09.954[TestNG-PoolService-3]dsutilities.LoggerLoad1)-Clicked the Array Page get started button
+[INFO ]2024-02-0511:06:10.832[TestNG-PoolService-33]dsutilities.LoggerLoad1)-Landed on to Tree Page - https://dsportalapp.herokuapp.com/tree/
+[INFO ]2024-02-0511:06:10.829[TestNG-PoolService-21]dsutilities.LoggerLoad1)-Clicked on Implementation of Queue in Pythonlink
+[INFO ]2024-02-0511:06:11.596[TestNG-PoolService-16]dsutilities.LoggerLoad1)-Clicked on Implement Linked List in Pythonlink
+[INFO ]2024-02-0511:06:11.835[TestNG-PoolService-1]dsutilities.LoggerLoad1)-User directed to Array Page
+[INFO ]2024-02-0511:06:12.190[TestNG-PoolService-2]dsutilities.LoggerLoad1)-User directed to Array Page
+[INFO ]2024-02-0511:06:12.418[TestNG-PoolService-16]dsutilities.LoggerLoad1)-User directed to Implement Linked List in Python Page
+[INFO ]2024-02-0511:06:12.585[TestNG-PoolService-12]dsutilities.LoggerLoad1)-User directed to Graph Representations Page
+[INFO ]2024-02-0511:06:12.677[TestNG-PoolService-3]dsutilities.LoggerLoad1)-User directed to Array Page
+[INFO ]2024-02-0511:06:12.845[TestNG-PoolService-21]dsutilities.LoggerLoad1)-User directed to Implementation of Queue in Python Page
+[INFO ]2024-02-0511:06:13.576[TestNG-PoolService-41]dsutilities.LoggerLoad1)-User directed to Binary Search Trees Page
+[INFO ]2024-02-0511:06:15.006[TestNG-PoolService-23]dsutilities.LoggerLoad1)-Clicked the Queue Page get started button
+[INFO ]2024-02-0511:06:15.268[TestNG-PoolService-17]dsutilities.LoggerLoad1)-Clicked the Linked List Page get started button
+[INFO ]2024-02-0511:06:16.189[TestNG-PoolService-17]dsutilities.LoggerLoad1)-User directed to Linked List Page
+[INFO ]2024-02-0511:06:16.189[TestNG-PoolService-23]dsutilities.LoggerLoad1)-User directed to Queue Page
+[INFO ]2024-02-0511:06:16.298[TestNG-PoolService-38]dsutilities.LoggerLoad1)-Clicked on Get started of Tree
+[INFO ]2024-02-0511:06:16.328[TestNG-PoolService-31]dsutilities.LoggerLoad1)-Checking for Tree GetStarted Button
+[INFO ]2024-02-0511:06:16.812[TestNG-PoolService-24]dsutilities.LoggerLoad1)-Clicked the Queue Page get started button
+[INFO ]2024-02-0511:06:17.006[TestNG-PoolService-18]dsutilities.LoggerLoad1)-User directed to Linked List Page
+[INFO ]2024-02-0511:06:17.488[TestNG-PoolService-9]dsutilities.LoggerLoad1)-Clicked on Time Complexitylink
+[INFO ]2024-02-0511:06:18.466[TestNG-PoolService-34]dsutilities.LoggerLoad1)-Clicked on Get started of Tree
+[INFO ]2024-02-0511:06:19.442[TestNG-PoolService-8]dsutilities.LoggerLoad1)-Clicked the DSIntroduction get started button
+[INFO ]2024-02-0511:06:19.892[TestNG-PoolService-19]dsutilities.LoggerLoad1)-Clicked the Linked List Page get started button
+[INFO ]2024-02-0511:06:19.970[TestNG-PoolService-28]dsutilities.LoggerLoad1)-Clicked on Applicationslink
+[INFO ]2024-02-0511:06:20.065[TestNG-PoolService-20]dsutilities.LoggerLoad1)-Clicked the Linked List Page get started button
+[INFO ]2024-02-0511:06:20.475[TestNG-PoolService-14]dsutilities.LoggerLoad1)-Clicked on Creating Linked LIstlink
+[INFO ]2024-02-0511:06:20.824[TestNG-PoolService-34]dsutilities.LoggerLoad1)-User directed to Tree Page
+[INFO ]2024-02-0511:06:21.005[TestNG-PoolService-28]dsutilities.LoggerLoad1)-User directed to Applications Page
+[INFO ]2024-02-0511:06:21.011[TestNG-PoolService-34]dsutilities.LoggerLoad1)-Landed on to Tree Page - https://dsportalapp.herokuapp.com/tree/
+[INFO ]2024-02-0511:06:21.339[TestNG-PoolService-4]dsutilities.LoggerLoad1)-Clicked on Applications of Arraylink
+[INFO ]2024-02-0511:06:21.430[TestNG-PoolService-35]dsutilities.LoggerLoad1)-Clicked on Get started of Tree
+[INFO ]2024-02-0511:06:21.565[TestNG-PoolService-14]dsutilities.LoggerLoad1)-User directed to Creating Linked LIst Page
+[INFO ]2024-02-0511:06:22.164[TestNG-PoolService-19]dsutilities.LoggerLoad1)-User directed to Linked List Page
+[INFO ]2024-02-0511:06:22.261[TestNG-PoolService-20]dsutilities.LoggerLoad1)-User directed to Linked List Page
+[INFO ]2024-02-0511:06:22.336[TestNG-PoolService-35]dsutilities.LoggerLoad1)-User directed to Tree Page
+[INFO ]2024-02-0511:06:22.367[TestNG-PoolService-4]dsutilities.LoggerLoad1)-User directed to Applications of Array
+[INFO ]2024-02-0511:06:22.502[TestNG-PoolService-3]dsutilities.LoggerLoad1)-Clicked on Applications of Arraylink
+[INFO ]2024-02-0511:06:22.526[TestNG-PoolService-35]dsutilities.LoggerLoad1)-Landed on to Tree Page - https://dsportalapp.herokuapp.com/tree/
+[INFO ]2024-02-0511:06:22.684[TestNG-PoolService-12]dsutilities.LoggerLoad1)-Clicked the Graph practice link
+[INFO ]2024-02-0511:06:22.907[TestNG-PoolService-12]dsutilities.LoggerLoad1)-In Practice Question Page - https://dsportalapp.herokuapp.com/graph/practice
+[INFO ]2024-02-0511:06:23.265[TestNG-PoolService-3]dsutilities.LoggerLoad1)-User directed to Applications of Array
+[INFO ]2024-02-0511:06:23.729[TestNG-PoolService-24]dsutilities.LoggerLoad1)-User directed to Queue Page
+[INFO ]2024-02-0511:06:25.012[TestNG-PoolService-9]dsutilities.LoggerLoad1)-Clicked the DS practice link
+[INFO ]2024-02-0511:06:25.105[TestNG-PoolService-9]dsutilities.LoggerLoad1)-In Practice Question Page - https://dsportalapp.herokuapp.com/data-structures-introduction/practice
+[INFO ]2024-02-0511:06:26.238[TestNG-PoolService-13]dsutilities.LoggerLoad1)-Clicked the Linked List Page get started button
+[INFO ]2024-02-0511:06:26.237[TestNG-PoolService-40]dsutilities.LoggerLoad1)-Clicked on Applications of Binary treeslink
+[INFO ]2024-02-0511:06:27.135[TestNG-PoolService-1]dsutilities.LoggerLoad1)-Clicked on Arrays Using Listlink
+[INFO ]2024-02-0511:06:27.136[TestNG-PoolService-18]dsutilities.LoggerLoad1)-Clicked on Insertionlink
+[INFO ]2024-02-0511:06:27.628[TestNG-PoolService-30]dsutilities.LoggerLoad1)-Clicked on Overview of Treeslink
+[INFO ]2024-02-0511:06:27.736[TestNG-PoolService-40]dsutilities.LoggerLoad1)-User directed to Applications of Binary trees Page
+[INFO ]2024-02-0511:06:27.835[TestNG-PoolService-25]dsutilities.LoggerLoad1)-Clicked on Queue Operationslink
+[INFO ]2024-02-0511:06:28.468[TestNG-PoolService-18]dsutilities.LoggerLoad1)-User directed to Insertion Page
+[INFO ]2024-02-0511:06:28.553[TestNG-PoolService-13]dsutilities.LoggerLoad1)-User directed to Linked List Page
+[INFO ]2024-02-0511:06:28.598[TestNG-PoolService-17]dsutilities.LoggerLoad1)-Clicked on Traversallink
+[INFO ]2024-02-0511:06:28.742[TestNG-PoolService-1]dsutilities.LoggerLoad1)-User directed to Arrays Using List
+[INFO ]2024-02-0511:06:28.981[TestNG-PoolService-11]dsutilities.LoggerLoad1)-tryEditor with a Run button is displayed
+[INFO ]2024-02-0511:06:29.033[TestNG-PoolService-17]dsutilities.LoggerLoad1)-User directed to Traversal Page
+[INFO ]2024-02-0511:06:29.335[TestNG-PoolService-19]dsutilities.LoggerLoad1)-Clicked on Deletionlink
+[INFO ]2024-02-0511:06:29.347[TestNG-PoolService-25]dsutilities.LoggerLoad1)-User directed to Queue Operations Page
+[INFO ]2024-02-0511:06:30.295[TestNG-PoolService-8]dsutilities.LoggerLoad1)-User directed to DataStructure Introduction Page
+[INFO ]2024-02-0511:06:30.374[TestNG-PoolService-11]dsutilities.LoggerLoad1)-User directed to TextEditor Page
+[INFO ]2024-02-0511:06:30.853[TestNG-PoolService-19]dsutilities.LoggerLoad1)-User directed to Deletion Page
+[INFO ]2024-02-0511:06:31.315[TestNG-PoolService-27]dsutilities.LoggerLoad1)-tryEditor with a Run button is displayed
+[INFO ]2024-02-0511:06:31.507[TestNG-PoolService-5]dsutilities.LoggerLoad1)-User clicked on Register
+[INFO ]2024-02-0511:06:31.514[TestNG-PoolService-23]dsutilities.LoggerLoad1)-Clicked on Implementation using arraylink
+[INFO ]2024-02-0511:06:31.780[TestNG-PoolService-30]dsutilities.LoggerLoad1)-User directed to OverviewTree Page
+[INFO ]2024-02-0511:06:31.996[TestNG-PoolService-20]dsutilities.LoggerLoad1)-Clicked on Deletionlink
+[INFO ]2024-02-0511:06:32.520[TestNG-PoolService-12]dsutilities.LoggerLoad1)-User clicked on signout
+[INFO ]2024-02-0511:06:32.546[TestNG-PoolService-23]dsutilities.LoggerLoad1)-User directed to Implementation using array Page
+[INFO ]2024-02-0511:06:33.282[TestNG-PoolService-25]dsutilities.LoggerLoad1)-Clicked the Queue practice link
+[INFO ]2024-02-0511:06:37.647[TestNG-PoolService-20]dsutilities.LoggerLoad1)-User directed to Deletion Page
+[INFO ]2024-02-0511:06:37.632[TestNG-PoolService-25]dsutilities.LoggerLoad1)-In Practice Question Page - https://dsportalapp.herokuapp.com/queue/practice
+[INFO ]2024-02-0511:06:37.655[TestNG-PoolService-38]dsutilities.LoggerLoad1)-User directed to Tree Page
+[INFO ]2024-02-0511:06:38.131[TestNG-PoolService-38]dsutilities.LoggerLoad1)-Landed on to Tree Page - https://dsportalapp.herokuapp.com/tree/
+[INFO ]2024-02-0511:06:38.401[TestNG-PoolService-27]dsutilities.LoggerLoad1)-User directed to TextEditor Page
+[INFO ]2024-02-0511:06:38.512[TestNG-PoolService-35]dsutilities.LoggerLoad1)-Clicked on Binary Treeslink
+[INFO ]2024-02-0511:06:39.638[TestNG-PoolService-34]dsutilities.LoggerLoad1)-Clicked on Traversals-Illustrationlink
+[INFO ]2024-02-0511:06:45.592[TestNG-PoolService-9]dsutilities.LoggerLoad1)-User clicked on signout
+[INFO ]2024-02-0511:06:50.273[TestNG-PoolService-5]dsutilities.LoggerLoad1)-User redirected to Register form 
+[INFO ]2024-02-0511:06:50.245[TestNG-PoolService-2]dsutilities.LoggerLoad1)-Clicked on Basic Operations in Listslink
+[INFO ]2024-02-0511:06:50.276[TestNG-PoolService-35]dsutilities.LoggerLoad1)-User directed to Binary Trees Page
+[INFO ]2024-02-0511:06:52.141[TestNG-PoolService-20]dsutilities.LoggerLoad1)-Clicked the Linked List practice link
+[INFO ]2024-02-0511:06:52.937[TestNG-PoolService-33]dsutilities.LoggerLoad1)-Clicked on Tree Traversalslink
+[INFO ]2024-02-0511:06:53.713[TestNG-PoolService-4]dsutilities.LoggerLoad1)-Clicked the Array practice link
+[INFO ]2024-02-0511:06:54.182[TestNG-PoolService-2]dsutilities.LoggerLoad1)-User directed to Basic Operations in Lists
+[INFO ]2024-02-0511:06:54.592[TestNG-PoolService-34]dsutilities.LoggerLoad1)-User directed to Traversals-Illustration Page
+[INFO ]2024-02-0511:06:54.662[TestNG-PoolService-20]dsutilities.LoggerLoad1)-In Practice Question Page - https://dsportalapp.herokuapp.com/linked-list/practice
+[INFO ]2024-02-0511:06:55.617[TestNG-PoolService-24]dsutilities.LoggerLoad1)-Clicked on Queue Operationslink
+[INFO ]2024-02-0511:06:56.790[TestNG-PoolService-4]dsutilities.LoggerLoad1)-In Practice Question Page - https://dsportalapp.herokuapp.com/array/practice
+[INFO ]2024-02-0511:06:58.200[TestNG-PoolService-25]dsutilities.LoggerLoad1)-User clicked on signout
+[INFO ]2024-02-0511:06:58.461[TestNG-PoolService-24]dsutilities.LoggerLoad1)-User directed to Queue Operations Page
+[INFO ]2024-02-0511:06:58.620[TestNG-PoolService-8]dsutilities.LoggerLoad1)-Clicked on Time Complexitylink
+[INFO ]2024-02-0511:07:01.594[TestNG-PoolService-4]dsutilities.LoggerLoad1)-There are 4 Practice links : 
+[INFO ]2024-02-0511:07:02.720[TestNG-PoolService-31]dsutilities.LoggerLoad1)-Clicked on Get started of Tree
+[INFO ]2024-02-0511:07:04.264[TestNG-PoolService-31]dsutilities.LoggerLoad1)-User directed to Tree Page
+[INFO ]2024-02-0511:07:04.349[TestNG-PoolService-31]dsutilities.LoggerLoad1)-Landed on to Tree Page - https://dsportalapp.herokuapp.com/tree/
+[INFO ]2024-02-0511:07:04.936[TestNG-PoolService-26]dsutilities.LoggerLoad1)-tryEditor with a Run button is displayed
+[INFO ]2024-02-0511:07:07.019[TestNG-PoolService-33]dsutilities.LoggerLoad1)-User directed to Tree Traversals Page
+[INFO ]2024-02-0511:07:08.059[TestNG-PoolService-26]dsutilities.LoggerLoad1)-User directed to TextEditor Page
+[INFO ]2024-02-0511:07:08.490[TestNG-PoolService-13]dsutilities.LoggerLoad1)-Clicked on Introductionlink
+[INFO ]2024-02-0511:07:08.496[TestNG-PoolService-29]dsutilities.LoggerLoad1)-Clicked the Stack Page get started button
+[INFO ]2024-02-0511:07:08.713[TestNG-PoolService-29]dsutilities.LoggerLoad1)-User directed to Stack Page
+[INFO ]2024-02-0511:07:10.089[TestNG-PoolService-22]dsutilities.LoggerLoad1)-tryEditor with a Run button is displayed
+[INFO ]2024-02-0511:07:10.410[TestNG-PoolService-20]dsutilities.LoggerLoad1)-User clicked on signout
+[INFO ]2024-02-0511:07:10.612[TestNG-PoolService-13]dsutilities.LoggerLoad1)-User directed to Introduction Page
+[INFO ]2024-02-0511:07:11.298[TestNG-PoolService-22]dsutilities.LoggerLoad1)-User directed to TextEditor Page
+[INFO ]2024-02-0511:07:12.507[TestNG-PoolService-38]dsutilities.LoggerLoad1)-Clicked on Binary Tree Traversalslink
+[INFO ]2024-02-0511:07:15.096[TestNG-PoolService-31]dsutilities.LoggerLoad1)-Clicked on Terminologieslink
+[INFO ]2024-02-0511:07:15.552[TestNG-PoolService-31]dsutilities.LoggerLoad1)-User directed to Terminologies Page
+[INFO ]2024-02-0511:07:16.197[TestNG-PoolService-38]dsutilities.LoggerLoad1)-User directed to Binary Tree Traversals Page
+[INFO ]2024-02-0511:07:17.191[TestNG-PoolService-29]dsutilities.LoggerLoad1)-Clicked on Applicationslink
+[INFO ]2024-02-0511:07:18.134[TestNG-PoolService-29]dsutilities.LoggerLoad1)-User directed to Applications Page
+[INFO ]2024-02-0511:07:18.631[TestNG-PoolService-39]dsutilities.LoggerLoad1)-tryEditor with a Run button is displayed
+[INFO ]2024-02-0511:07:20.884[TestNG-PoolService-39]dsutilities.LoggerLoad1)-User directed to TextEditor Page
+[INFO ]2024-02-0511:07:21.903[TestNG-PoolService-42]dsutilities.LoggerLoad1)-tryEditor with a Run button is displayed
+[INFO ]2024-02-0511:07:23.884[TestNG-PoolService-29]dsutilities.LoggerLoad1)-Clicked the Stack practice link
+[INFO ]2024-02-0511:07:23.910[TestNG-PoolService-29]dsutilities.LoggerLoad1)-In Practice Question Page - https://dsportalapp.herokuapp.com/stack/practice
+[INFO ]2024-02-0511:07:24.724[TestNG-PoolService-42]dsutilities.LoggerLoad1)-User directed to TextEditor Page
+[INFO ]2024-02-0511:07:25.657[TestNG-PoolService-21]dsutilities.LoggerLoad1)-tryEditor with a Run button is displayed
+[INFO ]2024-02-0511:07:28.230[TestNG-PoolService-21]dsutilities.LoggerLoad1)-User directed to TextEditor Page
+[INFO ]2024-02-0511:07:29.083[TestNG-PoolService-29]dsutilities.LoggerLoad1)-User clicked on signout
+[INFO ]2024-02-0511:07:30.034[TestNG-PoolService-28]dsutilities.LoggerLoad1)-tryEditor with a Run button is displayed
+[INFO ]2024-02-0511:07:31.860[TestNG-PoolService-28]dsutilities.LoggerLoad1)-User directed to TextEditor Page
+[INFO ]2024-02-0511:07:32.378[TestNG-PoolService-41]dsutilities.LoggerLoad1)-tryEditor with a Run button is displayed
+[INFO ]2024-02-0511:07:33.219[TestNG-PoolService-3]dsutilities.LoggerLoad1)-tryEditor with a Run button is displayed
+[INFO ]2024-02-0511:07:33.404[TestNG-PoolService-3]dsutilities.LoggerLoad1)-User directed to TextEditor Page
+[INFO ]2024-02-0511:07:34.057[TestNG-PoolService-41]dsutilities.LoggerLoad1)-User directed to TextEditor Page
+[INFO ]2024-02-0511:07:34.138[TestNG-PoolService-16]dsutilities.LoggerLoad1)-tryEditor with a Run button is displayed
+[INFO ]2024-02-0511:07:34.245[TestNG-PoolService-14]dsutilities.LoggerLoad1)-tryEditor with a Run button is displayed
+[INFO ]2024-02-0511:07:34.376[TestNG-PoolService-14]dsutilities.LoggerLoad1)-User directed to TextEditor Page
+[INFO ]2024-02-0511:07:35.120[TestNG-PoolService-16]dsutilities.LoggerLoad1)-User directed to TextEditor Page
+[INFO ]2024-02-0511:07:36.074[TestNG-PoolService-40]dsutilities.LoggerLoad1)-tryEditor with a Run button is displayed
+[INFO ]2024-02-0511:07:37.181[TestNG-PoolService-40]dsutilities.LoggerLoad1)-User directed to TextEditor Page
+[INFO ]2024-02-0511:07:37.296[TestNG-PoolService-1]dsutilities.LoggerLoad1)-tryEditor with a Run button is displayed
+[INFO ]2024-02-0511:07:37.661[TestNG-PoolService-1]dsutilities.LoggerLoad1)-User directed to TextEditor Page
+[INFO ]2024-02-0511:07:37.706[TestNG-PoolService-19]dsutilities.LoggerLoad1)-tryEditor with a Run button is displayed
+[INFO ]2024-02-0511:07:40.159[TestNG-PoolService-6]dsutilities.LoggerLoad1)-Please enter a valid username and Password
+[INFO ]2024-02-0511:07:40.235[TestNG-PoolService-19]dsutilities.LoggerLoad1)-User directed to TextEditor Page
+[INFO ]2024-02-0511:07:41.884[TestNG-PoolService-2]dsutilities.LoggerLoad1)-tryEditor with a Run button is displayed
+[INFO ]2024-02-0511:07:42.635[TestNG-PoolService-2]dsutilities.LoggerLoad1)-User directed to TextEditor Page
+[INFO ]2024-02-0511:07:43.401[TestNG-PoolService-17]dsutilities.LoggerLoad1)-tryEditor with a Run button is displayed
+[INFO ]2024-02-0511:07:43.922[TestNG-PoolService-23]dsutilities.LoggerLoad1)-tryEditor with a Run button is displayed
+[INFO ]2024-02-0511:07:44.052[TestNG-PoolService-23]dsutilities.LoggerLoad1)-User directed to TextEditor Page
+[INFO ]2024-02-0511:07:44.211[TestNG-PoolService-17]dsutilities.LoggerLoad1)-User directed to TextEditor Page
+[INFO ]2024-02-0511:07:44.638[TestNG-PoolService-35]dsutilities.LoggerLoad1)-tryEditor with a Run button is displayed
+[INFO ]2024-02-0511:07:44.712[TestNG-PoolService-35]dsutilities.LoggerLoad1)-User directed to TextEditor Page
+[INFO ]2024-02-0511:07:45.244[TestNG-PoolService-34]dsutilities.LoggerLoad1)-tryEditor with a Run button is displayed
+[INFO ]2024-02-0511:07:45.571[TestNG-PoolService-18]dsutilities.LoggerLoad1)-tryEditor with a Run button is displayed
+[INFO ]2024-02-0511:07:45.639[TestNG-PoolService-18]dsutilities.LoggerLoad1)-User directed to TextEditor Page
+[INFO ]2024-02-0511:07:45.740[TestNG-PoolService-34]dsutilities.LoggerLoad1)-User directed to TextEditor Page
+[INFO ]2024-02-0511:07:47.814[TestNG-PoolService-13]dsutilities.LoggerLoad1)-tryEditor with a Run button is displayed
+[INFO ]2024-02-0511:07:48.514[TestNG-PoolService-13]dsutilities.LoggerLoad1)-User directed to TextEditor Page
+[INFO ]2024-02-0511:07:52.813[TestNG-PoolService-6]dsutilities.LoggerLoad1)-password_mismatch:The two password fields didn’t match.
+[INFO ]2024-02-0511:07:54.320[TestNG-PoolService-8]dsutilities.LoggerLoad1)-tryEditor with a Run button is displayed
+[INFO ]2024-02-0511:07:54.323[TestNG-PoolService-38]dsutilities.LoggerLoad1)-tryEditor with a Run button is displayed
+[INFO ]2024-02-0511:07:54.358[TestNG-PoolService-24]dsutilities.LoggerLoad1)-tryEditor with a Run button is displayed
+[INFO ]2024-02-0511:07:54.399[TestNG-PoolService-38]dsutilities.LoggerLoad1)-User directed to TextEditor Page
+[INFO ]2024-02-0511:07:54.422[TestNG-PoolService-24]dsutilities.LoggerLoad1)-User directed to TextEditor Page
+[INFO ]2024-02-0511:07:54.884[TestNG-PoolService-8]dsutilities.LoggerLoad1)-User directed to TextEditor Page
+[INFO ]2024-02-0511:07:55.413[TestNG-PoolService-30]dsutilities.LoggerLoad1)-tryEditor with a Run button is displayed
+[INFO ]2024-02-0511:07:55.709[TestNG-PoolService-30]dsutilities.LoggerLoad1)-User directed to TextEditor Page
+[INFO ]2024-02-0511:07:56.128[TestNG-PoolService-33]dsutilities.LoggerLoad1)-tryEditor with a Run button is displayed
+[INFO ]2024-02-0511:07:56.209[TestNG-PoolService-33]dsutilities.LoggerLoad1)-User directed to TextEditor Page
+[INFO ]2024-02-0511:07:57.316[TestNG-PoolService-31]dsutilities.LoggerLoad1)-tryEditor with a Run button is displayed
+[INFO ]2024-02-0511:07:57.792[TestNG-PoolService-31]dsutilities.LoggerLoad1)-User directed to TextEditor Page
+[INFO ]2024-02-0511:08:03.930[TestNG-PoolService-36]dsutilities.LoggerLoad1)-The output is :Hello
+[INFO ]2024-02-0511:08:05.255[TestNG-PoolService-4]dsutilities.LoggerLoad1)-
+[INFO ]2024-02-0511:08:05.523[TestNG-PoolService-36]dsutilities.LoggerLoad1)-User clicked on signout
+[INFO ]2024-02-0511:08:41.937[TestNG-PoolService-37]dsutilities.LoggerLoad1)-Python code is incorrect---Enter Correctly
+[INFO ]2024-02-0511:09:01.410[TestNG-PoolService-27]dsutilities.LoggerLoad1)-Python code is incorrect---Enter Correctly
+[INFO ]2024-02-0511:09:03.244[TestNG-PoolService-0]dsutilities.LoggerLoad1)-Python code is incorrect---Enter Correctly
+[INFO ]2024-02-0511:09:04.942[TestNG-PoolService-26]dsutilities.LoggerLoad1)-Python code is incorrect---Enter Correctly
+[INFO ]2024-02-0511:09:10.649[TestNG-PoolService-39]dsutilities.LoggerLoad1)-Python code is incorrect---Enter Correctly
+[INFO ]2024-02-0511:09:17.356[TestNG-PoolService-21]dsutilities.LoggerLoad1)-Python code is incorrect---Enter Correctly
+[INFO ]2024-02-0511:09:18.090[TestNG-PoolService-28]dsutilities.LoggerLoad1)-Python code is incorrect---Enter Correctly
+[INFO ]2024-02-0511:09:19.650[TestNG-PoolService-22]dsutilities.LoggerLoad1)-Python code is incorrect---Enter Correctly
+[INFO ]2024-02-0511:09:20.815[TestNG-PoolService-40]dsutilities.LoggerLoad1)-Python code is incorrect---Enter Correctly
+[INFO ]2024-02-0511:09:21.269[TestNG-PoolService-14]dsutilities.LoggerLoad1)-Python code is incorrect---Enter Correctly
+[INFO ]2024-02-0511:09:22.243[TestNG-PoolService-41]dsutilities.LoggerLoad1)-Python code is incorrect---Enter Correctly
+[INFO ]2024-02-0511:09:22.567[TestNG-PoolService-42]dsutilities.LoggerLoad1)-Python code is incorrect---Enter Correctly
+[INFO ]2024-02-0511:09:24.154[TestNG-PoolService-1]dsutilities.LoggerLoad1)-Python code is incorrect---Enter Correctly
+[INFO ]2024-02-0511:09:24.277[TestNG-PoolService-3]dsutilities.LoggerLoad1)-Python code is incorrect---Enter Correctly
+[INFO ]2024-02-0511:09:27.545[TestNG-PoolService-19]dsutilities.LoggerLoad1)-Python code is incorrect---Enter Correctly
+[INFO ]2024-02-0511:09:27.545[TestNG-PoolService-11]dsutilities.LoggerLoad1)-Python code is incorrect---Enter Correctly
+[INFO ]2024-02-0511:09:27.877[TestNG-PoolService-16]dsutilities.LoggerLoad1)-Python code is incorrect---Enter Correctly
+[INFO ]2024-02-0511:09:30.333[TestNG-PoolService-2]dsutilities.LoggerLoad1)-Python code is incorrect---Enter Correctly
+[INFO ]2024-02-0511:09:30.957[TestNG-PoolService-24]dsutilities.LoggerLoad1)-Python code is incorrect---Enter Correctly
+[INFO ]2024-02-0511:09:31.072[TestNG-PoolService-23]dsutilities.LoggerLoad1)-Python code is incorrect---Enter Correctly
+[INFO ]2024-02-0511:09:31.508[TestNG-PoolService-17]dsutilities.LoggerLoad1)-Python code is incorrect---Enter Correctly
+[INFO ]2024-02-0511:09:35.819[TestNG-PoolService-35]dsutilities.LoggerLoad1)-Python code is incorrect---Enter Correctly
+[INFO ]2024-02-0511:09:36.741[TestNG-PoolService-18]dsutilities.LoggerLoad1)-Python code is incorrect---Enter Correctly
+[INFO ]2024-02-0511:09:40.113[TestNG-PoolService-34]dsutilities.LoggerLoad1)-Python code is incorrect---Enter Correctly
+[INFO ]2024-02-0511:09:43.356[TestNG-PoolService-8]dsutilities.LoggerLoad1)-Python code is incorrect---Enter Correctly
+[INFO ]2024-02-0511:09:45.024[TestNG-PoolService-33]dsutilities.LoggerLoad1)-Python code is incorrect---Enter Correctly
+[INFO ]2024-02-0511:09:45.922[TestNG-PoolService-13]dsutilities.LoggerLoad1)-Python code is incorrect---Enter Correctly
+[INFO ]2024-02-0511:09:45.988[TestNG-PoolService-30]dsutilities.LoggerLoad1)-Python code is incorrect---Enter Correctly
+[INFO ]2024-02-0511:09:47.272[TestNG-PoolService-38]dsutilities.LoggerLoad1)-Python code is incorrect---Enter Correctly
+[INFO ]2024-02-0511:09:57.019[TestNG-PoolService-31]dsutilities.LoggerLoad1)-Python code is incorrect---Enter Correctly
+[INFO ]2024-02-0511:10:05.983[TestNG-PoolService-11]dsutilities.LoggerLoad1)-The output is :Hello
+[INFO ]2024-02-0511:10:08.557[TestNG-PoolService-37]dsutilities.LoggerLoad1)-The output is :Hello
+[INFO ]2024-02-0511:10:12.939[TestNG-PoolService-0]dsutilities.LoggerLoad1)-The output is :Hello
+[INFO ]2024-02-0511:10:14.366[TestNG-PoolService-26]dsutilities.LoggerLoad1)-The output is :Hello
+[INFO ]2024-02-0511:10:14.884[TestNG-PoolService-24]dsutilities.LoggerLoad1)-The output is :Hello
+[INFO ]2024-02-0511:10:19.611[TestNG-PoolService-24]dsutilities.LoggerLoad1)-User clicked on signout
+[INFO ]2024-02-0511:10:21.740[TestNG-PoolService-26]dsutilities.LoggerLoad1)-User clicked on signout
+[INFO ]2024-02-0511:10:23.151[TestNG-PoolService-30]dsutilities.LoggerLoad1)-The output is :Hello
+[INFO ]2024-02-0511:10:30.240[TestNG-PoolService-11]dsutilities.LoggerLoad1)-User clicked on signout
+[INFO ]2024-02-0511:10:33.510[TestNG-PoolService-30]dsutilities.LoggerLoad1)-User clicked on signout
+[INFO ]2024-02-0511:10:36.802[TestNG-PoolService-18]dsutilities.LoggerLoad1)-The output is :Hello
+[INFO ]2024-02-0511:10:37.238[TestNG-PoolService-33]dsutilities.LoggerLoad1)-The output is :Hello
+[INFO ]2024-02-0511:10:41.314[TestNG-PoolService-33]dsutilities.LoggerLoad1)-User clicked on signout
+[INFO ]2024-02-0511:10:46.782[TestNG-PoolService-4]dsutilities.LoggerLoad1)-The output is :564 is Number is Not Found
+564 is Number is Not Found
+564 is Number is Not Found
+564 is Number is Not Found
+564 is Number is Not Found
+[INFO ]2024-02-0511:10:48.324[TestNG-PoolService-37]dsutilities.LoggerLoad1)-User clicked on signout
+[INFO ]2024-02-0511:10:50.095[TestNG-PoolService-14]dsutilities.LoggerLoad1)-The output is :Hello
+[INFO ]2024-02-0511:10:50.556[TestNG-PoolService-19]dsutilities.LoggerLoad1)-The output is :Hello
+[INFO ]2024-02-0511:10:51.830[TestNG-PoolService-27]dsutilities.LoggerLoad1)-The output is :Hello
+[INFO ]2024-02-0511:10:52.371[TestNG-PoolService-0]dsutilities.LoggerLoad1)-User clicked on signout
+[INFO ]2024-02-0511:10:52.870[TestNG-PoolService-18]dsutilities.LoggerLoad1)-User clicked on signout
+[INFO ]2024-02-0511:10:53.097[TestNG-PoolService-22]dsutilities.LoggerLoad1)-The output is :Hello
+[INFO ]2024-02-0511:10:59.549[TestNG-PoolService-39]dsutilities.LoggerLoad1)-The output is :Hello
+[INFO ]2024-02-0511:11:00.251[TestNG-PoolService-14]dsutilities.LoggerLoad1)-User clicked on signout
+[INFO ]2024-02-0511:11:00.407[TestNG-PoolService-19]dsutilities.LoggerLoad1)-User clicked on signout
+[INFO ]2024-02-0511:11:00.582[TestNG-PoolService-28]dsutilities.LoggerLoad1)-The output is :Hello
+[INFO ]2024-02-0511:11:01.750[TestNG-PoolService-21]dsutilities.LoggerLoad1)-The output is :Hello
+[INFO ]2024-02-0511:11:02.246[TestNG-PoolService-42]dsutilities.LoggerLoad1)-The output is :Hello
+[INFO ]2024-02-0511:11:02.724[TestNG-PoolService-16]dsutilities.LoggerLoad1)-The output is :Hello
+[INFO ]2024-02-0511:11:02.753[TestNG-PoolService-40]dsutilities.LoggerLoad1)-The output is :Hello
+[INFO ]2024-02-0511:11:03.385[TestNG-PoolService-27]dsutilities.LoggerLoad1)-User clicked on signout
+[INFO ]2024-02-0511:11:05.194[TestNG-PoolService-34]dsutilities.LoggerLoad1)-The output is :Hello
+[INFO ]2024-02-0511:11:05.255[TestNG-PoolService-22]dsutilities.LoggerLoad1)-User clicked on signout
+[INFO ]2024-02-0511:11:05.352[TestNG-PoolService-2]dsutilities.LoggerLoad1)-The output is :Hello
+[INFO ]2024-02-0511:11:07.290[TestNG-PoolService-1]dsutilities.LoggerLoad1)-The output is :Hello
+[INFO ]2024-02-0511:11:07.606[TestNG-PoolService-3]dsutilities.LoggerLoad1)-The output is :Hello
+[INFO ]2024-02-0511:11:08.753[TestNG-PoolService-28]dsutilities.LoggerLoad1)-User clicked on signout
+[INFO ]2024-02-0511:11:09.236[TestNG-PoolService-8]dsutilities.LoggerLoad1)-The output is :Hello
+[INFO ]2024-02-0511:11:09.926[TestNG-PoolService-39]dsutilities.LoggerLoad1)-User clicked on signout
+[INFO ]2024-02-0511:11:10.001[TestNG-PoolService-23]dsutilities.LoggerLoad1)-The output is :Hello
+[INFO ]2024-02-0511:11:10.730[TestNG-PoolService-41]dsutilities.LoggerLoad1)-The output is :Hello
+[INFO ]2024-02-0511:11:11.876[TestNG-PoolService-17]dsutilities.LoggerLoad1)-The output is :Hello
+[INFO ]2024-02-0511:11:12.152[TestNG-PoolService-34]dsutilities.LoggerLoad1)-User clicked on signout
+[INFO ]2024-02-0511:11:12.201[TestNG-PoolService-40]dsutilities.LoggerLoad1)-User clicked on signout
+[INFO ]2024-02-0511:11:12.268[TestNG-PoolService-16]dsutilities.LoggerLoad1)-User clicked on signout
+[INFO ]2024-02-0511:11:13.322[TestNG-PoolService-35]dsutilities.LoggerLoad1)-The output is :Hello
+[INFO ]2024-02-0511:11:14.500[TestNG-PoolService-1]dsutilities.LoggerLoad1)-User clicked on signout
+[INFO ]2024-02-0511:11:14.632[TestNG-PoolService-23]dsutilities.LoggerLoad1)-User clicked on signout
+[INFO ]2024-02-0511:11:15.246[TestNG-PoolService-2]dsutilities.LoggerLoad1)-User clicked on signout
+[INFO ]2024-02-0511:11:15.452[TestNG-PoolService-41]dsutilities.LoggerLoad1)-User clicked on signout
+[INFO ]2024-02-0511:11:15.504[TestNG-PoolService-21]dsutilities.LoggerLoad1)-User clicked on signout
+[INFO ]2024-02-0511:11:15.864[TestNG-PoolService-42]dsutilities.LoggerLoad1)-In Practice Question Page - https://dsportalapp.herokuapp.com/tree/practice
+[INFO ]2024-02-0511:11:16.729[TestNG-PoolService-38]dsutilities.LoggerLoad1)-The output is :Hello
+[INFO ]2024-02-0511:11:16.934[TestNG-PoolService-35]dsutilities.LoggerLoad1)-User clicked on signout
+[INFO ]2024-02-0511:11:17.068[TestNG-PoolService-13]dsutilities.LoggerLoad1)-The output is :Hello
+[INFO ]2024-02-0511:11:17.130[TestNG-PoolService-42]dsutilities.LoggerLoad1)-User clicked on signout
+[INFO ]2024-02-0511:11:17.481[TestNG-PoolService-3]dsutilities.LoggerLoad1)-User clicked on signout
+[INFO ]2024-02-0511:11:17.927[TestNG-PoolService-17]dsutilities.LoggerLoad1)-User clicked on signout
+[INFO ]2024-02-0511:11:18.199[TestNG-PoolService-8]dsutilities.LoggerLoad1)-User clicked on signout
+[INFO ]2024-02-0511:11:18.388[TestNG-PoolService-31]dsutilities.LoggerLoad1)-The output is :Hello
+[INFO ]2024-02-0511:11:18.420[TestNG-PoolService-13]dsutilities.LoggerLoad1)-User clicked on signout
+[INFO ]2024-02-0511:11:18.447[TestNG-PoolService-38]dsutilities.LoggerLoad1)-User clicked on signout
+[INFO ]2024-02-0511:11:19.309[TestNG-PoolService-31]dsutilities.LoggerLoad1)-User clicked on signout
+[INFO ]2024-02-0511:11:19.898[TestNG-PoolService-4]dsutilities.LoggerLoad1)-
+[INFO ]2024-02-0511:11:29.359[TestNG-PoolService-4]dsutilities.LoggerLoad1)-The output is :564 is Number is Not Found
+564 is Number is Not Found
+564 is Number is Not Found
+564 is Number is Not Found
+564 is Number is Not Found
+[INFO ]2024-02-0511:11:31.131[TestNG-PoolService-4]dsutilities.LoggerLoad1)-
+[INFO ]2024-02-0511:11:34.188[TestNG-PoolService-4]dsutilities.LoggerLoad1)-The output is :564 is Number is Not Found
+564 is Number is Not Found
+564 is Number is Not Found
+564 is Number is Not Found
+564 is Number is Not Found
+[INFO ]2024-02-0511:11:35.503[TestNG-PoolService-4]dsutilities.LoggerLoad1)-User clicked on signout

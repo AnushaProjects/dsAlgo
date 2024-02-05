@@ -14,6 +14,7 @@ Feature: Array
     Then It throws an Alert
     When The user enters Valid Python code in the tryEditor and clicks on Run button
     Then The Output displays in Console
+    When The user clicks on the "Sign out"
 
   @ArrayFlow2
   Scenario: Array Flow - Arrays Using List
@@ -28,6 +29,7 @@ Feature: Array
     Then It throws an Alert
     When The user enters Valid Python code in the tryEditor and clicks on Run button
     Then The Output displays in Console
+    When The user clicks on the "Sign out"
 
   @ArrayFlow3
   Scenario: Array Flow - Basic Operations in Lists
@@ -42,6 +44,7 @@ Feature: Array
     Then It throws an Alert
     When The user enters Valid Python code in the tryEditor and clicks on Run button
     Then The Output displays in Console
+    When The user clicks on the "Sign out"
 
   @ArrayFlow4
   Scenario: Array Flow - Applications of Array
@@ -56,6 +59,7 @@ Feature: Array
     Then It throws an Alert
     When The user enters Valid Python code in the tryEditor and clicks on Run button
     Then The Output displays in Console
+    When The user clicks on the "Sign out"
 
   @ArrayFlow5
   Scenario: Array Flow - Array Practice
@@ -68,4 +72,5 @@ Feature: Array
     Then The user should be redirected to "Practice" page
     When The could see the number of links to practice
     When The User clicks on each links to Practice the code in tryEditor with a Submit button to test
+    When The user clicks on the "Sign out"
     

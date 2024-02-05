@@ -14,6 +14,7 @@ Feature: Signing In
     Then It should display an error message "Invalid Username and Password"
     When The user clicks "Login" button after entering ValidUsername and ValidPassword in username and password fields
     Then It should redirected to homepage.
+    When The user clicks "Sign out"
 
     Examples: 
       | InvalidUsername | InvalidPassword |

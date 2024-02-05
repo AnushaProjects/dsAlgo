@@ -19,7 +19,7 @@ public class DSalgoHooks {
 	
 	
 	TestBase testbase=new TestBase();
-	//HomePage hp=new HomePage();
+	HomePage hp=new HomePage();
 	CommonUtilMethods commonutil=new CommonUtilMethods();
 	
 	
@@ -58,6 +58,7 @@ public class DSalgoHooks {
 	
 @After
 public void driverClose() {
+	
 	if (DriverManager.getDriver() != null) {
 		DriverManager.getDriver().quit();
 	

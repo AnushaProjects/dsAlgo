@@ -116,10 +116,10 @@
 				<properties>
 		       		<property>
 		            <name>dataproviderthreadcount</name>
-		            <value>50</value>
+		            <value>60</value>
 		        </property>
 		         <parallel>tests</parallel>
-    			<threadCount>5</threadCount>
+    			<threadCount>4</threadCount>
 		   		 </properties>
 					<systemPropertyVariables>
 						<browser>chrome</browser>						
