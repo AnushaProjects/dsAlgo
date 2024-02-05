@@ -18,7 +18,7 @@ import io.cucumber.testng.CucumberOptions;
 				
 				glue= {"dsalgo_stepdefinition","dsalgoHooks"},
 			
-				tags = "not @Array",
+//				tags = "not @Array",
 				
 						
 //				dryRun = true,
