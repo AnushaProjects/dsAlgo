@@ -12390,3 +12390,13 @@
 564 is Number is Not Found
 564 is Number is Not Found
 [INFO ]2024-02-0511:11:35.503[TestNG-PoolService-4]dsutilities.LoggerLoad1)-User clicked on signout
+[INFO ]2024-02-0515:41:35.871[TestNG-PoolService-0]dsutilities.LoggerLoad1)-Execution Started
+[INFO ]2024-02-0515:41:35.872[TestNG-PoolService-0]dsutilities.LoggerLoad1)-Loading the Property File
+[INFO ]2024-02-0515:41:35.873[TestNG-PoolService-0]dsutilities.LoggerLoad1)-Launching -chrome
+[INFO ]2024-02-0515:41:45.602[TestNG-PoolService-0]dsutilities.LoggerLoad1)-Inside Home Page
+[INFO ]2024-02-0515:41:45.605[TestNG-PoolService-0]dsutilities.LoggerLoad1)-Inside HomePage
+[INFO ]2024-02-0515:41:47.040[TestNG-PoolService-0]dsutilities.LoggerLoad1)-The alert message - You are not logged in
+[INFO ]2024-02-0515:41:47.720[TestNG-PoolService-0]dsutilities.LoggerLoad1)-The User selected random data
+[INFO ]2024-02-0515:41:47.767[TestNG-PoolService-0]dsutilities.LoggerLoad1)-The alert message - You are not logged in
+[INFO ]2024-02-0515:41:48.467[TestNG-PoolService-0]dsutilities.LoggerLoad1)-User clicked on Register
+[INFO ]2024-02-0515:41:48.523[TestNG-PoolService-0]dsutilities.LoggerLoad1)-User redirected to Register form 

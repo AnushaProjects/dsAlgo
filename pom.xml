@@ -119,7 +119,7 @@
 		            <value>60</value>
 		        </property>
 		         <parallel>tests</parallel>
-    			<threadCount>6</threadCount>
+    			<threadCount>7</threadCount>
 		   		 </properties>
 					<systemPropertyVariables>
 						<browser>chrome</browser>						
