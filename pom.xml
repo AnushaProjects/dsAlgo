@@ -118,14 +118,12 @@
 				<properties>
 		       		<property>
 		            <name>dataproviderthreadcount</name>
-		            <value>60</value>
+		            <value>100</value>
 		        </property>
 		         <parallel>tests</parallel>
     			<threadCount>10</threadCount>
 		   		 </properties>
-					<systemPropertyVariables>
-						<browser>chrome</browser>						
-					</systemPropertyVariables>
+				
 				</configuration>
 			</plugin>
 		</plugins>
