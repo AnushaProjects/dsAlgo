@@ -129,7 +129,7 @@
         <properties>
             <dataproviderthreadcount>50</dataproviderthreadcount>
             <parallel>tests</parallel>
-            <threadCount>6</threadCount>
+            <threadCount>7</threadCount>
         </properties>
         <systemPropertyVariables>
                     <browser>${browser}</browser>
