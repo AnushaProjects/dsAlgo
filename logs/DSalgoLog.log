@@ -15287,3 +15287,55 @@
 [INFO ]2024-02-0600:05:10.694[TestNG-PoolService-3]dsutilities.LoggerLoad1)-Testing on edge -edge
 [INFO ]2024-02-0600:05:10.694[TestNG-PoolService-4]dsutilities.LoggerLoad1)-Testing on edge -edge
 [INFO ]2024-02-0600:05:10.694[TestNG-PoolService-0]dsutilities.LoggerLoad1)-Testing on edge -edge
+[INFO ]2024-02-0600:31:23.063[TestNG-PoolService-1]dsutilities.LoggerLoad1)-Execution Started
+[INFO ]2024-02-0600:31:23.063[TestNG-PoolService-0]dsutilities.LoggerLoad1)-Execution Started
+[INFO ]2024-02-0600:31:23.065[TestNG-PoolService-1]dsutilities.LoggerLoad1)-Loading the Property File
+[INFO ]2024-02-0600:31:23.065[TestNG-PoolService-0]dsutilities.LoggerLoad1)-Loading the Property File
+[INFO ]2024-02-0600:31:23.065[TestNG-PoolService-0]dsutilities.LoggerLoad1)-Testing on edge -edge
+[INFO ]2024-02-0600:31:23.065[TestNG-PoolService-1]dsutilities.LoggerLoad1)-Testing on edge -edge
+[INFO ]2024-02-0600:31:42.063[TestNG-PoolService-0]dsutilities.LoggerLoad1)-The user is in the Home page after logged in
+[INFO ]2024-02-0600:31:42.063[TestNG-PoolService-1]dsutilities.LoggerLoad1)-The user is in the Home page after logged in
+[INFO ]2024-02-0600:31:43.930[TestNG-PoolService-1]dsutilities.LoggerLoad1)-Group1@dslgo
+[INFO ]2024-02-0600:31:43.930[TestNG-PoolService-0]dsutilities.LoggerLoad1)-Group1@dslgo
+[INFO ]2024-02-0600:31:43.930[TestNG-PoolService-1]dsutilities.LoggerLoad1)-dsalgo2024
+[INFO ]2024-02-0600:31:43.930[TestNG-PoolService-0]dsutilities.LoggerLoad1)-dsalgo2024
+[INFO ]2024-02-0600:31:46.823[TestNG-PoolService-1]dsutilities.LoggerLoad1)-Clicked the DSIntroduction get started button
+[INFO ]2024-02-0600:31:46.928[TestNG-PoolService-1]dsutilities.LoggerLoad1)-User directed to DataStructure Introduction Page
+[INFO ]2024-02-0600:31:46.991[TestNG-PoolService-0]dsutilities.LoggerLoad1)-Clicked the DSIntroduction get started button
+[INFO ]2024-02-0600:31:47.159[TestNG-PoolService-0]dsutilities.LoggerLoad1)-User directed to DataStructure Introduction Page
+[INFO ]2024-02-0600:31:47.188[TestNG-PoolService-1]dsutilities.LoggerLoad1)-Clicked on Time Complexitylink
+[INFO ]2024-02-0600:31:47.369[TestNG-PoolService-1]dsutilities.LoggerLoad1)-Clicked the DS practice link
+[INFO ]2024-02-0600:31:47.375[TestNG-PoolService-1]dsutilities.LoggerLoad1)-In Practice Question Page - https://dsportalapp.herokuapp.com/data-structures-introduction/practice
+[INFO ]2024-02-0600:31:47.525[TestNG-PoolService-0]dsutilities.LoggerLoad1)-Clicked on Time Complexitylink
+[INFO ]2024-02-0600:31:47.684[TestNG-PoolService-1]dsutilities.LoggerLoad1)-User clicked on signout
+[INFO ]2024-02-0600:31:49.520[TestNG-PoolService-0]dsutilities.LoggerLoad1)-tryEditor with a Run button is displayed
+[INFO ]2024-02-0600:31:49.723[TestNG-PoolService-0]dsutilities.LoggerLoad1)-User directed to TextEditor Page
+[INFO ]2024-02-0600:31:58.761[TestNG-PoolService-0]dsutilities.LoggerLoad1)-Python code is incorrect---Enter Correctly
+[INFO ]2024-02-0600:32:04.762[TestNG-PoolService-0]dsutilities.LoggerLoad1)-The output is :Hello
+[INFO ]2024-02-0600:32:07.038[TestNG-PoolService-0]dsutilities.LoggerLoad1)-User clicked on signout
+[INFO ]2024-02-0600:40:02.427[TestNG-PoolService-0]dsutilities.LoggerLoad1)-Execution Started
+[INFO ]2024-02-0600:40:02.427[TestNG-PoolService-1]dsutilities.LoggerLoad1)-Execution Started
+[INFO ]2024-02-0600:40:02.428[TestNG-PoolService-1]dsutilities.LoggerLoad1)-Loading the Property File
+[INFO ]2024-02-0600:40:02.428[TestNG-PoolService-0]dsutilities.LoggerLoad1)-Loading the Property File
+[INFO ]2024-02-0600:40:02.429[TestNG-PoolService-1]dsutilities.LoggerLoad1)-Testing on edge -edge
+[INFO ]2024-02-0600:40:02.429[TestNG-PoolService-0]dsutilities.LoggerLoad1)-Testing on edge -edge
+[INFO ]2024-02-0600:40:13.342[TestNG-PoolService-0]dsutilities.LoggerLoad1)-The user is in the Home page after logged in
+[INFO ]2024-02-0600:40:13.396[TestNG-PoolService-1]dsutilities.LoggerLoad1)-The user is in the Home page after logged in
+[INFO ]2024-02-0600:40:15.088[TestNG-PoolService-1]dsutilities.LoggerLoad1)-Group1@dslgo
+[INFO ]2024-02-0600:40:15.088[TestNG-PoolService-0]dsutilities.LoggerLoad1)-Group1@dslgo
+[INFO ]2024-02-0600:40:15.088[TestNG-PoolService-1]dsutilities.LoggerLoad1)-dsalgo2024
+[INFO ]2024-02-0600:40:15.088[TestNG-PoolService-0]dsutilities.LoggerLoad1)-dsalgo2024
+[INFO ]2024-02-0600:40:18.010[TestNG-PoolService-0]dsutilities.LoggerLoad1)-Clicked the DSIntroduction get started button
+[INFO ]2024-02-0600:40:18.114[TestNG-PoolService-0]dsutilities.LoggerLoad1)-User directed to DataStructure Introduction Page
+[INFO ]2024-02-0600:40:18.333[TestNG-PoolService-1]dsutilities.LoggerLoad1)-Clicked the DSIntroduction get started button
+[INFO ]2024-02-0600:40:18.433[TestNG-PoolService-1]dsutilities.LoggerLoad1)-User directed to DataStructure Introduction Page
+[INFO ]2024-02-0600:40:18.478[TestNG-PoolService-0]dsutilities.LoggerLoad1)-Clicked on Time Complexitylink
+[INFO ]2024-02-0600:40:18.717[TestNG-PoolService-1]dsutilities.LoggerLoad1)-Clicked on Time Complexitylink
+[INFO ]2024-02-0600:40:18.934[TestNG-PoolService-1]dsutilities.LoggerLoad1)-Clicked the DS practice link
+[INFO ]2024-02-0600:40:18.940[TestNG-PoolService-1]dsutilities.LoggerLoad1)-In Practice Question Page - https://dsportalapp.herokuapp.com/data-structures-introduction/practice
+[INFO ]2024-02-0600:40:19.226[TestNG-PoolService-1]dsutilities.LoggerLoad1)-User clicked on signout
+[INFO ]2024-02-0600:40:20.352[TestNG-PoolService-0]dsutilities.LoggerLoad1)-tryEditor with a Run button is displayed
+[INFO ]2024-02-0600:40:20.568[TestNG-PoolService-0]dsutilities.LoggerLoad1)-User directed to TextEditor Page
+[INFO ]2024-02-0600:40:29.387[TestNG-PoolService-0]dsutilities.LoggerLoad1)-Python code is incorrect---Enter Correctly
+[INFO ]2024-02-0600:40:34.777[TestNG-PoolService-0]dsutilities.LoggerLoad1)-The output is :Hello
+[INFO ]2024-02-0600:40:35.782[TestNG-PoolService-0]dsutilities.LoggerLoad1)-User clicked on signout
