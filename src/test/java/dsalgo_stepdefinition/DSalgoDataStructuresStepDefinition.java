@@ -34,7 +34,7 @@ public class DSalgoDataStructuresStepDefinition {
 	@When("The user clicks on Get Started button")
 	public void user_clicks_on_get_started_button() {
 		Assert.assertEquals(true, dsPg.getstarted.isDisplayed());
-		Assert.assertEquals(dsPg.getstarted.getText(),"Get tarted");
+		Assert.assertEquals(dsPg.getstarted.getText(),"Get Started");
 		dsPg.getstarted.click();
 		LoggerLoad.info("Clicked the DSIntroduction get started button");
 	}
