@@ -7,6 +7,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
 import org.openqa.selenium.edge.EdgeDriver;
+import org.openqa.selenium.edge.EdgeOptions;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.safari.SafariDriver;
 import org.testng.annotations.BeforeTest;
@@ -22,6 +23,7 @@ public class DriverManager {
 
 	//private static WebDriver driver;
 	public static ChromeOptions co=new ChromeOptions();
+	public static EdgeOptions ed=new EdgeOptions();
 	//public static String browser;
 
 	
@@ -38,11 +40,14 @@ public class DriverManager {
 		if(browser.equalsIgnoreCase("chrome")) {
 			LoggerLoad.info("Testing on chrome -" +browser);
 			co.setPageLoadStrategy(PageLoadStrategy.EAGER);
+			co.addArguments("--headless=new");
 			driver.set(new ChromeDriver(co));	
 		}
 		else if(browser.equalsIgnoreCase("edge")) {
 			LoggerLoad.info("Testing on edge -" +browser);
-			driver.set(new EdgeDriver());	
+			ed.setPageLoadStrategy(PageLoadStrategy.EAGER);
+			ed.addArguments("--headless=new");
+			driver.set(new EdgeDriver(ed));	
 		}
 		else if(browser.equalsIgnoreCase("firefox")) {
 			LoggerLoad.info("Testing on firefox -" +browser);
