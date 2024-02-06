@@ -28,6 +28,7 @@ public class DSStackStepDefinition {
 	public void user_clicks_on_stack_get_started_button() {
 		wait.until(ExpectedConditions.visibilityOf(stackpg.stack_getStarted));
 		Assert.assertEquals(true, stackpg.stack_getStarted.isDisplayed());
+		Assert.assertEquals(stackpg.stack_getStarted.getText(),"Get Started");
 		stackpg.stack_getStarted.click();
 		LoggerLoad.info("Clicked the Stack Page get started button");
 	    

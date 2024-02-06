@@ -105,6 +105,11 @@
 <build>
 		<plugins>
 			<plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-failsafe-plugin</artifactId>
+                <version>3.2.5</version>
+                </plugin>
+			<plugin>
             <groupId>io.qameta.allure</groupId>
             <artifactId>allure-maven</artifactId>
             <version>2.10.0</version>
@@ -122,9 +127,9 @@
             <suiteXmlFile>testng.xml</suiteXmlFile>
         </suiteXmlFiles>
         <properties>
-            <dataproviderthreadcount>80</dataproviderthreadcount>
+            <dataproviderthreadcount>100</dataproviderthreadcount>
             <parallel>tests</parallel>
-            <threadCount>6</threadCount>
+            <threadCount>8</threadCount>
         </properties>
         <systemPropertyVariables>
                     <browser>${browser}</browser>

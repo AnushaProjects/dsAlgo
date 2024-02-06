@@ -37,6 +37,7 @@ public class DSalgoArrayStepDefinition {
 public void user_clicks_on_array_get_started_button() {
 	wait.until(ExpectedConditions.visibilityOf(arrayPg.Getstarted));
 	Assert.assertEquals(true, arrayPg.Getstarted.isDisplayed());
+	Assert.assertEquals(arrayPg.Getstarted.getText(),"Get Started");
 	arrayPg.Getstarted.click();
 	LoggerLoad.info("Clicked the Array Page get started button");
     

@@ -26,6 +26,7 @@ public class DSLinkedListStepDefinition {
 	public void user_clicks_on_linkedlist_get_started_button() {
 		wait.until(ExpectedConditions.visibilityOf(linkedpg.linked_getStarted));
 		Assert.assertEquals(true, linkedpg.linked_getStarted.isDisplayed());
+		Assert.assertEquals(linkedpg.linked_getStarted.getText(),"Get Started");
 		linkedpg.linked_getStarted.click();
 		LoggerLoad.info("Clicked the Linked List Page get started button");
 	}

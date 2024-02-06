@@ -29,6 +29,7 @@ public class DSTreeStepDefinition {
 			LoggerLoad.info("Checking for Tree GetStarted Button");
 			wait.until(ExpectedConditions.visibilityOf(treePg.tree_getStarted));
 	    	Assert.assertEquals(true,treePg.tree_getStarted.isDisplayed());
+	    	Assert.assertEquals(treePg.tree_getStarted.getText(),"Get Started");
 	    	treePg.tree_getStarted.click();
 		   LoggerLoad.info("Clicked on Get started of Tree");
 	   }

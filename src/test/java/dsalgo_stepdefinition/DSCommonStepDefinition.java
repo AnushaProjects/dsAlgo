@@ -69,7 +69,7 @@ public void the_user_should_be_directed_to_page(String new_page) {
 		LoggerLoad.info("User directed to Tree Page");
 		DsalgoVariables.tree_main_page=DriverManager.getDriver().getCurrentUrl();
 		System.out.println(DsalgoVariables.tree_main_page);
-		Assert.assertEquals(DsalgoVariables.tree_main_page, "https://dsportalapp.herokuapp.com/tre/");
+		Assert.assertEquals(DsalgoVariables.tree_main_page, "https://dsportalapp.herokuapp.com/tree/");
 		LoggerLoad.info("Landed on to Tree Page - " +DsalgoVariables.tree_main_page);
 		
 	}

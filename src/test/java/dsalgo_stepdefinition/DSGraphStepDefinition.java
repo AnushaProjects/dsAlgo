@@ -28,6 +28,7 @@ public class DSGraphStepDefinition {
 	public void user_clicks_on_graph_get_started_button() {
 		wait.until(ExpectedConditions.visibilityOf(graphpg.graph_getStarted));
 		Assert.assertEquals(true, graphpg.graph_getStarted.isDisplayed());
+		Assert.assertEquals(graphpg.graph_getStarted.getText(),"Get Started");
 		graphpg.graph_getStarted.click();
 		LoggerLoad.info("Clicked the Graph Page get started button");
 	    

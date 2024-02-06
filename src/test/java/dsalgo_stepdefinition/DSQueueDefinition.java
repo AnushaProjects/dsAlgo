@@ -27,6 +27,7 @@ public class DSQueueDefinition {
 	public void user_clicks_on_queue_get_started_button() {
 		wait.until(ExpectedConditions.visibilityOf(queuepg.queue_getStarted));
 		Assert.assertEquals(true, queuepg.queue_getStarted.isDisplayed());
+		Assert.assertEquals(queuepg.queue_getStarted.getText(),"Get Started");
 		queuepg.queue_getStarted.click();
 		LoggerLoad.info("Clicked the Queue Page get started button");
 	    
