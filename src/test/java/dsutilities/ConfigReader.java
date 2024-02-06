@@ -18,14 +18,35 @@ import dsalgoPOM.StackPage;
 import dsalgoPOM.TreePage;
 import dsalgo_webdriver_manager.DriverManager;
 
-public class TestBase {
+public class ConfigReader {
 
 	
 	public Properties prop;
-
+	//private static String browserType = null;
+	private static String browserType = null;
 	
+	
+	public static String getBrowserType() throws Throwable {
+		if (browserType != null)
+
+			return browserType;
+
+		else
+
+			throw new RuntimeException("browser not specified in the testng.xml");
+	}
+
+
+
+	public static void setBrowserType(String browser) {
+		browserType = browser;
+	}
+
+
+
 	public void loadProperties() {
 		prop=new Properties();
+		
 		FileInputStream fis=null;
 		try {
 			fis = new FileInputStream("/Users/anushakarthick/NumpyNinja/dsalgo/src/test/resources/config/config.properties");
@@ -39,13 +60,38 @@ public class TestBase {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
-		DsalgoVariables.browser=prop.getProperty("browser");
+		//DsalgoVariables.browser=prop.getProperty("browser");
 		DsalgoVariables.URL=prop.getProperty("url");
 		DsalgoVariables.username=prop.getProperty("username");
 		DsalgoVariables.password=prop.getProperty("password");
 
 	}
 	
+	
+
+//	public static void setBrowserType(String browser) {
+//		
+//		browserType = browser;
+//		System.out.println(browser);
+//		System.out.println(browserType);
+//		
+//	}
+//	
+//	public static String getBrowserType() throws Throwable{
+//		if (browserType != null) {
+//			return browserType;
+//		}
+//		else {
+//		
+//			throw new RuntimeException("browser not specified in the testng.xml");
+//		}
+//	}
+
+
+
+
+
+
 	public static void initElements() {
 		PageFactory.initElements(DriverManager.getDriver(),HomePage.class);
 		PageFactory.initElements(DriverManager.getDriver(),RegisterationLoginPage.class);

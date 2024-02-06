@@ -33,7 +33,7 @@ public class DSalgoHomePageStepDefinition {
 	//HomePage//sigin
 	@Given("The user opens Home Page")
 	public void the_user_opens_home_page() {
-		System.out.println("Hello");
+		//System.out.println("Hello");
 		wait.until(ExpectedConditions.visibilityOf(hp.getSignin_link()));
 		Assert.assertEquals(true, hp.getSignin_link().isDisplayed());
 		LoggerLoad.info("Inside Home Page");

@@ -1,12 +1,20 @@
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 <suite name="Dsalgo Suit" parallel="methods" thread-count="7" >
-	<test name="DsalgoHomePage">
-		<classes >
-			<class name="testrunner.TestRunner">
-				
-			</class>
-		</classes>
-	</test>
-	
+    
+	 <test name="ChromeTest">
+        <parameter name="Browser" value="chrome" />
+        <classes>
+            <class name="testrunner.TestRunner" />
+        </classes>
+    </test> 
+    
+    
+	<test name="Edge">
+        <parameter name="Browser" value="edge" />
+        <classes>
+            <class name="testrunner.TestRunner" />
+        </classes>
+    </test>
+
 </suite>
 

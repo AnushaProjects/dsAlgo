@@ -74,6 +74,7 @@ public void the_user_clicks_on_each_links_to_practice_the_code_in_try_editor_wit
 		action.keyDown(Keys.CONTROL).sendKeys("A").keyUp(Keys.CONTROL).sendKeys(Keys.DELETE).build().perform();
 		testData.usingExcelSheetForTestData();
 		arrayPg.runBtn.click();
+		//wait.until(ExpectedConditions.visibilityOf(arrayPg.output));
 		System.out.println("The output is :" +arrayPg.output.getText());
 		LoggerLoad.info("The output is :" +arrayPg.output.getText());
 		Assert.assertTrue(arrayPg.output.getText().contains("64 is Number is Not Found"));

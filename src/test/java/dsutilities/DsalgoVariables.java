@@ -6,7 +6,7 @@ public class DsalgoVariables {
 	public static String URL;
 	public static String username;
 	public static String password;
-	public static String browser;
+//	public static String browser=null;
 	public static String tree_main_page;
 	public static String path;
 	public static String python_code;

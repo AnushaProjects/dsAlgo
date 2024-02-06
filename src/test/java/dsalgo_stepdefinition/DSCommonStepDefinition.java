@@ -553,7 +553,6 @@ public void the_user_enters_wrong_input_in_the_try_editor_and_clicks_on_run_butt
 	
 	commonPg.Texteditor.click();
 	
-	
 	action.sendKeys("pri('Hello')").build().perform();
 	
 	commonPg.run_button.click();
@@ -577,6 +576,7 @@ public void it_throws_an_alert() {
 @When("The user enters Valid Python code in the tryEditor and clicks on Run button")
 public void the_user_enters_valid_input_in_the_try_editor_and_clicks_on_run_button() {
 	commonPg.Texteditor1.click();
+	
 	action.keyDown(Keys.CONTROL).sendKeys("A").keyUp(Keys.CONTROL).sendKeys(Keys.DELETE).build().perform();
 	action.sendKeys("print('Hello')").build().perform();
 	//testData.usingExcelSheetForTestData();
@@ -586,6 +586,7 @@ public void the_user_enters_valid_input_in_the_try_editor_and_clicks_on_run_butt
 
 @Then("The Output displays in Console")
 public void the_output_displays_in_console() {
+	
 	System.out.println("The output is :" +commonPg.output.getText());
 	LoggerLoad.info("The output is :" +commonPg.output.getText());
 	Assert.assertTrue(commonPg.output.getText().contains("Hello"));
