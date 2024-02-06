@@ -39,12 +39,12 @@ import io.qameta.allure.Description;
 		    public void defineBrowser(String browser) throws Throwable {
 		        ConfigReader.setBrowserType(browser);
 		    }
-//			@Override
-//		    @DataProvider(parallel = true)
-//		    public Object[][] scenarios() {
-//						
-//				return super.scenarios();
-//		}
+			@Override
+		    @DataProvider(parallel = true)
+		    public Object[][] scenarios() {
+						
+				return super.scenarios();
+		}
 			
 			
 		}
