@@ -24,6 +24,8 @@ public class DSalgoHooks {
 	HomePage hp=new HomePage();
 	CommonUtilMethods commonutil=new CommonUtilMethods();
 	
+
+
 	
 	@Before
 	
@@ -32,8 +34,8 @@ public class DSalgoHooks {
 		try {
 			LoggerLoad.info("Loading the Property File");
 			testbase.loadProperties();
-
-			DriverManager.launchBrowser();
+			String browser = ConfigReader.getBrowserType();
+			DriverManager.launchBrowser(browser);
 			
 			ConfigReader.initElements();
 				

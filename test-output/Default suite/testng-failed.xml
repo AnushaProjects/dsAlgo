@@ -5,8 +5,9 @@
     <classes>
       <class name="testrunner.TestRunner">
         <methods>
+          <include name="defineBrowser"/>
           <include name="setUpClass"/>
-          <include name="runScenario" invocation-numbers="0"/>
+          <include name="runScenario"/>
           <include name="tearDownClass"/>
         </methods>
       </class> <!-- testrunner.TestRunner -->

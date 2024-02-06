@@ -2,19 +2,19 @@
 <suite name="Dsalgo Suit" parallel="methods" thread-count="10" >
     
 	 <test name="ChromeTest">
-        <parameter name="Browser" value="chrome" />
+        <parameter name="Browser" value="${browser}"></parameter>
         <classes>
-            <class name="testrunner.TestRunner" />
+            <class name="testrunner.TestRunner"></class>
         </classes>
     </test> 
     
     
-	<test name="Edge">
-        <parameter name="Browser" value="edge" />
+<!--	<test name="Edge">
+        <parameter name="Browser" value="edge"></parameter>
         <classes>
-            <class name="testrunner.TestRunner" />
+            <class name="testrunner.TestRunner2"></class>
         </classes>
-    </test>
+    </test> -->
 
 </suite>
 

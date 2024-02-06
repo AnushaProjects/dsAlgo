@@ -9,6 +9,8 @@ import org.openqa.selenium.chrome.ChromeOptions;
 import org.openqa.selenium.edge.EdgeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.safari.SafariDriver;
+import org.testng.annotations.BeforeTest;
+import org.testng.annotations.Optional;
 import org.testng.annotations.Parameters;
 
 import dsutilities.ConfigReader;
@@ -28,30 +30,45 @@ public class DriverManager {
 	
 	
 	
-	public static void launchBrowser() throws Throwable {
+	public static void launchBrowser(@Optional("chrome") String browser) {
 		// TODO Auto-generated method stub
-		String browser = ConfigReader.getBrowserType();
+		
 		System.out.println(browser);
 		
-		switch (browser) {
-		case "chrome":
+		if(browser.equalsIgnoreCase("chrome")) {
 			LoggerLoad.info("Testing on chrome -" +browser);
 			co.setPageLoadStrategy(PageLoadStrategy.EAGER);
-			driver.set(new ChromeDriver(co));
-			break;
-		case "firefox":
-			LoggerLoad.info("Testing on firefox -" +browser);
-			driver.set(new FirefoxDriver());
-			break;
-		case "edge":
-			LoggerLoad.info("Testing on edge -" +browser);
-			driver.set(new EdgeDriver()); ;
-			break;	
-		default:
-			LoggerLoad.info("Testing on chrome " +browser);
-			driver.set(new ChromeDriver());
-			break;
+			driver.set(new ChromeDriver(co));	
 		}
+		else if(browser.equalsIgnoreCase("edge")) {
+			LoggerLoad.info("Testing on edge -" +browser);
+			driver.set(new EdgeDriver());	
+		}
+		else if(browser.equalsIgnoreCase("firefox")) {
+			LoggerLoad.info("Testing on firefox -" +browser);
+			driver.set(new FirefoxDriver());	
+		}
+		
+	
+//		switch (browser) {
+//		case "chrome":
+//			LoggerLoad.info("Testing on chrome -" +browser);
+//			co.setPageLoadStrategy(PageLoadStrategy.EAGER);
+//			driver.set(new ChromeDriver(co));
+//			break;
+//		case "firefox":
+//			LoggerLoad.info("Testing on firefox -" +browser);
+//			driver.set(new FirefoxDriver());
+//			break;
+//		case "edge":
+//			LoggerLoad.info("Testing on edge -" +browser);
+//			driver.set(new EdgeDriver()); ;
+//			break;	
+//		default:
+//			LoggerLoad.info("Testing on chrome " +browser);
+//			driver.set(new ChromeDriver());
+//			break;
+//		}
 		
 	}
 
