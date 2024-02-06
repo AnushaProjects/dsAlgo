@@ -1,5 +1,5 @@
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
-<suite name="Dsalgo Suit" parallel="methods" thread-count="6" >
+<suite name="Dsalgo Suit" parallel="methods" thread-count="7" >
   
 
 	 <test name="ChromeTest">
@@ -11,7 +11,7 @@
     
     
 <!--	<test name="Edge">
-        <parameter name="Browser" value="edge"></parameter>
+        <parameter name="Browser" value="${browser}"></parameter>
         <classes>
             <class name="testrunner.TestRunner2"></class>
         </classes>

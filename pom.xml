@@ -127,9 +127,9 @@
             <suiteXmlFile>testng.xml</suiteXmlFile>
         </suiteXmlFiles>
         <properties>
-            <dataproviderthreadcount>100</dataproviderthreadcount>
+            <dataproviderthreadcount>80</dataproviderthreadcount>
             <parallel>tests</parallel>
-            <threadCount>8</threadCount>
+            <threadCount>7</threadCount>
         </properties>
         <systemPropertyVariables>
                     <browser>${browser}</browser>
