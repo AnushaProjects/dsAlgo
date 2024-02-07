@@ -131,9 +131,14 @@
             <parallel>tests</parallel>
             <threadCount>7</threadCount>
         </properties>
+        
         <systemPropertyVariables>
-                    <browser>${browser}</browser>
+                    <browser>chrome</browser>
                 </systemPropertyVariables>
+
+       <systemPropertyVariables>
+                    <browser>${browser}</browser>
+                </systemPropertyVariables> 
 
     </configuration>
 </plugin>
